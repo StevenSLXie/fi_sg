@@ -1,0 +1,9 @@
+.DS_Store
+
+# Working notes are local-only, except the public book outline.
+notes/*
+!notes/proposed-outline.md
+
+# Local writing skill and source materials are not part of the manuscript repo.
+skills/
+source-essays/
