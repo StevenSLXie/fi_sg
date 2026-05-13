@@ -148,6 +148,8 @@ A monthly mortgage payment contains two different things wearing the same bank d
 
 They should not be treated the same.
 
+This is not hard to track. Local banks usually send an annual housing-loan statement that lists, month by month, how much of the year's mortgage payment went to principal and how much went to interest. Use that statement. Do not guess, and do not treat the whole mortgage payment as an expense just because it leaves the bank account in one deduction.
+
 This matters especially in Singapore because housing and CPF are intertwined. A household can look cash-poor while still building wealth through CPF and principal repayment. Another household can look affluent while converting most income into interest, rent, cars, fees, and lifestyle. Without the split, the savings-rate number becomes a mood.
 
 There are more details, but they belong in the next chapter. Insurance premiums, annual bills, school fees, one-off expenses, bonuses, reimbursements, CPF outflows, and net-worth tracking all need a method. A beautiful spreadsheet that dies after three weeks is less useful than an ugly one maintained for four years.
