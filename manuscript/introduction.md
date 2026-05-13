@@ -14,7 +14,7 @@ The first was about savings rate. Take a Singaporean couple earning a combined S
 
 The second surprise was more interesting. Ordinary life in Singapore was not as expensive as the national conversation made it sound — but only because we were buying a different version of Singapore.
 
-Our dining-out spending — restaurants, food courts, kopitiams combined — runs S$150 to S$300 a month. Almost every other meal is cooked at home from supermarket groceries, about S$800-1200 a month. No gym subscription; dumbbells at home. I clean our air-conditioners myself when I can. Most importantly, we do not live in a condo.
+Our dining-out spending — restaurants, food courts, kopitiams combined — runs S$150 to S$300 a month. Almost every other meal is cooked at home from supermarket groceries, about S$800-1200 a month. No recurring fitness subscription. I clean our air-conditioners myself when I can. Most importantly, we do not live in a condo.
 
 We are also not monks. We have two children. We travel three or four times a year, though never to luxury hotels. We own a car, bought when COE was much cheaper. We live in a five-room HDB flat that is, inconveniently for the condo narrative, larger than many new private apartments.
 

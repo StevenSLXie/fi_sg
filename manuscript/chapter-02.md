@@ -10,7 +10,7 @@ This sounds wrong in the way useful arithmetic often sounds wrong.
 
 The high-income graduate does what high-income people are quietly encouraged to do. A nicer rental, or eventually a condo. A car once the COE cycle looks temporarily less insane, which is how COE cycles advertise themselves before becoming insane again. Restaurants as routine rather than occasion. Short trips because the job is stressful and because Changi Airport exists to turn stress into miles. Lifestyle expands with each bonus, which is the polite way of saying that the spreadsheet receives the raise and immediately forwards it to the economy.
 
-The second graduate keeps fixed costs low. HDB room or family home for the first few years. Public transport. Home cooking. No car. No condo. Dumbbells at home instead of a gym membership waiting for a future personality to use it.
+The second graduate keeps fixed costs low. HDB room or family home for the first few years. Public transport. Home cooking. No car. No condo. Few recurring subscriptions.
 
 This is not a morality tale. The first graduate is not sinful. The second graduate is not holy. They are buying different cash-flow structures.
 
@@ -98,13 +98,13 @@ Chapter 1 said salary is not a perpetuity. The other half of that sentence belon
 
 How did our number move from 55 to 72?
 
-Mostly income growth. Household income rose materially over those years, from my work and from my wife's career progression. This is worth saying plainly because the usual personal-finance story likes discipline more than arithmetic. We did not discover a secret coupon strategy. We did not stop drinking artisanal coffee because we were not drinking much artisanal coffee to begin with.
+Mostly income growth. Household income rose materially over those years, from my work and from my wife's career progression. This is worth saying plainly because the usual personal-finance story likes discipline more than arithmetic. We did not discover a secret coupon strategy. We were not cutting a large pile of small luxuries; the baseline was already fairly lean.
 
 The second factor was a very Singaporean expense cliff: one child moved from kindergarten to public primary school. Public primary school for citizens is, in practical budget terms, almost free. A line item that had mattered became nearly symbolic.
 
 Public primary school does for Singapore parents what no spreadsheet hack can: it deletes a budget line.
 
-What did not happen was a dramatic new wave of self-denial. The household was already running lean: no condo, no luxury restaurant habit, home cooking, dumbbells at home, some DIY, low fixed costs. The lifestyle did not change very much. Income grew, one cost category collapsed, and the spreadsheet did the rest.
+What did not happen was a dramatic new wave of self-denial. The household was already running lean: no condo, no luxury restaurant habit, home cooking, some DIY, low fixed costs. The lifestyle did not change very much. Income grew, one cost category collapsed, and the spreadsheet did the rest.
 
 This is why Singapore matters. A high savings rate is not only willpower. It is system design plus household design. CPF pulls money away before lifestyle can claim it. HDB can keep the housing base low. Public school can remove a large recurring cost. Low taxes mean more of each raise remains available to become assets.
 
