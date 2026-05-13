@@ -47,3 +47,5 @@ If there is a single sentence behind this book, it is the oldest one in personal
 Singapore can be an expensive place to live. It can also be an unusually good place to become free.
 
 The difference begins with knowing your numbers.
+
+[Chapter 1: When Work Becomes Optional](manuscript/chapter-01.md)

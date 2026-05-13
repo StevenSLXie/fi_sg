@@ -97,3 +97,5 @@ But for most households, especially in the accumulation stage, the dominant vari
 Savings rate does two things at once. It increases the amount you invest each year, and it lowers the lifestyle that your assets must later support. A dollar not spent is not just a dollar saved. It is a dollar that no longer needs to be funded forever.
 
 The chapter's job was to change the question from *when am I allowed to retire* to *when does work become optional*. The next chapter's job is to show how fast the savings rate gets you there.
+
+[Chapter 2: Two Graduates, One Spreadsheet](chapter-02.md)
