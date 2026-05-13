@@ -19,11 +19,11 @@ The job of Part I: make the math feel concrete and survivable. Every chapter mus
 - **Singapore specifics**: CPF retirement age vs author-defined FI threshold; CPF LIFE payout age vs employment cessation age.
 - **Source essays**: 014 (FI is not only for the few).
 
-### 2. Two Engineers, One Spreadsheet
+### 2. Two Graduates, One Spreadsheet
 
 - **Job**: Make savings rate the unit of progress, not salary.
 - **Core claim**: A higher earner with a low savings rate can reach FI later than a lower earner with a high savings rate.
-- **Story anchor**: Two Singaporean software engineers, one high-income but high-fixed-cost, one lower-income but high-savings-rate; author's own 55% -> 72% trajectory.
+- **Story anchor**: Two Singaporean graduates, one high-income investment-bank analyst with high fixed costs, one ordinary graduate with a high savings rate; author's own 55% -> 72% trajectory.
 - **Number anchor**: Savings-rate-to-years-of-FI table; 30% vs 50% savings-rate comparison; 72% means one year of work funds about 2.5 years of current life.
 - **Singapore specifics**: Including CPF and mortgage principal in savings rate; public primary school as an expense cliff; CPF as wealth but not cash.
 - **Bookkeeping section**: Minimal bridge only. Full method moved to Chapter 3.

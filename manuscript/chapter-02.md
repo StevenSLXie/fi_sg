@@ -1,26 +1,26 @@
-# Two Engineers, One Spreadsheet
+# Two Graduates, One Spreadsheet
 
-Imagine two Singaporean software engineers starting work in the same year.
+Imagine two Singaporean graduates starting work in the same year.
 
-The first joins a large technology company. Call the salary S$15,000 a month. The second joins a local company or a government technology team. Call the salary S$8,000 a month.
+The first joins an investment bank as an analyst. Call the salary S$9,000 a month. The second joins a normal graduate job. Call the salary S$4,500 a month.
 
-The first engineer earns almost twice as much. Eight years later, the second engineer may be closer to financial independence.
+The first graduate earns twice as much. Eight years later, the second graduate may be closer to financial independence.
 
 This sounds wrong in the way useful arithmetic often sounds wrong.
 
-The high-income engineer does what high-income people are quietly encouraged to do. A condo, either rented or owned. A car, once the COE cycle looks temporarily less insane, which is how COE cycles advertise themselves before becoming insane again. Restaurants as routine rather than occasion. Short trips because the job is stressful and because Changi Airport exists to turn stress into miles. Lifestyle expands with each promotion, which is the polite way of saying that the spreadsheet receives the raise and immediately forwards it to the economy.
+The high-income graduate does what high-income people are quietly encouraged to do. A nicer rental, or eventually a condo. A car once the COE cycle looks temporarily less insane, which is how COE cycles advertise themselves before becoming insane again. Restaurants as routine rather than occasion. Short trips because the job is stressful and because Changi Airport exists to turn stress into miles. Lifestyle expands with each bonus, which is the polite way of saying that the spreadsheet receives the raise and immediately forwards it to the economy.
 
-The second engineer keeps fixed costs low. HDB. Public transport. Home cooking. No car. No condo. Dumbbells at home instead of a gym membership waiting for a future personality to use it.
+The second graduate keeps fixed costs low. HDB room or family home for the first few years. Public transport. Home cooking. No car. No condo. Dumbbells at home instead of a gym membership waiting for a future personality to use it.
 
-This is not a morality tale. The first engineer is not sinful. The second engineer is not holy. They are buying different cash-flow structures.
+This is not a morality tale. The first graduate is not sinful. The second graduate is not holy. They are buying different cash-flow structures.
 
-If the first engineer earns S$15,000 and spends S$11,000, he saves S$4,000. If the second earns S$8,000 and spends S$4,000, he also saves S$4,000. In dollar terms, the monthly surplus is the same.
+If the first graduate earns S$9,000 and spends S$7,000, he saves S$2,000. If the second earns S$4,500 and spends S$2,250, he saves S$2,250. In dollar terms, the lower earner is saving slightly more.
 
 But the FI target is not the same.
 
-The first lifestyle costs S$132,000 a year. At a 4 percent rule, it requires about S$3.3 million of investable assets. The second lifestyle costs S$48,000 a year. It requires about S$1.2 million.
+The first lifestyle costs S$84,000 a year. At a 4 percent rule, it requires about S$2.1 million of investable assets. The second lifestyle costs S$27,000 a year. It requires about S$675,000.
 
-Same monthly savings. Very different finish line.
+Lower salary. Slightly higher monthly savings. Much smaller finish line.
 
 This is why salary is a bad unit of FI progress. Salary tells you how much money passes through the household. Savings rate tells you how much of that money becomes freedom.
 
@@ -72,7 +72,7 @@ The shape does not.
 
 At low savings rates, the FI timeline behaves like a normal career. Ten percent or twenty percent savings feels responsible, and it is responsible, but it is still a thirty-year problem. At forty or fifty percent, the line bends. At sixty or seventy percent, the timeline starts to look strange to people who think retirement must be issued by CPF at the proper age.
 
-This is why the two engineers can reverse intuition. The higher earner may have more absolute dollars passing through the bank account, but if most of those dollars are already spoken for by condo, car, restaurants, travel, and identity, the FI engine is smaller than it looks. The lower earner may have fewer dollars, but if the spending base is low, every saved dollar does more work.
+This is why the two graduates can reverse intuition. The higher earner may have more absolute dollars passing through the bank account, but if most of those dollars are already spoken for by housing, car, restaurants, travel, and identity, the FI engine is smaller than it looks. The lower earner may have fewer dollars, but if the spending base is low, every saved dollar does more work.
 
 FI is not paid for by income. FI is paid for by the part of income that survives contact with the life you built.
 
