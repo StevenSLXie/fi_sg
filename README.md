@@ -2,7 +2,7 @@
 
 On the last day of every month, I do something extremely primitive.
 
-I open our bank statements and credit-card bills and read them line by line. Salary. CPF. Mortgage. School fees. Groceries. Insurance. The restaurant bill that looked reasonable at the time. Some months I catch something that should not be there — most often a bank's annual fee, levied with the discreet confidence of an institution hoping nobody was reading carefully. Then I add up a few numbers — savings rate, assets, liabilities, how close we are to financial independence — and put the spreadsheet away until next month.
+I open our bank statements and credit-card bills and read them line by line. Salary. CPF. Mortgage. School fees. Groceries. Insurance. Some months I catch something that should not be there — most often a bank's annual fee, levied with the discreet confidence of an institution hoping nobody was reading carefully. Then I add up a few numbers — savings rate, assets, liabilities, how close we are to financial independence — and put the spreadsheet away until next month.
 
 I have done this every month since July 2022. About an hour a month, for almost four years. The household reports to itself.
 
@@ -10,7 +10,7 @@ A family, in my view, should be run a little like a listed company. Not because 
 
 Doing this for four years produced two surprises.
 
-The first was about savings rate. Take a Singaporean couple earning a combined S$10,000 a month, spending every dollar that lands in their bank account. CPF still moves about S$3,700 into their household savings each month — S$2,000 deducted from their paycheques, plus S$1,700 contributed by their employers on top. More than a third of their gross pay is set aside on autopilot, before they have done anything deliberate. Our saving rate was about 55 percent in 2022, counting CPF contributions and mortgage principal as savings. Today it is close to 72 percent. At 72 percent, every year of work pays for about two and a half years of life — before any inflation, before any investment return.
+The first was about savings rate. Take a Singaporean couple earning a combined S$10,000 a month, spending every dollar that lands in their bank account. CPF still moves about S$3,700 into their household savings each month — S$2,000 deducted from their paycheques, plus S$1,700 contributed by their employers on top. More than a third of their gross pay is set aside on autopilot, before they have done anything deliberate.
 
 The second surprise was more interesting. Ordinary life in Singapore was not as expensive as the national conversation made it sound — but only because we were buying a different version of Singapore.
 
