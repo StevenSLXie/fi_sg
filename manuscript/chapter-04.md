@@ -85,13 +85,11 @@ The cost is visible. A household spending S$60,000 a year needs S$1.5 million at
 
 That is not a rounding error. It is also not a doubling. It is a premium paid for a less brittle plan.
 
-Around that number, three habits are more useful than arguing over the second decimal place.
+Around that number, two accounting habits are more useful than arguing over the second decimal place.
 
 First, exclude the owner-occupied home from investable assets, but keep it on the household balance sheet. The home is a last-resort option - downgrade, rent out a room, sell and move - not a monthly withdrawal source. Counting it in the withdrawal calculation pretends that you can eat your house. You can, but only by selling it, and only once.
 
 Second, diversify the equity engine beyond a single-country bet. A modern Singaporean investor can own global equities, then layer SGD cash, CPF, Singapore-listed income assets, or a small gold allocation for specific risks. None of this guarantees safety. It reduces the number of things that have to go exactly right.
-
-Third, keep the option to earn something after FI. Even S$2,000 or S$3,000 a month of post-FI income can reduce sequence risk in the early years, when the danger is largest. Full FI does not require the absence of work. It requires the absence of forced work.
 
 ## The Practical Rule
 
@@ -105,7 +103,7 @@ For the rest of this book, use 3.5 percent:
 
 At 50 percent, the FI asset base can theoretically support half the household's annual spending under this assumption. At 100 percent, employment income has become optional.
 
-Use something else only if you can explain why: a shorter horizon, a guaranteed pension stream, unusual spending flexibility, a deliberately different portfolio, or meaningful post-FI income. If you cannot explain why your number is different, your number is 3.5 percent.
+Use something else only if you can explain why: a shorter horizon, a guaranteed pension stream, unusual spending flexibility, or a deliberately different portfolio. If you cannot explain why your number is different, your number is 3.5 percent.
 
 That gives one side of the FI equation a hard number.
 
