@@ -1,124 +1,125 @@
 # Four Percent of What?
 
-Imagine someone who retired on the first of January, 1966.
+Imagine running a modern retirement test on someone who stopped work on the first of January, 1966.
 
-She had done everything right by the rules of her time. A million U.S. dollars in the brokerage account, all of it in the S&P 500. A plan to draw four percent in the first year and adjust the withdrawal for inflation every year after. Thirty years of expected retirement. A famous number, well-known even then, said this would be safe.
+She begins with one million U.S. dollars, all of it in the S&P 500. She withdraws four percent in the first year and raises the withdrawal with inflation after that. The plan is meant to last thirty years.
 
-Thirty years later, on the first of January, 1996, the account was still solvent. She had not run out. Technically the four percent rule had not failed.
+This is not the original four percent rule. It is the popular misunderstanding of it: one number, one index, one lifetime, no caveats. The misunderstanding matters because many people use the rule this way. They turn a historical result into a permission slip.
 
-The problem was that her remaining balance, after thirty years of withdrawals and inflation, was worth about fourteen cents on the dollar in purchasing power. Her money was still there. The version of life that money used to buy was not. Every extra year of life was a small unauthorised experiment in whether her portfolio could keep up with prices.
+The 1966 retiree is why that is dangerous. The next decade brought weak equity returns and the worst inflation in modern American history. By the time the long bull market arrived in 1982, her portfolio had already been forced to sell too much, too early, at too little real value. The bull market came, but it came late.
 
-This is the chapter where Chapter 3's final question gets an answer. The cliffhanger was: once the household measures its assets and spending honestly, what withdrawal rate is actually safe? Four percent of what?
+This is the chapter where Chapter 3's final question gets an answer. Once a household measures its assets and spending honestly, what withdrawal rate is actually safe? Four percent of what?
 
-The short answer: four percent of a thirty-year horizon, a U.S. portfolio, U.S. inflation, and a working person who already had a job for most of their life. For a Singaporean planning to leave work early, in Singapore dollars, with CPF in the background, that is the wrong number — close, but consistently in the wrong direction. The working number for this book is three and a half.
+The short answer: four percent is a useful American thirty-year planning anchor. For this book's purpose - a Singapore household thinking about early FI, SGD spending, CPF, and a much longer runway - my working number is three and a half.
 
 ## What the Four Percent Rule Actually Says
 
 The number comes from a single paper.
 
-William Bengen, a California financial planner, published "Determining Withdrawal Rates Using Historical Data" in the *Journal of Financial Planning* in October 1994. He took U.S. market data from 1926 onwards, built a portfolio of fifty percent S&P 500 and fifty percent intermediate-term Treasuries, rebalanced annually, withdrew an inflation-adjusted amount every year for thirty years, and asked: across every possible starting year, what is the highest first-year withdrawal rate that never bankrupted a retiree over a thirty-year horizon?
+William Bengen, a California financial planner, published "Determining Withdrawal Rates Using Historical Data" in the *Journal of Financial Planning* in October 1994. He tested U.S. market history, using stock and bond portfolios, and asked a narrow question: across historical thirty-year retirements, what first-year withdrawal rate survived when the dollar withdrawal was raised with inflation each year?
 
-The answer was approximately four percent.
+The answer was about four percent. More precisely, Bengen's original work pointed to a safe first-year withdrawal rate a little above four, and the world rounded it into a rule.
 
-That is the rule. Everything else attached to it is folklore.
+That is already much more specific than the version people repeat. The horizon is thirty years. The data is U.S. market history. The inflation measure is U.S. CPI. The portfolio is stocks and bonds, rebalanced. The withdrawals are inflation-adjusted. Change those assumptions, and four percent is no longer the answer to your question. It is the answer to Bengen's question.
 
-The full sentence carries five assumptions that the cocktail-party version drops. The horizon is thirty years. The data is U.S. equities and U.S. Treasuries. The inflation measure is U.S. CPI. The portfolio is fifty-fifty, rebalanced once a year, with no fees deducted. Retirement begins on the first of January. Change any of those, and four percent is no longer the answer to your question. It is the answer to Bengen's question.
+This matters because almost everyone who repeats the rule has changed at least one assumption without noticing. A Singaporean retiring at forty has a fifty-year horizon, not thirty. A global-equity investor is not holding the same portfolio Bengen tested. A Singapore-dollar retiree faces Singapore inflation, not U.S. inflation. A modern brokerage account has fees, tax leakage, currency effects, and behaviour.
 
-This matters because almost everyone who repeats the rule has changed at least one of those assumptions without noticing. A Singaporean retiring at forty has a fifty-year horizon, not thirty. A global-equity investor is not holding the same portfolio Bengen tested. A Singapore-dollar retiree faces Singapore inflation, not U.S. inflation. A modern brokerage account has fees, however small.
-
-The four percent rule is a real result. But the rule answers a more specific question than people remember.
+The four percent rule is a real result. But it is a result with a label on the bottle.
 
 ## The Year You Retire Matters More Than the Year You Were Born
 
 The most counter-intuitive thing in retirement research is also the most important.
 
-Two people retire one year apart with identical portfolios and identical withdrawal plans. Thirty years later, one of them has ten times more money than the other. Not ten percent more — ten times.
+Two people retire one year apart with identical portfolios and identical withdrawal plans. Thirty years later, one of them may have several times more money than the other. Not because one was smarter. Because one retired before a bull market and the other retired before a bad decade.
 
-This is sequence-of-returns risk, and it is the single largest variable in early-retirement math. The person who retires the year before a long bull market gets to compound from a higher base. The person who retires the year before a bear market with inflation starts drawing from a base that is shrinking on both sides — the market is down, and the withdrawals get bigger every year because prices are up.
+This is sequence-of-returns risk. The person who retires before a long bull market gets to compound from a higher base. The person who retires before a bear market with inflation starts drawing from a base that is shrinking on both sides: the market is down, and the withdrawals rise because prices are up.
 
-The retiree from January 1966 is the textbook bad luck. The next ten years brought weak equity returns and the worst inflation in modern American history. By the time the long bull market arrived in 1982, her account had been bled by a decade and a half of inflation-adjusted withdrawals against a flat or falling real portfolio. The 1982–1999 bull market arrived too late to do the heavy lifting.
+A simple stress test makes the point. I took Robert Shiller's monthly S&P 500 real total-return series, started a retiree in January of each year from 1960 to 1995, withdrew monthly from a one-million-dollar portfolio, and asked what was left after thirty years in starting-year purchasing power. This is deliberately crude: all equities, no bonds, no fees, no taxes, and U.S. inflation. It is not a Singapore retirement model. It is a way to see the cliff.
 
-A retiree from January 1975 ran into roughly the same long-run averages, but in a different order. The 1975 retiree's portfolio compounded first, and the withdrawals came out of a fattened base. Same number, totally different life.
+| First-year withdrawal rate | Failed starts, 1960-1995 | Weakest point in the test |
+|---:|---:|---|
+| 3.5% | 0 / 36 | Worst survivor ends with $372,000 |
+| 4.0% | 2 / 36 | 1966 and 1969 fail; worst survivor ends with $71,000 |
+| 5.0% | 11 / 36 | Most 1960s and early-1970s starts fail |
+| 6.0% | 15 / 36 | Every 1960-1974 start fails |
+
+The useful line is between 3.5 and 4. In this rough test, four percent mostly works, but it breaks in two starts and comes within a few years of breaking in another. Three and a half survives every start in this particular set. That does not prove the future. It shows what the extra half-percent buys: distance from the cliff.
 
 The year you retire matters more than the year you were born.
-
-This is why the four percent rule is not a personal guarantee. It is a statement about the worst case in a particular dataset. When people quote it, they are quoting the worst-case survival, not the typical experience. In most years, four percent would have left the retiree with several multiples of the starting balance. In a few years, it would have left them with almost nothing in real terms. The honest version of the rule includes both.
 
 ## Inflation Eats From The Inside
 
 Sequence risk is half the story. Inflation is the other half, and it works quietly.
 
-Consider a retiree starting in January 1974. Her mixed portfolio — equities, intermediate bonds, a slice of gold — ended thirty years later with a nominal balance of nearly nine and a half million dollars. By name and by spreadsheet, she was rich.
+The four percent rule raises the withdrawal amount with inflation. This is the right design; a retiree does not eat nominal dollars. But it also means the remaining portfolio has to fight two opponents at once. It must recover from market declines while the withdrawal amount keeps rising.
 
-In purchasing power, she had about $2.35 million.
+That is what made the late 1960s and 1970s so punishing. Stock prices did not have to collapse forever. They only had to disappoint for long enough while inflation lifted the spending line. By the time returns improved, too much capital had already been removed.
 
-Thirty years of compounding inflation, much of it in the high-inflation 1970s, had eaten roughly three-quarters of the value while she was not looking. The portfolio's growth was real. The price level's growth was larger.
-
-This is what inflation does to a fixed-withdrawal-rate plan that the rule itself does not protect against. The four percent rule explicitly adjusts withdrawals upward for inflation, which means the dollar amount you draw grows every year. The remaining balance, even when nominally rising, is fighting both gravity and a moving target.
-
-Gold and broad commodity exposure rescued the 1970s mixed-portfolio retiree. An all-equity 1966 retiree had no such backstop and watched her real balance collapse to about fourteen percent of where it started. The lesson is not "always own gold." The lesson is that diversification across asset classes is less about boosting average returns and more about not having your retirement plan collide with one specific kind of decade.
+The lesson is not that U.S. equities are bad. Over long periods, they have been astonishingly good. The lesson is that retirement is not an average-return problem. It is a bad-decade problem.
 
 ## Five Percent Breaks. Six Percent Is Reckless.
 
 There is an obvious temptation to bend the rule.
 
-If four percent feels conservative — and in most starting years it is — then five percent should still be fine. Six percent retires earlier. Seven percent retires earlier still. The math, when you actually run it, says otherwise.
+If four percent feels conservative in most starting years, then five percent feels close. Six percent retires earlier. Seven percent retires earlier still. The arithmetic says otherwise.
 
-At five percent, the rule survives most starting years but breaks in the bad ones. The same 1966–1974 stretch that scarred the four percent retiree breaks the five percent retiree outright. In late-bull-market starts like 1985, five percent leaves the retiree with plenty. The problem is that no retiree knows in advance whether they are starting in 1966 or 1985.
+At five percent, the bad starts become dangerous. At six percent, the model is no longer a retirement plan; it is a bet that the first decade will be kind. In the stress test above, the failure count jumps from two starts at four percent to eleven at five and fifteen at six.
 
-At six percent, the model fails catastrophically. Run the same backtests on starting years from 1960 to 1995, and a six percent withdrawal rate bankrupts the mixed-portfolio retiree in eleven of those years and the all-equity retiree in fourteen. The 1960s and early 1970s are nearly a clean sweep of failures. The failure mode is not gentle: the portfolio collapses to zero in the retiree's seventies or eighties, when going back to work is no longer an option.
+The penalty is not linear. A higher withdrawal rate does not merely make the plan slightly more aggressive. It removes the buffer precisely when the buffer matters most.
 
-The shape of this curve is worth noticing. Going from four to five percent increases failures from zero to one. Going from five to six percent increases failures from one to eleven. The penalty is not linear. It is exponential.
-
-This is why "three and a half" and "four" are arguments worth having, and "five" and "six" are not.
+This is why "three and a half or four" is a serious argument, and "five or six" is usually not.
 
 ## Translating Four Percent Into Singapore
 
-The original rule answers a U.S. question. Singapore lives in a different financial weather system, and the translation matters in several specific places.
+The original rule answers a U.S. question. Singapore lives in a different financial weather system.
 
-The first translation is the easiest and the most underestimated. **CPF gives you a bond allocation whether you want one or not.** From 1 January 2026, Ordinary Account balances earn 2.5 percent, and Special, MediSave, and Retirement Account balances earn 4 percent — both as legislated floors, the four-percent floor extended again through the end of the year. Members below 55 earn an additional 1 percent on the first S$60,000 of combined balances. For a typical Singaporean household with substantial CPF balances, a meaningful slice of net worth already behaves like a government bond — capital-protected, SGD-denominated, with a yield that has competed with high-grade fixed income for years.
+The first translation is CPF. As of the second quarter of 2026, Ordinary Account balances earn 2.5 percent, while Special, MediSave, and Retirement Account balances earn 4 percent, with extra interest on the first portion of combined balances. For many Singapore households, CPF is a large SGD-denominated, government-backed, bond-like asset.
 
-Bengen's fifty-fifty portfolio was half equities, half bonds. A Singaporean who already holds a six-figure CPF balance does not need to allocate fifty percent of their *non*-CPF investments to bonds to match that profile. The CPF floor is already doing the bond job, in many cases more efficiently than buying actual bonds would.
+Bond-like is not the same as liquid. CPF can reduce the bond burden of the lifetime balance sheet. It cannot replace the cash or liquid fixed-income buffer needed before 55, before CPF LIFE payouts, or during the first fragile years after leaving work. A forty-year-old with a large SA balance is richer than the brokerage account suggests, but not more liquid.
 
-The second translation is currency. Singapore-dollar inflation has been calm compared with U.S. inflation over the same windows. 2024 headline CPI came in at 2.4 percent. MAS now expects 2026 headline inflation to land between 0.5 and 1.5 percent. SGD has been structurally strong against the U.S. dollar for decades — partly by MAS policy design, partly by Singapore's institutional balance-sheet — which means an SGD-spending retiree faces less of the imported-inflation shock that bites USD-spending retirees. This is not free. Long-term SGD strength is a bet on the continued quality of Singapore's institutions, not a physical constant. But for a retiree spending in SGD, the assumption "my currency will probably hold its value against the things I buy" has more historical evidence here than in most countries.
+The second translation is currency. A Singapore-dollar retiree spends in SGD, while much of the investable universe is priced in USD or other currencies. SGD has been structurally strong over many periods, helped by MAS policy and Singapore's institutional balance sheet. That is an advantage for local spending and regional arbitrage. It is also a bet on Singapore continuing to be Singapore. Currency is part of the FI stack, not a footnote.
 
-The third translation is taxes. The U.S. retirement-withdrawal literature spends a lot of pages on tax-efficient sequencing — which account to draw from first, how to manage capital gains, whether to do Roth conversions. Singapore has no capital gains tax, no dividend tax on most local dividends, and no estate duty. The withdrawal math is, by comparison, almost suspiciously clean. You take the money out. There is no second layer of arithmetic.
+The third translation is taxes. Singapore's withdrawal math is cleaner than the U.S. version. Personal capital gains are generally not taxed unless the activity is really trading. Many local dividends are not taxed in the hands of individuals. Estate duty has been removed for deaths on and after 15 February 2008. The caveats matter, but the broad point remains: a Singapore resident often keeps more of each investment dollar than a U.S. retiree would.
 
-The fourth translation is the one that goes the other way. Bengen's horizon was thirty years. The classic FIRE framing imagines retiring at forty or forty-five, which means a fifty- or sixty-year horizon. The historical data does not directly support that horizon — there simply are not enough non-overlapping fifty-year windows in modern market history to test. The honest extrapolation is that anything that worked across thirty-year windows with comfortable margin should plausibly work for longer windows, but the margin matters more the longer you plan to live. A four percent rule that barely survived 1966 over thirty years cannot also be assumed to survive a fifty-year version of 1966.
+The fourth translation goes the other way. Bengen's horizon was thirty years. Early FI may require forty, fifty, or sixty years of support. There are not many clean historical windows that long, and the future may not rhyme politely with the past. A rule that barely survives a bad thirty-year start should not be stretched casually into a fifty-year life.
 
-This is the asymmetry that sets up the entire next section. The rule is closer to the cliff for someone retiring early. The natural response is not to abandon the rule. It is to back away from the cliff.
+This is the asymmetry. Singapore gives useful advantages: CPF, low taxes, strong currency history, and optional geographic arbitrage. Early FI takes some of that back through a longer horizon and lower liquidity before CPF access. The natural response is not to abandon the rule. It is to leave more margin.
 
 ## Three Point Five, Not Four
 
-If four percent is what the data supports for a U.S. retiree on a thirty-year horizon with a fifty-fifty portfolio, then three and a half is what a Singaporean planning fifty years of FI should adopt as the working number.
+Three point five is not a theorem. It is a working number.
 
-Three point five is not pessimism. It is the surcharge for retiring early.
+It is the half-percent margin I want for the specific case this book is about: a Singapore household pursuing full FI before the traditional retirement age, counting CPF as wealth but not pretending it is cash, excluding the owner-occupied home from investable assets, and planning for a future that may not look like the American backtest.
 
-The half-percent gap costs something real. It pushes the FI finish line further out — for a household spending S$60,000 a year, the target asset base moves from S$1.5 million at four percent to about S$1.71 million at three and a half. That is meaningful. It is not a doubling. It is a small premium for a much larger margin against the kind of decade that ruined the 1966 retiree.
+The half-percent costs something real. For a household spending S$60,000 a year, the target asset base moves from S$1.5 million at four percent to about S$1.71 million at three and a half. That is meaningful. It is not a doubling. It is a premium paid for a less brittle plan.
 
-Around the three-and-a-half number, three additional defences are worth building in. Each of them is cheap. None of them depends on the market behaving well.
+Around that number, three habits matter more than arguing over the second decimal place.
 
-The first defence is to exclude the owner-occupied home from investable assets, but not from the household balance sheet. This was the framing from Chapter 3. The home is a last-resort safety net — downgrade, rent out a room, sell and move to JB — rather than a source of withdrawal. Counting it in the four-percent calculation pretends that you can eat your house. You can, but only by selling it, and only once.
+First, exclude the owner-occupied home from investable assets, but keep it on the household balance sheet. This was the framing from Chapter 3. The home is a last-resort option - downgrade, rent out a room, sell and move - not a monthly withdrawal source. Counting it in the withdrawal calculation pretends that you can eat your house. You can, but only by selling it, and only once.
 
-The second defence is to diversify the equity side beyond a single-country index. The S&P 500 is the data Bengen used because it was the data he had. A modern Singaporean investor has access to global indices, with developed-market equities, emerging-market equities, and Singapore-listed assets layered for SGD-income exposure. Adding a small gold allocation is reasonable. Adding a small allocation to digital assets is defensible if treated as a high-volatility hedge rather than a thesis. None of this is a guarantee. It is a refusal to bet everything on the next thirty years of one country's market.
+Second, diversify the equity engine beyond a single-country bet. The S&P 500 is the data Bengen had and the index many investors know. A modern Singaporean investor can own global equities, then layer SGD cash, CPF, Singapore-listed income assets, or a small gold allocation for specific risks. None of this guarantees safety. It reduces the number of things that have to go exactly right.
 
-The third defence is to keep the optionality to earn something after FI. This deserves its own chapter much later and gets one — Chapter 20 of this book. The short version is that even a small amount of post-FI income — S$2,000 or S$3,000 a month from part-time work, consulting, or a project — dramatically reduces sequence-of-returns risk in the early retirement years, which is exactly when the risk is most dangerous. Full FI does not require the absence of work. It requires the absence of forced work.
+Third, keep the option to earn something after FI. This gets its own chapter later. The short version is that even S$2,000 or S$3,000 a month of post-FI income can reduce sequence risk dramatically in the early years, which is exactly when the danger is largest. Full FI does not require the absence of work. It requires the absence of forced work.
 
-Bengen himself, in interviews and follow-up work over the years, has revised his number upward in some scenarios and downward in others depending on inflation regime, asset allocation, and starting valuations. The original paper was the start of a conversation, not the end. Three and a half percent is one careful reading of that conversation for the specific case this book covers: an early retiree, in Singapore, with CPF, in SGD, planning to live for several decades after the salary stops.
+Bengen's original paper was the start of a conversation, not the end. Three and a half percent is my careful reading of that conversation for this book's household: early FI, Singapore, CPF, SGD spending, and several decades after the salary stops.
 
 ## The Practical Rule
 
-Chapter 3 gave a formula. Investable assets multiplied by a withdrawal rate, divided by annual spending, equals FI progress. The formula was honest about not specifying the withdrawal rate, because the withdrawal rate is this chapter.
+Chapter 3 gave a formula. Investable assets multiplied by a withdrawal rate, divided by annual spending, equals FI progress. The formula did not specify the withdrawal rate because that was this chapter's job.
 
-The recommendation for the rest of this book: use 3.5 percent.
+For the rest of this book, use 3.5 percent.
 
-Use it unless you have a specific, defensible reason to use something else — a guaranteed pension stream, a much shorter horizon, a portfolio composition that genuinely justifies more risk, or post-FI income that meaningfully reduces sequence risk. If you cannot articulate why your number is different from 3.5 percent, your number is 3.5 percent.
+Use something else only if you can say why: a shorter horizon, a guaranteed pension stream, a deliberately different portfolio, unusually high flexibility in spending, or meaningful post-FI income. If you cannot explain why your number is different, your number is 3.5 percent.
 
-Plug it into the Chapter 3 formula. Investable assets multiplied by 0.035, divided by annual spending. At 50 percent, the portfolio supports half the household's annual spending under this assumption. At 100 percent, employment income has become optional.
+Plug it into the Chapter 3 formula:
+
+`investable assets x 0.035 / annual spending`
+
+At 50 percent, the portfolio can theoretically support half the household's annual spending under this assumption. At 100 percent, employment income has become optional.
 
 That gives one side of the FI equation a hard number.
 
-The other side — annual spending — is still pretending to be a constant. It is not. The same Singaporean household at the same income level can spend S$120,000 a year or S$48,000 a year depending entirely on which version of Singapore it has chosen to buy. A condo near Orchard, a continental car, restaurants as routine, enrichment subscriptions, and overseas family holidays produce one number. A four-room HDB near an MRT, public transport, hawker centres on weekdays, public school, and JB on long weekends produce a very different one.
+The other side - annual spending - is still pretending to be a constant. It is not. The same Singaporean household at the same income level can spend S$120,000 a year or S$48,000 a year depending entirely on which version of Singapore it has chosen to buy. A condo near Orchard, a continental car, restaurants as routine, enrichment subscriptions, and overseas family holidays produce one number. A four-room HDB near an MRT, public transport, hawker centres on weekdays, public school, and JB on long weekends produce a very different one.
 
 Three point five percent of what you can actually invest, of what you actually spend, in a currency you actually live in, over a horizon you actually face.
 

@@ -18,7 +18,7 @@ If the first graduate earns S$9,000 and spends S$7,000, he saves S$2,000. If the
 
 But the FI target is not the same.
 
-The first lifestyle costs S$84,000 a year. At a 4 percent rule, it requires about S$2.1 million of investable assets. The second lifestyle costs S$27,000 a year. It requires about S$675,000.
+The first lifestyle costs S$84,000 a year. Using the famous 4 percent shorthand for now, it requires about S$2.1 million of investable assets. The second lifestyle costs S$27,000 a year. It requires about S$675,000. Chapter 4 will make the withdrawal-rate assumption stricter; the point here is the shape of the problem.
 
 Lower salary. Slightly higher monthly savings. Much smaller finish line.
 
@@ -50,7 +50,7 @@ The conveyor belt does not care.
 
 Here is a toy model.
 
-Assume a household begins with a given savings rate. Salary grows 5 percent a year. Spending grows 3 percent a year. The surplus is invested at 6 percent a year. FI is reached when assets can support annual spending under a 4 percent rule.
+Assume a household begins with a given savings rate. Salary grows 5 percent a year. Spending grows 3 percent a year. The surplus is invested at 6 percent a year. FI is reached when assets can support annual spending under the same temporary 4 percent shorthand.
 
 Do not treat the table as prophecy. Treat it as a curve.
 
