@@ -45,7 +45,8 @@ Here is a simplified version of my expense categories:
 | Utilities / internet / phone | Electricity, water, broadband, mobile | Basic household utilities |
 | Insurance | Health, life, home, car if not grouped elsewhere | Risk-transfer spending |
 | Medical | Clinic, dental, medicine | Health spending |
-| Dining / takeaway | Eating out, takeaway, food pickup | Food outside the household grocery channel |
+| Hawker / food court / takeaway | Hawker plates, food court meals, kopitiam, weekday takeaway | The cheap and frequent end of eating out |
+| Restaurants | Sit-down restaurants, cafes with service charge, occasion dining | A different product from hawker food — pay attention |
 | Travel | Flights, hotels, family visits, trips | Travel and family connection |
 | Entertainment | Leisure, subscriptions, outings | Discretionary spending |
 | Other | Anything not worth its own category | Keeps the system simple |
@@ -68,11 +69,11 @@ The rule again, because it is the rule that does most of the work in this chapte
 
 Be precise where the classification changes FI math. Be coarse everywhere else.
 
-## Two More Singapore Traps
+## Three More Singapore Traps
 
 Chapter 2 covered the two non-negotiable splits. CPF is wealth, not cash, and contributions belong inside the household's savings flow even though they do not land in the bank account. Mortgage principal is savings; mortgage interest is spending; the annual housing-loan statement from the bank already does that split month by month. Those two rules are the spine of any Singapore household FI account. They are not optional.
 
-Two more local traps are worth naming.
+Three more local traps are worth naming.
 
 The first is **tax**. For most salaried Singapore households, personal income tax is the household's largest tax bill by a wide margin. There is no income tax on the first S$20,000, no capital-gains tax, no estate tax, no GST on rent, and property tax on owner-occupied HDB is small. Headline rates are low by developed-country standards, but for a household earning enough to be seriously on the FI path, the absolute amount is not small.
 
@@ -82,7 +83,13 @@ The second is **school**. The interesting thing about a Singapore school line is
 
 That makes the school line more diagnostic than expensive. When enrichment creeps up, the line creeps up. When a child enters public primary school and a S$1,500-a-month preschool line disappears, the line collapses overnight — a real FI inflection that a less granular system would miss. Watch the line, and the household sees how much of its child-related spending is institutional cost and how much is anxiety converted into recurring fees.
 
-These are not complicated. They are just serious. Most household bookkeeping fails not because it is too simple but because it is precise about the wrong things.
+The third is **food**. Eating in Singapore is not one product. It is at least three: hawker centres, food courts, and kopitiams at one end; home cooking in the middle; sit-down restaurants at the other. The prices are so different that collapsing them into a single "dining" line hides the most consequential food decision a Singapore family makes month after month.
+
+The SingStat 2023 survey reports that about 68 percent of Singapore household food spending goes to F&B services rather than groceries. The average household, in other words, is buying its food primarily as a service, not as ingredients. That ratio is worth seeing inside one's own books. A "hawker / food court / takeaway" line and a separate "restaurants" line let the household see the mix at a glance — a Saturday restaurant bill is a different animal from a weekday Koufu lunch, and treating them as one number hides what is moving.
+
+The math behind this gets a chapter of its own later. The short version, useful while the bookkeeping habit is still forming: hawkers and food courts are remarkably cheap for what they deliver, home cooking is cheaper still, and restaurants sell ambience and ritual along with the meal. Keep restaurants for occasions, not for routine.
+
+These three traps — tax, school, food — are not complicated. They are just serious. Most household bookkeeping fails not because it is too simple but because it is precise about the wrong things.
 
 ## Use The Trail
 
@@ -129,7 +136,7 @@ The full mix:
 
 Do not copy these percentages. They are not targets. Travel in my case includes visiting parents and family in my home country as a first-generation immigrant, which is closer to obligation than holiday. The "car" line is low because the household does not own one. Other households will look different in exactly the ways their lives are different.
 
-For a published reference point, the SingStat Household Expenditure Survey 2023 reports that the average Singapore resident household spent S$5,931 a month, with housing (29.8%), food (20.0%), and transport (13.4%) making up about 63% of total expenditure. Roughly two-thirds of food spending went to restaurants, hawker centres, and other food services rather than groceries. The shape of that average household is very different from mine, and probably from yours.
+For a published reference point, the SingStat Household Expenditure Survey 2023 reports that the average Singapore resident household spent S$5,931 a month, with housing (29.8%), food (20.0%), and transport (13.4%) making up about 63% of total expenditure. The shape of that average household is very different from mine, and probably from yours.
 
 That is the entire point of doing this exercise. The average is not your household. Until your household is visible to itself, decisions about housing, cars, school, and travel are being made against an imaginary reference.
 
