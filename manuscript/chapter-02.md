@@ -183,3 +183,5 @@ That makes it the best single number for FI progress.
 Not the only number. Not a perfect number. But the number that tells you whether your life is producing freedom.
 
 The next question is how to measure it without lying to yourself.
+
+[Chapter 3: What Gets Measured Gets Retired](chapter-03.md)
