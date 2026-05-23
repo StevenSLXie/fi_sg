@@ -1,0 +1,139 @@
+# CPF Is Not One Thing
+
+CPF is confusing because it is not one thing.
+
+It is a housing account. It is a retirement account. It is a medical wallet. It is a tax-planning tool. It is a bond-like asset. At 65, part of it becomes an annuity. The same three letters appear on all of these products, which is convenient for branding and inconvenient for thinking.
+
+This chapter exists because Chapter 4 put CPF inside the FI asset base with a warning label: count it as wealth, but do not pretend it is cash. That sounds simple until you ask which CPF dollar you mean. An Ordinary Account dollar used for mortgage payments is different from a Special Account dollar at age forty. A MediSave dollar is different again. A Retirement Account dollar at fifty-five is not the same product as a CPF LIFE payout at seventy.
+
+CPF is several financial instruments wearing one logo. Use it. Understand it. Do not worship it.
+
+## Two Retirement Ages
+
+The first useful distinction is between the age you stop working and the age a retirement income system starts paying you.
+
+They are not the same age.
+
+This sounds obvious until a government system gives one of them an official label. In Singapore, CPF LIFE payouts can start from 65, with the option to defer up to 70. That does not mean 65 is the age at which work becomes optional. It means 65 is the age at which one specific retirement product can begin sending monthly income.
+
+A household can be financially independent before CPF LIFE starts. A household can also be financially dependent after CPF LIFE starts. The payout age is not a permission slip. It is a feature of the product.
+
+This is why CPF matters so much for FI and why it should not be allowed to define FI. CPF is part of the balance sheet. It is not the whole balance sheet.
+
+## The Paycheque Split
+
+For a Singapore citizen or third-year permanent resident aged 55 or below, earning more than S$750 a month, CPF contributions in 2026 are 37 percent of wages up to the Ordinary Wage ceiling: 20 percent from the employee and 17 percent from the employer. The Ordinary Wage ceiling has reached S$8,000 a month.
+
+That means a S$8,000 monthly salary sends S$2,960 into CPF before the household has made a single deliberate savings decision.
+
+This is why Chapter 2 counted CPF inside savings rate. The employee portion reduces take-home pay. The employer portion is compensation that never touches the bank account. Both increase household wealth.
+
+The money does not land in one place. Before 55, it is allocated across three accounts:
+
+| Account | Main job | FI interpretation |
+|---|---|---|
+| Ordinary Account (OA) | Housing, some education and investment uses, later retirement | Flexible by CPF standards, especially if used for mortgage cash flow |
+| Special Account (SA) | Retirement accumulation before 55 | Bond-like, higher-yielding, illiquid before 55 |
+| MediSave Account (MA) | Healthcare expenses and medical insurance | Medical wallet, useful but restricted |
+
+The allocation changes with age. The broad pattern is intuitive: younger workers need more housing capacity, older workers need more retirement and medical capacity. CPF is not only a pension system. It is Singapore's housing finance system and healthcare pre-funding system sharing the same administrative machine.
+
+That is why "CPF is locked up" is too crude. Some of it is locked. Some of it pays the mortgage. Some of it pays medical premiums. Some of it becomes monthly income later. Liquidity depends on which account, which age, which use, and which policy rule.
+
+## OA: The Housing Dollar
+
+The Ordinary Account is the easiest account to underestimate because it earns the lowest headline rate.
+
+As of early 2026, OA earns 2.5 percent. That is not exciting. It is also not the whole story. OA can pay for the down payment and monthly instalments of an HDB flat or private property, subject to CPF housing rules. For an owner-occupier with a mortgage, OA is not cash, but it affects cash flow almost as directly as cash.
+
+If OA pays S$2,000 of mortgage instalments this month, the household's bank account is S$2,000 less stressed. The money cannot buy lunch. It can pay one of the largest bills in the household.
+
+For FI accounting, OA has two roles. It is wealth, and it is a housing cash-flow tool. But if it has already been used to buy the home you live in, do not count the same dollar twice. Home equity belongs on the balance sheet; it should not casually enter the withdrawal base unless the plan actually includes selling, downgrading, renting out a room, or moving.
+
+CPF makes home ownership easier. It can also make the cost of the home feel less visible. The monthly deduction comes from a separate account, which is psychologically useful and financially dangerous. Interest, property tax, maintenance, and opportunity cost still exist. CPF does not make housing free. It only changes which pocket pays.
+
+## SA and RA: The Bond-Like Dollar
+
+The Special Account is easier to respect. It pays a higher rate and is built for retirement. As of early 2026, Special, MediSave, and Retirement Account balances earn 4 percent, with extra interest on the first portion of CPF balances.
+
+For a forty-year-old, SA is close to a long-duration government bond that cannot be sold. That is both the point and the irritation. The lock-up makes it behaviourally powerful. It also makes it useless for bridging expenses before access.
+
+Since 19 January 2025, CPF members aged 55 and above no longer keep a Special Account. If you turn 55 after that date, your Retirement Account is created on your fifty-fifth birthday, savings from SA and OA are transferred to RA up to the Full Retirement Sum, and the SA is closed. Remaining SA savings, if any, go to OA.
+
+That policy change is a useful reminder: CPF rules are policy design, not physics. They can change.
+
+The Retirement Account is where the retirement income machinery begins to become explicit. For members turning 55 in 2026, the reference sums are:
+
+| Retirement sum | Amount at 55 | Estimated monthly payout from 65 |
+|---|---:|---:|
+| Basic Retirement Sum | S$110,200 | S$950 |
+| Full Retirement Sum | S$220,400 | S$1,780 |
+| Enhanced Retirement Sum | S$440,800 | S$3,440 |
+
+These payout examples are based on CPF LIFE Standard Plan estimates for members turning 55 in 2026. They are not a promise that every reader's future payout will match the table. Age, plan choice, interest rates, policy changes, and when payouts begin all matter.
+
+But the table gives the scale. CPF LIFE is meaningful income. It is not, by itself, a full middle-class retirement for most households in Singapore.
+
+## MA: The Medical Dollar
+
+MediSave is the account people often understand last because it is neither spending money nor retirement income in the usual sense.
+
+MA pays for approved medical expenses and medical insurance premiums, subject to limits. It earns the same headline rate as SA and RA, but its use case is different. It is not a pool waiting to be withdrawn in one lump sum. It is a restricted healthcare wallet.
+
+That restriction is annoying until a large medical bill appears. Then the restriction starts to look like design.
+
+For FI, MA does two jobs. It reduces the need to hold separate cash for predictable healthcare-related outflows, and it makes healthcare spending less likely to ambush the portfolio. It does not remove healthcare risk. It narrows one channel of it.
+
+This is also why the question "Should I top up SA or MA?" has no universal answer. If both accounts earn similar rates and both can generate tax relief within the rules, the deciding factor is often liquidity of use. SA is retirement money. MA can pay medical insurance premiums and approved healthcare expenses before 55. For some households, that makes MA the shorter-duration CPF top-up.
+
+That does not make MA always better. A household near the Basic Healthcare Sum, with strong insurance coverage and a different tax position, may choose differently. The point is not to find a CPF hack. The point is to know which lock you are buying.
+
+## CPF LIFE: The Longevity Insurance
+
+CPF LIFE is not just a withdrawal schedule. It is longevity insurance.
+
+At some point, the retirement savings in RA are used to provide monthly payouts for life. The important phrase is "for life." A person who dies early leaves a bequest according to CPF rules. A person who lives very long keeps receiving payouts after the arithmetic of their own account would otherwise have become uncomfortable.
+
+That is what insurance does. It pools a risk that is hard for one household to bear alone.
+
+The risk here is not market volatility. It is outliving the plan. A private portfolio can be managed carefully, but no spreadsheet knows whether you will live to 78 or 98. CPF LIFE turns part of that unknown into a national annuity pool.
+
+For FI planning, this is valuable because it changes the tail risk. The portfolio has to support the early and middle years of retirement. CPF LIFE can become a later-life income floor. That does not justify a reckless withdrawal rate before 65. It does mean a Singaporean FI plan is not identical to an American brokerage-only plan.
+
+## How CPF Fits The FI Formula
+
+Here is the practical way to treat CPF in the household dashboard.
+
+Count CPF as wealth.
+
+Do not count CPF as cash.
+
+Separate CPF by function.
+
+OA used for housing affects cash flow and home equity. SA and RA are bond-like retirement assets with age and policy gates. MA is a healthcare wallet. CPF LIFE is future annuity income. Collapsing all of them into one number is convenient and usually misleading.
+
+For the Chapter 4 formula, CPF belongs inside the FI asset base with liquidity caveats. A household with S$500,000 in liquid investments and S$500,000 in CPF is not the same as a household with S$1 million in a brokerage account. It is also not the same as a household with only S$500,000. Both lazy answers are wrong.
+
+The right answer is a bridge.
+
+Before 55 and 65, the household needs enough liquid assets to cover the years when CPF cannot fully support spending. After CPF access and CPF LIFE payouts begin, CPF reduces the burden on the portfolio. This is why the same 3.5 percent rule can include CPF as wealth while still demanding a conservative margin.
+
+CPF also affects asset allocation. A large SA or RA balance already behaves like part of the bond allocation of the household balance sheet. That does not mean a retiree needs no cash or liquid bonds. It means the non-CPF portfolio does not have to pretend CPF is zero.
+
+The distinction sounds small. It is the difference between using the system and being fooled by it.
+
+## Use It, Do Not Worship It
+
+CPF is one of Singapore's great FI advantages. It forces savings before lifestyle can claim the money. It pays attractive risk-free rates by global standards. It helps finance housing. It pre-funds healthcare. It provides longevity insurance. It also gives tax-planning opportunities through cash top-ups, subject to annual limits and changing rules.
+
+But CPF is not a complete retirement plan.
+
+It has liquidity gates. It has policy risk. Its rules can change, as the closure of SA for members aged 55 and above showed. Its purchasing power depends on Singapore remaining a high-trust, well-run country with a strong currency. And for many older Singaporeans, CPF balances are modest because wages decades ago were modest.
+
+The sensible attitude is boring and useful: use CPF deliberately, count it honestly, and build outside it.
+
+Do not fight CPF for emotional reasons. Do not worship CPF because it pays 4 percent. Do not treat CPF LIFE as proof that the portfolio can be small. Do not treat illiquidity as if it were safety in all circumstances.
+
+CPF is part of the Singapore FI stack. The next part is what happens before money even reaches the stack: how much of each dollar Singapore lets you keep.
+
+[Chapter 6 follows.]
