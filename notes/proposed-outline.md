@@ -57,9 +57,9 @@ The job of Part II: explain Singapore's institutions as financial instruments, n
 
 - **Job**: Demystify CPF without writing an encyclopedia, immediately after Chapter 4 brings CPF into the FI asset base.
 - **Core claim**: CPF is several financial products sharing a name (OA, SA, MA, RA, CPF LIFE). Count it as wealth, not cash; use the parts deliberately.
-- **Story anchor**: Walk through what happens to one paycheque from contribution through age 55 account sorting to CPF LIFE payouts.
+- **Story anchor**: Start from the common objection that CPF feels like a tax, then walk through what happens to one paycheque from contribution through age 55 account sorting to CPF LIFE payouts.
 - **Number anchor**: Contribution rates by age; OW ceiling 2026; interest rates by account; BRS / FRS / ERS thresholds; BHS; expected CPF LIFE payouts under each plan.
-- **Decision questions**: What does each account do? What happens at 55? Should one top up SA or MA? How does CPF fit into bond allocation? When does CPF top-up beat SRS?
+- **Decision questions**: What does each account do? What happens at 55? Should one top up SA or MA? How does CPF fit into bond allocation? When does 1M65-style OA-to-SA transfer help, and when does it damage liquidity?
 - **Source essays**: 003 (CPF MA vs SA top-up), 006 (CPF primer).
 
 ### 6. Low Taxes Are a Feature

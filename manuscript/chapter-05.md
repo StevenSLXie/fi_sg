@@ -8,6 +8,22 @@ This chapter exists because Chapter 4 put CPF inside the FI asset base with a wa
 
 CPF is several financial instruments wearing one logo. Use it. Understand it. Do not worship it.
 
+## Forced Saving Is Not A Tax
+
+The emotional case against CPF is easy to understand.
+
+Money leaves the paycheque before it reaches the bank account. The rules are complicated. The withdrawal ages move with policy. The government invests the money through special securities rather than handing every worker a brokerage account. From the point of view of monthly cash flow, CPF can feel like a tax with a nicer website.
+
+But calling CPF a tax makes the household worse at accounting.
+
+A tax leaves the household balance sheet. CPF does not. It moves income from liquid cash into restricted personal accounts that earn interest and can later fund housing, healthcare, retirement income, or bequests. The restriction is real. The wealth is also real.
+
+That distinction is the whole point of this book's CPF treatment. If a household pretends CPF is cash, it will overstate its liquidity. If it pretends CPF is tax, it will understate its wealth. Both errors distort the FI calculation.
+
+The useful sentence is less emotional: CPF is compulsory saving with policy risk, liquidity gates, and unusually good SGD-denominated returns.
+
+That is not a slogan. It is a balance-sheet description.
+
 ## Two Retirement Ages
 
 The first useful distinction is between the age you stop working and the age a retirement income system starts paying you.
@@ -121,6 +137,30 @@ Before 55 and 65, the household needs enough liquid assets to cover the years wh
 CPF also affects asset allocation. A large SA or RA balance already behaves like part of the bond allocation of the household balance sheet. That does not mean a retiree needs no cash or liquid bonds. It means the non-CPF portfolio does not have to pretend CPF is zero.
 
 The distinction sounds small. It is the difference between using the system and being fooled by it.
+
+## The 1M65 Trade-Off
+
+The 1M65 movement is right about several important things.
+
+It takes saving seriously. It respects compounding. It treats CPF as an asset rather than only as a grievance. It also understands something many high-income households miss: a large, boring, government-backed balance compounding for decades can beat a clever portfolio that is constantly interrupted by lifestyle.
+
+That spirit belongs in this book.
+
+The problem is turning one CPF-maximisation tactic into a general rule. A common 1M65 move is to transfer OA savings into SA so the money earns the higher SA rate. CPF Board itself describes the logic plainly: OA is useful for housing, while SA is meant for retirement and pays more. If you do not expect to need all your OA savings, transferring some to SA can raise future retirement payouts.
+
+The "if" is doing the work.
+
+An OA-to-SA transfer is irreversible. It also reduces the OA funds available for a future home purchase, mortgage instalments, insurance, education, or CPF Investment Scheme use. If OA later runs short, the household may have to use cash for housing.
+
+That is not a small footnote. It is the trade.
+
+For a household with a fully settled home, strong cash reserves, stable income, no plan to upgrade, and enough non-CPF liquidity, transferring OA to SA may be rational. The higher rate is valuable. The forced lock-up can even be behaviourally useful.
+
+For a younger household still deciding where to live, planning children, buying a first flat, considering a move, or building the liquid bridge to full FI before 55, the same transfer can be expensive. It buys yield by selling flexibility.
+
+This book is not trying to maximise CPF at 65. It is trying to reach full FI with a balance sheet that works before and after CPF access. A million dollars in CPF at 65 is impressive. It is not the same thing as work becoming optional at 45 or 50.
+
+So the rule is simple: admire the savings discipline; price the liquidity loss.
 
 ## Use It, Do Not Worship It
 
