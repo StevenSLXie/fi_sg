@@ -1,10 +1,12 @@
 # What Gets Measured Gets Retired
 
-A household does not need a finance department.
+Most household bookkeeping does not fail at the end. It fails in the third week.
 
-It needs a few numbers it can trust.
+It usually begins well. Someone in the family — often the more organised spouse — downloads an app and starts entering every receipt with the enthusiasm of a new system. By the third week the receipts arrive faster than the entries. By the fourth, the original organiser begins skipping the occasional Friday. By the third month the app is still on the phone, but it has the quiet, ignored quality of a treadmill. The categories were too many. The data entry was too detailed. The exercise produced a lot of charts and not a single decision.
 
-This is where many attempts at bookkeeping fail. People begin as if they are building a small accounting firm at home. Every lunch needs a category. Every snack needs a category. Watsons is separate from FairPrice, FairPrice is separate from Sheng Siong, Sheng Siong is separate from the bakery, the bakery is separate from "treats," and by the third week the system has become a part-time job with worse benefits.
+It dies for the same reason almost every time: people begin as if they are building a small accounting firm at home. Every lunch needs a category. Every snack needs a category. Watsons is separate from FairPrice, FairPrice is separate from Sheng Siong, Sheng Siong is separate from the bakery, the bakery is separate from "treats," and by the third week the system has become a part-time job with worse benefits.
+
+The previous chapter ended on savings rate as the single number worth managing. But a number is only useful if it is honestly measured. A household does not need a finance department to do that. It needs a few numbers it can trust.
 
 The purpose of bookkeeping is not to know where every dollar went. The purpose is to know whether the household is moving toward freedom.
 
@@ -12,7 +14,9 @@ That is a different design problem.
 
 A financially independent household needs visibility into a few things: how much came in, how much went out, how much became savings, how much the household owns, how much it owes, and how close the assets are to supporting the life. Everything else is detail. Some detail is useful. Too much detail is how a system dies.
 
-My philosophy is simple: be precise where the classification changes the FI math, and be coarse everywhere else.
+The rule that survives this design problem is short:
+
+Be precise where the classification changes FI math. Be coarse everywhere else.
 
 ## The App Is Not the System
 
@@ -20,11 +24,11 @@ I use an app called Money Manager.
 
 This is not a recommendation in the affiliate-link sense. There is no sacred app. A spreadsheet works. Another expense app works. A notebook can work, though I would not recommend proving that point if your goal is to keep doing this for years.
 
-The app matters only if it reduces friction. In my case, Money Manager is good enough because it lets me enter income, expenses, accounts, assets, liabilities, and categories without turning the process into enterprise software. It also produces simple monthly and yearly category views, which is all I need most of the time.
+The app matters only if it reduces friction. In my case, Money Manager is good enough because it lets me enter income, expenses, accounts, assets, liabilities, and categories without turning the process into enterprise software. It produces simple monthly and yearly category views, which is all I need most of the time.
 
 The app is not the system. The categories are the system.
 
-If the categories are wrong, a beautiful chart only makes the wrongness more colourful. If the categories are too detailed, the system becomes fragile. If the categories are too vague, nothing can be learned. The goal is not accounting purity. The goal is a structure that survives ordinary life and produces decision-useful numbers.
+If the categories are wrong, a beautiful chart only makes the wrongness more colourful. If the categories are too detailed, the system becomes fragile. If they are too vague, nothing can be learned. The goal is not accounting purity. The goal is a structure that survives ordinary life and produces decision-useful numbers.
 
 Here is a simplified version of my expense categories:
 
@@ -54,49 +58,41 @@ The most important category in this table may be "Other." In a real household, t
 
 "Groceries & Household" is deliberately broad.
 
-It includes groceries, toiletries, cleaning supplies, pharmacy purchases, snacks, small household items, and ordinary day-to-day family consumption. In my own Chinese category name, this began as "supermarket," but it does not literally mean only supermarket spending. A Watsons purchase can go there. A Bengawan Solo purchase can go there. A small household-supply purchase can go there.
+It includes groceries, toiletries, cleaning supplies, pharmacy purchases, snacks, small household items, and ordinary day-to-day family consumption. Watsons, Bengawan Solo, and small household supplies can all go there.
 
 The point is not where the money was spent. The point is what kind of household function it served.
 
-Splitting groceries, toiletries, snacks, household supplies, small bakery purchases, and pharmacy items into separate categories may feel more correct. It is usually less useful. Unless the split changes a decision, it is just extra work.
+Splitting groceries, toiletries, snacks, and pharmacy items into separate categories may feel more correct. It is usually less useful. Unless the split changes a decision, it is just extra work. FairPrice versus Watsons does not need to be a question the household answers every month.
 
-This is the main rule:
+The rule again, because it is the rule that does most of the work in this chapter:
 
 Be precise where the classification changes FI math. Be coarse everywhere else.
 
-Mortgage principal and mortgage interest must be separated. That changes savings rate and net worth. A S$1,000 principal repayment and a S$1,000 interest payment both leave the bank account, but only one of them increases household equity.
+## Two More Singapore Traps
 
-FairPrice versus Watsons does not usually require the same level of seriousness.
+Chapter 2 covered the two non-negotiable splits. CPF is wealth, not cash, and contributions belong inside the household's savings flow even though they do not land in the bank account. Mortgage principal is savings; mortgage interest is spending; the annual housing-loan statement from the bank already does that split month by month. Those two rules are the spine of any Singapore household FI account. They are not optional.
 
-## The Singapore Categories That Matter
+Two more local traps are worth naming.
 
-Singapore households have a few accounting traps.
+The first is **tax**. For most salaried Singapore households, personal income tax is the household's largest tax bill by a wide margin. There is no income tax on the first S$20,000, no capital-gains tax, no estate tax, no GST on rent, and property tax on owner-occupied HDB is small. Headline rates are low by developed-country standards, but for a household earning enough to be seriously on the FI path, the absolute amount is not small.
 
-The first is CPF. CPF is not cash, but it is wealth. Contributions should not disappear from the household record just because they do not land in the bank account as spendable cash. If the goal is to understand savings rate and net worth, CPF belongs in the system.
+The reason tax deserves its own category is not the timing. It is that this is one of the largest household line items that **disappears when employment ends**. A retiree with no employment income and no rental property has very little to pay IRAS. Tracking tax as a separate category lets the household see exactly how much of today's spending will not follow it into FI. Bury the tax bill inside "general expenses," and the FI math overstates the post-retirement run rate by tens of thousands of dollars a year, in the wrong direction.
 
-The second is housing. A mortgage payment is not one thing. It contains principal and interest. Principal reduces debt. Interest is a cost. Local banks usually send annual housing-loan statements that split the year's payments into principal and interest month by month. Use those statements. Do not guess, and do not treat the whole mortgage payment as spending just because it leaves the account in one deduction.
+The second is **school**. The interesting thing about a Singapore school line is what is actually inside it. The SingStat Household Expenditure Survey 2023 reports average household education spending of about S$404 a month, of which roughly S$127 — about a third — goes to private tuition and enrichment. The institutional cost of educating a Singapore child through public primary, public secondary, polytechnic or junior college, and a local university is unusually low for a high-income country. Most of what households actually spend on "school" is therefore not a bill the country sends. It is the household's own decisions about tuition, enrichment, private alternatives, and overseas options.
 
-The third is tax. Singapore income tax may be low compared with many places, but it is often lumpy. If you only look at the month when tax is paid, the household suddenly looks expensive. If you ignore tax because it is annual, the household looks cheaper than it is. It needs a category.
+That makes the school line more diagnostic than expensive. When enrichment creeps up, the line creeps up. When a child enters public primary school and a S$1,500-a-month preschool line disappears, the line collapses overnight — a real FI inflection that a less granular system would miss. Watch the line, and the household sees how much of its child-related spending is institutional cost and how much is anxiety converted into recurring fees.
 
-The fourth is school. For families with children, school and preschool can move sharply over time. A child entering public primary school can collapse a cost line. A child entering preschool can create one. If the category exists, the change is visible.
-
-These are the places where bookkeeping should be serious. Not complicated. Serious.
+These are not complicated. They are just serious. Most household bookkeeping fails not because it is too simple but because it is precise about the wrong things.
 
 ## Use The Trail
 
 Almost all of my records come from bank statements and credit-card statements.
 
-This leads to a practical rule: when possible, spend in ways that leave a trail.
+That leads to a practical rule: when possible, spend in ways that leave a trail.
 
-Cash is not morally worse. It is just harder to track. If a household spends a lot of cash, either someone must enter it manually or the spending disappears into memory. Memory is a bad accounting system. It has strong opinions and weak audit trails.
+Cash is not morally worse. It is just harder to track. If a household spends a lot of cash, either someone enters it manually or the spending disappears into memory. Memory is a bad accounting system. It has strong opinions and weak audit trails.
 
-Credit cards, debit cards, PayNow, GIRO, bank transfers, and app payments all produce records. They make it possible to sit down later and reconstruct the month. Some people worry that cards make spending too easy, which can be true. But for a household that is already trying to manage spending consciously, the traceability is valuable.
-
-AI may eventually do much of the clerical work. It can read statements, group merchants, detect recurring expenses, flag unusual transactions, and summarise trends. I do not currently rely on AI for my own bookkeeping, but it should reduce the manual work over time.
-
-It will not decide which categories matter.
-
-That remains the household's job.
+In Singapore the trail is unusually easy to assemble. Credit cards, PayNow, GIRO, and bank transfers already cover most household spending. The main remaining cash channel is the hawker centre and a few wet-market stalls, which is small enough to estimate as a weekly cash allowance rather than itemised. The point is not to abolish cash. The point is to stop pretending that cash spending will be reconstructed accurately three months later.
 
 ## Monthly Numbers Lie
 
@@ -110,7 +106,13 @@ Take the total spending from the last twelve months. Next month, drop the oldest
 
 This is also why a stable category structure matters. You want this year's travel category to be comparable with next year's travel category. You want this year's school category to be comparable with next year's school category. If the categories keep changing, the chart becomes decoration.
 
-My 2025 annual spending mix looked roughly like this:
+## What a Real Household Looks Like
+
+Here is what is useful about looking at a year of one household instead of an average.
+
+The four largest lines in my 2025 spending were not where people imagine spending money. They were mortgage interest, travel, tax, and school. Together they accounted for almost half of annual outflow. Groceries — the thing households actually feel themselves spending on, week after week — came in below 7 percent. Restaurants and entertainment were rounding errors compared with the mortgage statement and IRAS.
+
+The full mix:
 
 | Category | Share of annual spending |
 |---|---:|
@@ -125,79 +127,79 @@ My 2025 annual spending mix looked roughly like this:
 | Utilities / internet / phone | 3.3% |
 | Car | 2.9% |
 
-Do not copy these percentages. They are not targets.
+Do not copy these percentages. They are not targets. Travel in my case includes visiting parents and family in my home country as a first-generation immigrant, which is closer to obligation than holiday. The "car" line is low because the household does not own one. Other households will look different in exactly the ways their lives are different.
 
-Their usefulness is that they show the shape of a real household. Mortgage interest and tax are large. School is large. Mortgage principal is large, but it is not the same kind of "spending" as mortgage interest. Travel is also large, but in my case travel includes visiting parents and family in my home country as a first-generation immigrant. It is not all luxury holidays. We do travel, but not as a luxury-hotel lifestyle.
+For a published reference point, the SingStat Household Expenditure Survey 2023 reports that the average Singapore resident household spent S$5,931 a month, with housing (29.8%), food (20.0%), and transport (13.4%) making up about 63% of total expenditure. Roughly two-thirds of food spending went to restaurants, hawker centres, and other food services rather than groceries. The shape of that average household is very different from mine, and probably from yours.
 
-The table is not there to impress anyone. It is there to make the household legible to itself.
+That is the entire point of doing this exercise. The average is not your household. Until your household is visible to itself, decisions about housing, cars, school, and travel are being made against an imaginary reference.
 
-## Track Income Too
+## Track Income, Track Assets
 
 Many people who start bookkeeping track only spending.
 
-That is understandable. Spending feels like the thing to control. But FI is not about spending alone. FI is about the relationship between income, spending, savings, and assets.
+That is understandable. Spending feels like the thing to control. But FI is not about spending alone. It is about the relationship between income, spending, savings, and assets. If you track only spending, you cannot calculate savings rate. You can only feel guilty or pleased about expenses.
 
-If you track only spending, you cannot calculate savings rate. You can only feel guilty or pleased about expenses.
+My income categories are simple: salary, CPF contribution, dividends, Singapore Savings Bond payouts, bank interest, and other. CPF contribution is in there because CPF is part of the household's savings flow. Ignoring it understates how much wealth is being built.
 
-My income categories are also simple: salary, CPF contribution, dividends, Singapore Savings Bond payouts, bank interest, and other income. The important Singapore-specific decision is to include CPF contribution. CPF is part of the household's savings flow. Ignoring it understates how much wealth is being built.
+Passive income — dividends, bonds, interest, rental — can be useful to track. I used to care a lot about passive income divided by annual spending; if passive income covers spending, the argument goes, work is optional. It is an intuitive gauge, especially for dividend-heavy or bond-heavy households. But it can mislead a total-return investor. A global equity portfolio may produce modest dividends while compounding well. A high-dividend portfolio may produce more visible income while growing less efficiently. Passive income is a useful number. It is not the number.
 
-Passive income can be useful to track, especially for households that rely on dividends, bonds, interest, or rental income. I used to care a lot about passive income divided by annual spending. It is an intuitive FI progress gauge: if passive income covers spending, work is optional.
+The other half of the system is the asset base. A household pursuing FI needs to know what it owns and what it owes. At a minimum, a workable household dashboard tracks:
 
-But I no longer treat it as the main metric. I am not primarily a dividend investor now. For a total-return investor, passive income can be misleading. A global equity portfolio may produce modest dividends while still compounding well. A high-dividend portfolio may produce more visible income while growing less efficiently.
+| Item | Frequency | Purpose |
+|---|---|---|
+| Monthly income, broad categories | Monthly | Calculate savings rate |
+| Monthly spending, broad categories | Monthly | See where money goes |
+| CPF contributions | Monthly / annual | Capture forced savings |
+| Mortgage principal vs interest | Annual statement, allocated monthly | Separate savings from expense |
+| Rolling 12-month spending | Monthly | Smooth annual and lumpy expenses |
+| Cash and bank balances | Monthly | Liquidity buffer |
+| CPF balances | Monthly or quarterly | Major Singapore wealth component |
+| Investment balances | Quarterly | Compounding engine |
+| Home value | Annually | Long-term optionality, downgrade reserve |
+| Mortgage balance | Monthly or quarterly | Main liability |
+| Net worth | Monthly or quarterly | Overall direction |
+| Investable assets | Monthly or quarterly | FI numerator |
+| FI progress | Monthly or quarterly | Work-optional gauge |
 
-So passive income is a useful number, not the number.
+This is enough.
 
-## Track Assets, Not Just Expenses
+A more detailed system may be better for some people. A business owner may need more. A family with multiple properties may need more. A freelancer with irregular income may need more. But for most salaried households, the danger is not under-engineering. The danger is building a system too elaborate to maintain.
 
-The other half of the system is the asset base.
+Most of the items on the table value themselves. Bank balances and CPF balances arrive as exact numbers on monthly statements. The two items that need a method are the investment portfolio and the home.
 
-Money Manager can track assets, liabilities, accounts, credit cards, and net worth. Again, the exact app is not the point. The point is that a household pursuing FI needs to know what it owns and owes.
+The **investment portfolio** should be marked to market every few months — quarterly is usually enough. Weekly or daily updates are tempting and counterproductive. The household is not trading the portfolio; it is tracking whether the FI numerator is moving. A quarterly snapshot smooths daily noise while still picking up real moves.
 
-At minimum, the household should track:
+The **home** is harder, and the easy answer — exclude it from everything — is too easy. An owner-occupied home does not produce cash flow, but its market value still matters. A household that downgrades from a four-room flat to a smaller one in retirement, or sells and rents, or moves to JB, releases real cash from the asset. Pretending the home is worth zero in net-worth tracking pretends that optionality does not exist either.
 
-| Item | Why It Matters |
-|---|---|
-| Cash and bank balances | Liquidity and emergency buffer |
-| CPF balances | Major household wealth component in Singapore |
-| Investments | Main compounding engine |
-| Home value, if tracked | Useful for net worth, but not always investable |
-| Mortgage balance | Main liability for many households |
-| Credit-card balances | Short-term liabilities and spending trail |
-| Net worth | Assets minus liabilities |
-| Investable assets | Assets that can actually support FI spending |
-
-Net worth is useful, but FI is not simply net worth. A home you live in may be valuable, but it does not pay for groceries unless you sell, rent, downgrade, or borrow against it. For my own FI progress, the more useful gauge is:
+The pragmatic compromise is two numbers, not one. Update home value annually — the latest transacted price for the same block from URA's caveats database, an SRX or EdgeProp estimate, or a recent neighbour transaction is precise enough — and include it in net worth. But keep a separate **investable assets** number that excludes the home, and use that for the FI gauge.
 
 `investable assets x withdrawal rate / annual spending`
 
 If the number is 50 percent, the portfolio can theoretically support half the household's annual spending under the chosen withdrawal assumption. If it reaches 100 percent, employment income has become optional under that assumption.
 
+Net worth shows wealth. Investable assets show how close the portfolio is to supporting the life. The two numbers answer different questions, and a household pursuing FI needs both.
+
 The withdrawal rate is doing a lot of work in that sentence. Whether it should be 4 percent, 3.5 percent, or something else is not a bookkeeping question. It is the next chapter.
 
-The bookkeeping job is more basic: know the numerator and the denominator.
+The bookkeeping job is more basic: know the numerator and the denominator. What counts as investable assets? What is annual spending? Is CPF included, and with what liquidity caveat? Is the home excluded? Are taxes handled consistently? Without measurement, the withdrawal-rate debate is theatre.
 
-What counts as investable assets? What is annual spending? Is CPF included, and with what liquidity caveat? Is the home excluded? Are taxes handled consistently? Without measurement, the withdrawal-rate debate is theatre.
+## How To Actually Do This
 
-## A Simple Template
+This is the chapter's most practical part, and it is the part where most attempts fail. So a few rules, written for the household that wants this to still be running in three years rather than three weeks.
 
-If I were starting from zero, I would not build a complex system. I would start with this:
+**Do it once a month, not once a transaction.** This is the single most important rule, and it is also the reason most attempts collapse. Trying to enter every coffee in real time is the bookkeeping equivalent of weighing yourself after each meal. Banks, credit-card issuers, CPF, and brokerages have already recorded the data. Your job is to categorise it once a month, not to record it as it happens. A monthly sit-down — half an hour to an hour — is enough for most salaried households.
 
-| Metric | Frequency | Purpose |
-|---|---|---|
-| Monthly income | Monthly | Calculate savings rate |
-| Monthly spending by broad category | Monthly | See where money goes |
-| CPF contributions | Monthly / annual | Capture forced savings |
-| Mortgage principal and interest | Annual statement, allocated monthly if desired | Separate savings from expense |
-| Rolling 12-month spending | Monthly | Smooth annual and lumpy expenses |
-| Total assets | Monthly or quarterly | Track household wealth |
-| Total liabilities | Monthly or quarterly | Track debt |
-| Net worth | Monthly or quarterly | See overall balance sheet direction |
-| Investable assets | Monthly or quarterly | FI numerator |
-| FI progress | Monthly or quarterly | Track work-optional progress |
+**Backfill one year before going forward.** Pull last calendar year's bank and credit-card statements. Categorise the transactions in one or two sittings. The household now has a rolling 12-month baseline on day one, instead of waiting twelve months to see anything meaningful.
 
-This is enough.
+**Keep the category list short enough to recite from memory.** Roughly fifteen to twenty broad categories. If you cannot name them without looking, the system is already too complex and the next missed Friday is in front of you.
 
-A more detailed system may be better for some people. A business owner may need more. A family with multiple properties may need more. A freelancer with irregular income may need more. But for most salaried households, the danger is not under-engineering. The danger is building a system too elaborate to maintain.
+**Compare only rolling 12-month numbers.** Two adjacent months will always look dramatic, and the drama is almost always timing. Households that quit usually quit because one bad month made the project feel pointless. Look at the slow line, not the noisy one.
+
+**Reconcile to the balance sheet once a month.** Income minus spending for the month should approximately explain the change in total assets minus liabilities. If it does not, something is missing — usually a CPF flow, a transfer between accounts, or a card payment counted twice. This monthly check is what keeps the system honest without auditing every transaction.
+
+**Let AI take the clerical layer, eventually.** Reading statements, grouping merchants, detecting recurring charges, and flagging unusual transactions are all jobs an LLM can do well with exported CSVs. Start manual to learn what categories matter for your household. Automate later. AI will not decide which categories matter. That remains the household's job.
+
+The monthly batch is the discipline that makes everything else in this chapter survive contact with real life.
 
 ## Honest Enough
 
@@ -213,4 +215,6 @@ That is enough.
 
 A household does not need perfect accounting. It needs accounting honest enough to change decisions, and simple enough to survive.
 
-The next question is the one that makes everyone argue: once you know the assets and the spending, what withdrawal rate is safe?
+The next question is the famous one. Once the assets and the spending are honestly measured, what withdrawal rate is actually safe? Four percent of what?
+
+[Chapter 4 follows.]
