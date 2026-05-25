@@ -50,23 +50,23 @@ The cleanest way to see this is not to compare tax tables. Tax tables are useful
 
 Take a senior software engineer at a large technology company. Levels.fyi (https://www.levels.fyi/), a self-reported compensation database, is not a national statistics office. It is noisy, selection-biased, changes as new submissions arrive, and is full of people who are unusually willing to discuss money on the internet. Good. For this purpose, that is enough. We are not using it to prove a labour-market law. We are using it to illustrate a simple point: headline compensation is not surviving wealth.
 
-Here is a snapshot from Levels.fyi pages checked in May 2026. Treat it as a market anecdote with numbers, not as an official compensation survey.
+Here is a snapshot from Levels.fyi pages checked in May 2026, with a rough tax calculation added. Treat it as a market anecdote with numbers, not as an official compensation survey or tax advice. All amounts are converted to U.S. dollars for comparison.
 
-| Example role and location | Reported annual total compensation | Base / stock / bonus split | What the number does not show |
-|---|---:|---:|---|
-| Google L5 Software Engineer, San Francisco Bay Area | about US$445,000 | US$236,000 / US$165,000 / US$44,000 | Federal tax, California tax, payroll taxes, medical costs, housing, childcare |
-| Google L5 Software Engineer, Singapore | about US$200,000 | US$134,000 / US$52,000 / US$13,000 | Singapore tax, CPF treatment, housing choice, school costs |
-| Google L5 Software Engineer, China | about US$187,000 | US$129,000 / US$52,000 / US$6,000 | Individual income tax, social insurance, housing fund, city costs |
+| Example role and location | Reported annual total compensation | Estimated income / payroll tax leakage | Estimated amount after that leakage | What the estimate still does not show |
+|---|---:|---:|---:|---|
+| Google L5 Software Engineer, San Francisco Bay Area | about US$445,000 | about US$183,000 (41%) | about US$262,000 | Medical costs, housing, childcare, state-specific deductions |
+| Google L5 Software Engineer, Singapore | about US$200,000 | about US$25,000 (12%) | about US$175,000 | CPF liquidity, housing choice, school costs |
+| Google L5 Software Engineer, Greater London Area | about US$274,000 | about US$113,000 (41%) | about US$161,000 | NHS value, pension choices, London housing, childcare |
 
-Source: Levels.fyi Google L5 Software Engineer pages for [San Francisco Bay Area](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l5/locations/san-francisco-bay-area), [Singapore](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l5/locations/singapore), and [China](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l5/locations/china), checked in May 2026; self-reported compensation data, shown in USD.
+Source: Levels.fyi Google L5 Software Engineer pages for [San Francisco Bay Area](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l5/locations/san-francisco-bay-area), [Singapore](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l5/locations/singapore), and [Greater London Area](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l5/locations/london-metro-area), checked in May 2026; self-reported compensation data, shown in USD. Tax estimates assume a single taxpayer, no itemised deductions, all compensation taxed as employment income, GBP/USD at roughly 1.34 and USD/SGD at roughly 1.27. The U.S. estimate includes federal income tax, California income tax, employee payroll taxes, and California SDI. The U.K. estimate uses England income tax and employee National Insurance. The Singapore estimate uses resident income tax only; employee CPF changes liquidity but remains household wealth, so it is not treated as tax leakage here.
 
-The Bay Area number is larger. That is real.
+The Bay Area number is much larger. London sits in between. Singapore's headline number is the smallest.
 
-But the question is not which headline is larger. The question is how much household surplus each headline can reliably produce.
+But the question is not which headline is larger. The question is how much of each headline can become household surplus.
 
 A Bay Area engineer sees federal income tax, California income tax, payroll taxes, medical insurance costs, high housing costs, and childcare costs that can look like a second mortgage. California's state income tax system alone runs up to 12.3 percent, with an additional one percent tax on taxable income above US$1 million. The U.S. federal top marginal rate for 2026 remains 37 percent. These are marginal rates, not effective rates, but they describe the slope of the hill.
 
-A China-based engineer sees another version of the same problem. The headline package may be strong, especially in a top internet company in Beijing, Shanghai, Shenzhen, or Hangzhou, but comprehensive income tax rates can run up to 45 percent. Social insurance and housing-fund contributions complicate the calculation further. Again, the point is not that China is bad and Singapore is good. The point is that the same occupational skill can pass through very different systems before it becomes household wealth.
+A London engineer sees another version of the same problem. The headline package may be strong, and the National Health Service changes the household's healthcare risk in a way the table does not capture. But at this income level the personal allowance has disappeared, the additional income tax rate is 45 percent, and employee National Insurance still applies. Again, the point is not that Britain is bad and Singapore is good. The point is that the same occupational skill can pass through very different systems before it becomes household wealth.
 
 A Singapore engineer sees a different slope. For tax residents, Singapore's personal income tax is progressive, but the top marginal rate is 24 percent, and that top rate begins only above S$1 million of chargeable income. At S$240,000 of chargeable income, the gross tax payable is S$28,750 before reliefs and rebates. At S$320,000, it is S$44,550. Those are not small numbers. They are also not American-California numbers.
 
@@ -74,7 +74,7 @@ There is another difference. In the United States, payroll taxes fund future ben
 
 The Singapore engineer's gross number may be less glamorous. The money that survives may be more competitive than the headline suggests.
 
-This is not an argument that everyone should work in Singapore instead of California. Careers are not spreadsheets wearing shoes. The Bay Area has deeper companies, larger equity upside, and a labour market that has made many engineers very rich. China has its own opportunities, intensity, and domestic-market scale. A person should not choose a country by looking only at tax brackets, in the same way that one should not choose a spouse by looking only at CPF nomination forms.
+This is not an argument that everyone should work in Singapore instead of California or London. Careers are not spreadsheets wearing shoes. The Bay Area has deeper companies, larger equity upside, and a labour market that has made many engineers very rich. London has global finance, frontier AI companies, and a different public-service model. A person should not choose a country by looking only at tax brackets, in the same way that one should not choose a spouse by looking only at CPF nomination forms.
 
 But a household pursuing FI must understand the conversion rate.
 
