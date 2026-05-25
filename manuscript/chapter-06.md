@@ -12,29 +12,27 @@ This is not a claim that children are a tax strategy. That would be a strange wa
 
 The point is narrower and more useful: Singapore does not just tax less. It lets more of a middle-class household's economic output stay useful to the household.
 
-That is the sixth piece of the Singapore FI stack.
+Chapter 5 began the Singapore FI stack with CPF. CPF is compulsory saving with locks, policy risk, and unusually useful SGD-denominated returns. This chapter moves one step earlier in the paycheque: before money goes into CPF, investments, housing, or lifestyle, how much does the system let the household keep?
 
-The first five chapters built the arithmetic. Work becomes optional when assets can support the life. Savings rate is the engine. Bookkeeping keeps the engine honest. A 3.5 percent withdrawal rate gives the finish line a working number. CPF is part of the balance sheet, but not cash.
+That question matters because FI is not built from gross income. It is built from the part of income that survives tax, compulsory deductions, family costs, investment leakage, and lifestyle choices.
 
-Now we need to ask what happens before a dollar even reaches the spreadsheet. How much of it survives the system?
-
-## Retention Rate
+## What Actually Survives
 
 Gross salary is not wealth.
 
-Gross salary is what the employer announces, the recruiter sells, the bank underwrites, and the dinner table quietly ranks. It is important, but it is not the number that reaches financial independence. FI is built from retained resources: the part of compensation and investment return that remains available to become household assets after taxes, statutory contributions, unavoidable fees, and basic family costs.
+Gross salary is what the employer announces, the recruiter sells, the bank underwrites, and the dinner table quietly ranks. It is important, but it is not the number that reaches financial independence. FI is built from the money and assets that remain useful to the household.
 
-The rough household version looks like this:
+The distinction is simple enough without a grand formula.
 
-`retained resources = cash wages + employer CPF + investment income - income tax - non-saving leakages`
+Start with a job. Some of the compensation arrives as cash. Some may arrive as employer CPF, bonus, stock, or other benefits. Then the system takes its share. Income tax leaves. Employee CPF moves from cash wages into a locked household account. Employer CPF never touches the bank account but still becomes household wealth. Other countries may add payroll taxes, social contributions, medical insurance premiums, or local taxes that do not sit on the household balance sheet. After that, the household still has to buy housing, childcare, education, transport, food, and investment products.
 
-The CPF wording matters. Employee CPF is already part of salary; counting it once as compensation and again as a CPF contribution would double-count it. Employer CPF, by contrast, is compensation that never appears in the bank account but still becomes household wealth.
+The FI question is not:
 
-Then the FI question becomes:
+`What is the salary?`
 
-`retained resources - spending = surplus`
+It is:
 
-The surplus is what buys freedom.
+`How much of this year's economic output became assets that can support future life?`
 
 This is why tax is not a separate topic from savings rate. Tax is part of the savings-rate equation. A dollar not taxed can become an asset. A dollar taxed and returned through a useful public service can also matter, if it prevents the household from buying the same service privately. A dollar taxed and spent on something unrelated may still be socially necessary, but it does not move the household toward FI.
 
@@ -44,29 +42,37 @@ That advantage has three layers.
 
 First, employment income is taxed lightly by developed-world standards. Second, the state quietly shares part of the child bill, through tax reliefs, preschool subsidies, public schools, and child-related transfers. Third, investment leakage is low: no general capital gains tax, many Singapore one-tier dividends not taxed again in personal hands, and no estate duty.
 
-Low taxes are not the whole system. They are the first visible part of a wider retention machine.
+Low taxes are not the whole system. They are the first visible part of a wider machine that lets more of the household's output remain useful.
 
 ## The Engineer Who Keeps More
 
 The cleanest way to see this is not to compare tax tables. Tax tables are useful, but they do not feel like life. A better comparison starts with the same job.
 
-Take a senior software engineer at a large technology company. Levels.fyi, a self-reported compensation database, is not a national statistics office. It is noisy, selection-biased, changes as new submissions arrive, and is full of people who are unusually willing to discuss money on the internet. Good. For this purpose, that is enough. We are not using it to prove a labour-market law. We are using it to illustrate a simple point: headline compensation is not retained wealth.
+Take a senior software engineer at a large technology company. Levels.fyi (https://www.levels.fyi/), a self-reported compensation database, is not a national statistics office. It is noisy, selection-biased, changes as new submissions arrive, and is full of people who are unusually willing to discuss money on the internet. Good. For this purpose, that is enough. We are not using it to prove a labour-market law. We are using it to illustrate a simple point: headline compensation is not surviving wealth.
 
-Open the site on an ordinary day and the pattern is hard to miss. A Google L5 or similar senior engineer in the San Francisco Bay Area often shows a much larger headline total-compensation number than a comparable engineer in Singapore, while senior roles in China show their own strong but different ranges. The exact number changes by date, company, level, sample, stock price, and exchange rate. That is fine. The comparison is not the data point. The comparison is the question it forces.
+Here is a snapshot from Levels.fyi pages checked in May 2026. Treat it as a market anecdote with numbers, not as an official compensation survey.
 
-The American number is larger. That is real.
+| Example role and location | Reported annual total compensation | Base / stock / bonus split | What the number does not show |
+|---|---:|---:|---|
+| Google L5 Software Engineer, San Francisco Bay Area | about US$445,000 | US$236,000 / US$165,000 / US$44,000 | Federal tax, California tax, payroll taxes, medical costs, housing, childcare |
+| Google L5 Software Engineer, Singapore | about US$200,000 | US$134,000 / US$52,000 / US$13,000 | Singapore tax, CPF treatment, housing choice, school costs |
+| Google L5 Software Engineer, China | about US$187,000 | US$129,000 / US$52,000 / US$6,000 | Individual income tax, social insurance, housing fund, city costs |
+
+Source: Levels.fyi Google L5 Software Engineer pages for [San Francisco Bay Area](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l5/locations/san-francisco-bay-area), [Singapore](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l5/locations/singapore), and [China](https://www.levels.fyi/companies/google/salaries/software-engineer/levels/l5/locations/china), checked in May 2026; self-reported compensation data, shown in USD.
+
+The Bay Area number is larger. That is real.
 
 But the question is not which headline is larger. The question is how much household surplus each headline can reliably produce.
 
-A Bay Area engineer sees federal income tax, California income tax, payroll taxes, medical insurance costs, high housing costs, and child-care costs that can look like a second mortgage. California's state income tax system alone runs up to 12.3 percent, with an additional one percent tax on taxable income above US$1 million. The U.S. federal top marginal rate for 2026 remains 37 percent. These are marginal rates, not effective rates, but they describe the slope of the hill.
+A Bay Area engineer sees federal income tax, California income tax, payroll taxes, medical insurance costs, high housing costs, and childcare costs that can look like a second mortgage. California's state income tax system alone runs up to 12.3 percent, with an additional one percent tax on taxable income above US$1 million. The U.S. federal top marginal rate for 2026 remains 37 percent. These are marginal rates, not effective rates, but they describe the slope of the hill.
 
-A China-based engineer sees another version of the same problem. The headline package may be strong, especially in a top internet company in Beijing, Shanghai, Shenzhen, or Hangzhou, but comprehensive income tax rates can run up to 45 percent. Social insurance and housing-fund contributions complicate the calculation further. Again, the point is not that China is bad and Singapore is good. The point is that the same occupational skill can pass through very different retention machines.
+A China-based engineer sees another version of the same problem. The headline package may be strong, especially in a top internet company in Beijing, Shanghai, Shenzhen, or Hangzhou, but comprehensive income tax rates can run up to 45 percent. Social insurance and housing-fund contributions complicate the calculation further. Again, the point is not that China is bad and Singapore is good. The point is that the same occupational skill can pass through very different systems before it becomes household wealth.
 
 A Singapore engineer sees a different slope. For tax residents, Singapore's personal income tax is progressive, but the top marginal rate is 24 percent, and that top rate begins only above S$1 million of chargeable income. At S$240,000 of chargeable income, the gross tax payable is S$28,750 before reliefs and rebates. At S$320,000, it is S$44,550. Those are not small numbers. They are also not American-California numbers.
 
 There is another difference. In the United States, payroll taxes fund future benefits, but they do not sit in the household's own account. In Singapore, CPF contributions reduce current cash, but they increase household wealth. Chapter 5 dealt with the locks and caveats. The key point here is simpler: CPF is not tax. A tax leaves the household balance sheet. CPF changes the pocket and the lock.
 
-The Singapore engineer's gross number may be less glamorous. The retained-income number may be more competitive than the headline suggests.
+The Singapore engineer's gross number may be less glamorous. The money that survives may be more competitive than the headline suggests.
 
 This is not an argument that everyone should work in Singapore instead of California. Careers are not spreadsheets wearing shoes. The Bay Area has deeper companies, larger equity upside, and a labour market that has made many engineers very rich. China has its own opportunities, intensity, and domestic-market scale. A person should not choose a country by looking only at tax brackets, in the same way that one should not choose a spouse by looking only at CPF nomination forms.
 
@@ -90,7 +96,7 @@ Put together, the tax stack means that a Singapore household can earn, save, inv
 
 That is not a moral statement. It is not a claim that low taxes are always socially superior. It is a household-finance observation: fewer toll booths means more of each dollar can remain in the FI machine.
 
-The machine still has to be used well. A low-tax household can waste money with impressive efficiency. A condo, a car, routine restaurants, luxury travel, and enrichment subscriptions will absorb retained resources just as happily as a tax authority would. Singapore lets more money reach the household. It does not force the household to turn that money into freedom.
+The machine still has to be used well. A low-tax household can waste money with impressive efficiency. A condo, a car, routine restaurants, luxury travel, and enrichment subscriptions will absorb surviving income just as happily as a tax authority would. Singapore lets more money reach the household. It does not force the household to turn that money into freedom.
 
 CPF does some forcing. Tax does not.
 
@@ -102,11 +108,15 @@ Preschool, school, tuition, enrichment, university, music, sport, coding, overse
 
 In Singapore, the child bill is not entirely private.
 
-Start early. For Singapore Citizen children in ECDA-licensed infant care or childcare, there is a basic subsidy. A working main applicant can receive S$600 a month of basic subsidy for infant care and S$300 a month for childcare, with additional means-tested subsidy for qualifying households. From December 2024, lower-income families with a Singapore Citizen child in childcare and monthly household income of S$6,000 or below, or per capita income of S$1,500 or below, qualify for full childcare subsidies if eligible. Full subsidy support does not necessarily mean a zero bill; the fee, income tier, programme type, and subsidy rules still matter. It means the household qualifies for the full basic-plus-additional subsidy structure for its tier.
+Start early. For Singapore Citizen children in ECDA-licensed infant care or childcare, there is a basic subsidy. A working mother, or a single father who is the main applicant, can receive S$600 a month of basic subsidy for infant care and S$300 a month for childcare, with additional means-tested subsidy for qualifying households. From December 2024, lower-income families with a Singapore Citizen child in childcare and monthly household income of S$6,000 or below, or per capita income of S$1,500 or below, qualify for full childcare subsidies if eligible. Full subsidy support does not necessarily mean a zero bill; the fee, income tier, programme type, and subsidy rules still matter. It means the household qualifies for the full basic-plus-additional subsidy structure for its tier.
 
 Fee caps matter too. Anchor Operator preschools exist because the state does not want the preschool market to become only a contest of parental fear. From 2025, the fee cap for full-day childcare at an Anchor Operator centre is S$640 before GST. That is not pocket change. But it is also not the U.S. daycare number that haunts American personal-finance forums.
 
 Then there is the Baby Bonus system. The Child Development Account begins with a First Step Grant, and the government co-matches parental savings up to a cap. For the first child, the current structure provides a S$5,000 First Step Grant and up to S$4,000 of government co-matching. The amounts rise for later children. The CDA is not a cash gift to spend on anything; it is a child-linked account for approved uses. That is exactly the point. The state is not simply handing the household a cheque. It is helping fund the child bill.
+
+The same logic appears on the tax side. Qualifying Child Relief can be shared between spouses, up to S$4,000 per child. Working Mother's Child Relief gives eligible working mothers relief tied to qualifying Singapore Citizen children. For children born or adopted on or after 1 January 2024, the WMCR is a fixed dollar amount: S$8,000 for the first child, S$10,000 for the second, and S$12,000 for the third and subsequent child. Parenthood Tax Rebate gives a tax credit: S$5,000 for the first child, S$10,000 for the second, and S$20,000 for each third and subsequent child, with unused balances carried forward. QCR or Handicapped Child Relief plus WMCR is capped at S$50,000 per child, and the overall personal relief cap is S$80,000 per Year of Assessment.
+
+There are conditions. The details change by child order, citizenship, birth or adoption date, marital status, income, and year. This paragraph is not tax advice. It is a map of the mechanism.
 
 At school age, the effect becomes sharper. Singapore Citizen students in government and government-aided primary schools do not pay monthly school fees. Secondary school fees for citizens are S$5 a month, and pre-university fees are S$6 a month, before miscellaneous fees. The miscellaneous fees are also low by any developed-country private benchmark.
 
@@ -121,28 +131,6 @@ The state quietly shares the child bill. It does not raise the child. It does no
 For a family pursuing FI, this is not a small detail. A preschool line that falls sharply when a child enters public primary school can move the household savings rate by several points. Chapter 2 described that in my own numbers. The spreadsheet did not improve because I became more virtuous. One institutional cost fell off the table.
 
 Public primary school does what no coupon strategy can: it deletes a budget line.
-
-## The Tax Bill That Comes Back
-
-Family reliefs and rebates make the same point from the tax side.
-
-Qualifying Child Relief can be shared between spouses, up to S$4,000 per child. Working Mother's Child Relief gives eligible working mothers relief tied to qualifying Singapore Citizen children. For children born or adopted on or after 1 January 2024, the WMCR is a fixed dollar amount: S$8,000 for the first child, S$10,000 for the second, and S$12,000 for the third and subsequent child. Parenthood Tax Rebate gives a tax credit: S$5,000 for the first child, S$10,000 for the second, and S$20,000 for each third and subsequent child, with unused balances carried forward.
-
-There are caps. There are conditions. QCR or Handicapped Child Relief plus WMCR is capped at S$50,000 per child, and the overall personal relief cap is S$80,000 per Year of Assessment. The details change by child order, citizenship, birth or adoption date, marital status, income, and year. This paragraph is not tax advice. It is a map of the mechanism.
-
-The mechanism is what matters. Singapore's family policy does not simply say "children are your private problem." It reduces the tax bill, subsidises part of preschool, co-funds child-linked spending, and then provides a public school system whose direct fees for citizens are almost symbolic.
-
-This changes the emotional meaning of tax for a family.
-
-In a high-tax, high-private-cost system, the household may pay large taxes and then still buy childcare, healthcare, and education privately at high market prices. The tax bill leaves, and the child bill arrives separately. In Singapore, a citizen household may still pay tax, but a visible part of the family cost is compressed by the same system.
-
-This is why simply comparing headline personal income tax rates understates the advantage. The question is not only how much tax the household pays. It is what the household does not have to buy after paying it.
-
-For parents, the retained-income equation needs one more line:
-
-`retained resources = income kept after tax + family costs not privately borne`
-
-That second term is not always visible. Nobody sends you an annual statement saying, "Congratulations, your public primary school avoided the private-school bill." The household simply does not pay the bill. Absence is hard to notice. FI bookkeeping is partly the art of noticing the missing bill.
 
 ## Investment Leakage
 
@@ -170,7 +158,9 @@ This distinction matters. Many people hear "Singapore has low taxes" and reply, 
 
 Low tax does something specific. It increases the amount of income that reaches the household before lifestyle choices begin.
 
-After that, the household can still choose an expensive version of Singapore. It can turn the tax advantage into a condo mortgage, a car loan, restaurant routine, private tuition stack, and annual lifestyle inflation. The state has left more money on the table. The household may still remove it.
+After that, the household can still choose an expensive version of Singapore. Singapore has many voluntary taxes, or tax-like tolls on particular choices. A car is the obvious one: COE is not income tax, but for a household that chooses car ownership it behaves like a large entry ticket to a more expensive life. Private property brings buyer's stamp duty, and in some cases additional buyer's stamp duty. Alcohol, tobacco, petrol, ERP, parking, and other choice-linked costs do not touch every household equally. They are not the basic price of being alive in Singapore. They are the price of buying certain versions of Singapore.
+
+That is why low tax and high cost of living can both be true. Singapore does not take a large share of salary at the income-tax line, then it offers many expensive doors. Condo. Car. Restaurant routine. Private tuition stack. Luxury travel. The doors are real. Some are worth entering. But they are doors, not the floor.
 
 This is why the book's central sentence remains old and boring: live below your means.
 
@@ -180,7 +170,7 @@ If a household earns S$200,000 and pays relatively low tax, that is useful. If i
 
 The difference is not the tax system alone. It is the tax system plus household design.
 
-Singapore gives the household a high-retention environment. The household has to decide what to retain.
+Singapore lets more money reach the household. The household has to decide how much of it stays there.
 
 ## The Practical Rule
 
@@ -188,7 +178,7 @@ Track three numbers.
 
 First, track gross income. It still matters. Salary is the source of the flow.
 
-Second, track retained resources. Count cash wages and employer CPF without double-counting employee CPF. Subtract income tax and non-saving leakages. Notice reliefs and rebates. Notice subsidies and public services that reduce private spending. For families with children, do not treat the school line as unknowable fog. Separate institutional costs from optional anxiety costs.
+Second, track what survives. Count cash wages and employer CPF without double-counting employee CPF. Subtract income tax and other leakages that do not become household assets. Notice reliefs and rebates. Notice subsidies and public services that reduce private spending. For families with children, do not treat the school line as unknowable fog. Separate institutional costs from optional anxiety costs.
 
 Third, track investable surplus. This is the number that enters the FI machine.
 
@@ -196,12 +186,12 @@ The practical question is not "What is my salary?" It is:
 
 `How much of this year's economic output became assets that can support future life?`
 
-That question connects every chapter so far. CPF is not tax because it remains wealth. Mortgage principal is not spending because it reduces a liability. Tax reliefs matter because they leave more income in the household. Public school matters because it prevents a private bill. Investment tax matters because it reduces leakage from compounding.
+That question connects every chapter so far. CPF is not tax because it remains wealth. Mortgage principal is not spending because it reduces a liability. Tax reliefs matter because they leave more income in the household. Public school matters because it prevents a private bill. Investment tax matters because it reduces leakage from compounding. COE matters because a voluntary toll can turn a low-tax income into a high-cost life.
 
 The Singapore FI stack is powerful because many of its pieces point in the same direction. CPF forces saving. Low taxes preserve income. Public services reduce private cash burn. HDB can lower the largest fixed cost. A strong currency supports regional optionality. None of these pieces is enough alone. Together, they make the path less heroic than it looks from the outside.
 
-Low taxes are a feature. More precisely, high retention is the feature.
+Low taxes are a feature. More precisely, the money that survives is the feature.
 
-The next question is what the retained money is sitting on. A low-tax salary paid in a weak currency creates one kind of FI problem. A low-tax salary paid in Singapore dollars creates another. To understand why geography and currency matter so much to Singapore FI, we need to talk about the strong dollar under your feet.
+The next question is what the surviving money is sitting on. A low-tax salary paid in a weak currency creates one kind of FI problem. A low-tax salary paid in Singapore dollars creates another. To understand why geography and currency matter so much to Singapore FI, we need to talk about the strong dollar under your feet.
 
 [Chapter 7 follows.]
