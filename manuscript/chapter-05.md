@@ -2,27 +2,13 @@
 
 CPF is confusing because it is not one thing.
 
-It is a housing account. It is a retirement account. It is a medical wallet. It is a tax-planning tool. It is a bond-like asset. At 65, part of it becomes an annuity. The same three letters appear on all of these products, which is convenient for branding and inconvenient for thinking.
+It is a housing account. It is a retirement account. It is a medical wallet. At 65, part of it becomes an annuity. The same three letters appear on all of these products, which is convenient for branding and inconvenient for thinking.
 
-This chapter exists because Chapter 4 put CPF inside the FI asset base with a warning label: count it as wealth, but do not pretend it is cash. That sounds simple until you ask which CPF dollar you mean. An Ordinary Account dollar used for mortgage payments is different from a Special Account dollar at age forty. A MediSave dollar is different again. A Retirement Account dollar at fifty-five is not the same product as a CPF LIFE payout at seventy.
+This chapter exists because Chapter 4 put CPF inside the FI asset base with a warning label: count it as wealth, but do not pretend it is cash. That sounds simple until you ask which CPF dollar you mean. An Ordinary Account dollar paying a mortgage is different from a Special Account dollar at age forty. A MediSave dollar is different again. A Retirement Account dollar at fifty-five is not the same product as a CPF LIFE payout at seventy.
+
+The useful description is unsentimental: CPF is compulsory saving with policy risk, liquidity gates, and unusually good SGD-denominated returns. It is not a tax — a tax leaves the household balance sheet; CPF does not. It is also not cash. Pretending it is cash overstates liquidity. Pretending it is tax understates wealth. Both errors distort the FI calculation.
 
 CPF is several financial instruments wearing one logo. Use it. Understand it. Do not worship it.
-
-## Forced Saving Is Not A Tax
-
-The emotional case against CPF is easy to understand.
-
-Money leaves the paycheque before it reaches the bank account. The rules are complicated. The withdrawal ages move with policy. The government invests the money through special securities rather than handing every worker a brokerage account. From the point of view of monthly cash flow, CPF can feel like a tax with a nicer website.
-
-But calling CPF a tax makes the household worse at accounting.
-
-A tax leaves the household balance sheet. CPF does not. It moves income from liquid cash into restricted personal accounts that earn interest and can later fund housing, healthcare, retirement income, or bequests. The restriction is real. The wealth is also real.
-
-That distinction is the whole point of this book's CPF treatment. If a household pretends CPF is cash, it will overstate its liquidity. If it pretends CPF is tax, it will understate its wealth. Both errors distort the FI calculation.
-
-The useful sentence is less emotional: CPF is compulsory saving with policy risk, liquidity gates, and unusually good SGD-denominated returns.
-
-That is not a slogan. It is a balance-sheet description.
 
 ## Two Retirement Ages
 
@@ -92,17 +78,13 @@ But the table gives the scale. CPF LIFE is meaningful income. It is not, by itse
 
 ## MA: The Medical Dollar
 
-MediSave is the account people often understand last because it is neither spending money nor retirement income in the usual sense.
+MediSave is the account people understand last because it is neither spending money nor retirement income in the usual sense. MA pays for approved medical expenses and MediShield Life and Integrated Shield premiums, subject to limits. It earns the same headline rate as SA and RA, but it is a restricted healthcare wallet, not a pool waiting to be withdrawn in one lump sum.
 
-MA pays for approved medical expenses and medical insurance premiums, subject to limits. It earns the same headline rate as SA and RA, but its use case is different. It is not a pool waiting to be withdrawn in one lump sum. It is a restricted healthcare wallet.
+That restriction is annoying until a large medical bill appears. Then it starts to look like design.
 
-That restriction is annoying until a large medical bill appears. Then the restriction starts to look like design.
+For FI, MA does two quiet jobs. It reduces the need to hold separate cash for predictable healthcare outflows, and it makes medical spending less likely to ambush the portfolio. It does not remove healthcare risk. It narrows one channel of it.
 
-For FI, MA does two jobs. It reduces the need to hold separate cash for predictable healthcare-related outflows, and it makes healthcare spending less likely to ambush the portfolio. It does not remove healthcare risk. It narrows one channel of it.
-
-This is also why the question "Should I top up SA or MA?" has no universal answer. If both accounts earn similar rates and both can generate tax relief within the rules, the deciding factor is often liquidity of use. SA is retirement money. MA can pay medical insurance premiums and approved healthcare expenses before 55. For some households, that makes MA the shorter-duration CPF top-up.
-
-That does not make MA always better. A household near the Basic Healthcare Sum, with strong insurance coverage and a different tax position, may choose differently. The point is not to find a CPF hack. The point is to know which lock you are buying.
+The question "Should I top up SA or MA?" has no universal answer. Both can earn similar rates and generate tax relief within the rules; the deciding factor is usually which lock you can live with. The point is not to find a CPF hack, but to know which lock you are buying.
 
 ## CPF LIFE: The Longevity Insurance
 
@@ -118,61 +100,39 @@ For FI planning, this is valuable because it changes the tail risk. The portfoli
 
 ## How CPF Fits The FI Formula
 
-Here is the practical way to treat CPF in the household dashboard.
+The practical rule is short: count CPF as wealth, not as cash, and separate it by function. OA used for housing affects cash flow and home equity. SA and RA are bond-like retirement assets with age gates. MA is a healthcare wallet. CPF LIFE is future annuity income. Collapsing them into one number is convenient and usually misleading.
 
-Count CPF as wealth.
+For the Chapter 4 formula, the key concept is the bridge. Before 55 and 65, the household needs enough liquid assets to cover the years when CPF cannot fully support spending. After CPF access and CPF LIFE payouts begin, CPF reduces the burden on the portfolio. The same 3.5 percent rule can include CPF as wealth while still demanding a conservative liquid bridge for the years before access.
 
-Do not count CPF as cash.
-
-Separate CPF by function.
-
-OA used for housing affects cash flow and home equity. SA and RA are bond-like retirement assets with age and policy gates. MA is a healthcare wallet. CPF LIFE is future annuity income. Collapsing all of them into one number is convenient and usually misleading.
-
-For the Chapter 4 formula, CPF belongs inside the FI asset base with liquidity caveats. A household with S$500,000 in liquid investments and S$500,000 in CPF is not the same as a household with S$1 million in a brokerage account. It is also not the same as a household with only S$500,000. Both lazy answers are wrong.
-
-The right answer is a bridge.
-
-Before 55 and 65, the household needs enough liquid assets to cover the years when CPF cannot fully support spending. After CPF access and CPF LIFE payouts begin, CPF reduces the burden on the portfolio. This is why the same 3.5 percent rule can include CPF as wealth while still demanding a conservative margin.
-
-CPF also affects asset allocation. A large SA or RA balance already behaves like part of the bond allocation of the household balance sheet. That does not mean a retiree needs no cash or liquid bonds. It means the non-CPF portfolio does not have to pretend CPF is zero.
+CPF also reshapes asset allocation. A large SA or RA balance already behaves like part of the bond allocation. That does not mean a retiree needs no cash or liquid bonds. It means the non-CPF portfolio does not have to pretend CPF is zero.
 
 The distinction sounds small. It is the difference between using the system and being fooled by it.
 
-## The 1M65 Trade-Off
+## What 1M65 Gets Right, And Where To Be Careful
 
-The 1M65 movement is right about several important things.
+The most influential CPF idea of the past decade did not come from a bank or a regulator. It came from Loo Cheng Chuan, a Singaporean who began arguing in the mid-2010s that an ordinary working couple could each reach a million dollars in CPF by 65. The shorthand is 1M65. The mechanism is unglamorous: contribute steadily, transfer OA to SA so the balance earns the higher 4 percent rate, top up where it is tax-efficient, and let four decades of compounding do the rest.
 
-It takes saving seriously. It respects compounding. It treats CPF as an asset rather than only as a grievance. It also understands something many high-income households miss: a large, boring, government-backed balance compounding for decades can beat a clever portfolio that is constantly interrupted by lifestyle.
+The movement deserves credit. It takes saving seriously. It respects compounding. It treats CPF as an asset rather than only as a grievance. It also understands something many high-income households miss: a large, boring, government-backed balance compounding for decades can beat a clever portfolio constantly interrupted by lifestyle.
 
 That spirit belongs in this book.
 
-The problem is turning one CPF-maximisation tactic into a general rule. A common 1M65 move is to transfer OA savings into SA so the money earns the higher SA rate. CPF Board itself describes the logic plainly: OA is useful for housing, while SA is meant for retirement and pays more. If you do not expect to need all your OA savings, transferring some to SA can raise future retirement payouts.
+The gentle critique is about one specific tactic: the OA-to-SA transfer. It is irreversible. It also reduces the OA available for a future home, mortgage instalments, insurance, education, or CPF Investment Scheme use. If OA later runs short, the household pays for housing in cash.
 
-The "if" is doing the work.
+For a household with a settled home, strong reserves, stable income, and no plan to upgrade, the transfer can be rational. The higher rate is real. The forced lock-up can be behaviourally useful.
 
-An OA-to-SA transfer is irreversible. It also reduces the OA funds available for a future home purchase, mortgage instalments, insurance, education, or CPF Investment Scheme use. If OA later runs short, the household may have to use cash for housing.
+For a younger household still choosing where to live, planning children, buying a first flat, or building the liquid bridge to FI before 55, the same transfer can be expensive. It buys yield by selling flexibility.
 
-That is not a small footnote. It is the trade.
+This book is not trying to maximise CPF at 65. It is trying to reach full FI with a balance sheet that works before and after CPF access. A million dollars in CPF at 65 is an impressive number. It is not the same thing as work becoming optional at 45 or 50.
 
-For a household with a fully settled home, strong cash reserves, stable income, no plan to upgrade, and enough non-CPF liquidity, transferring OA to SA may be rational. The higher rate is valuable. The forced lock-up can even be behaviourally useful.
-
-For a younger household still deciding where to live, planning children, buying a first flat, considering a move, or building the liquid bridge to full FI before 55, the same transfer can be expensive. It buys yield by selling flexibility.
-
-This book is not trying to maximise CPF at 65. It is trying to reach full FI with a balance sheet that works before and after CPF access. A million dollars in CPF at 65 is impressive. It is not the same thing as work becoming optional at 45 or 50.
-
-So the rule is simple: admire the savings discipline; price the liquidity loss.
+So the rule is short: admire the savings discipline; price the liquidity loss.
 
 ## Use It, Do Not Worship It
 
-CPF is one of Singapore's great FI advantages. It forces savings before lifestyle can claim the money. It pays attractive risk-free rates by global standards. It helps finance housing. It pre-funds healthcare. It provides longevity insurance. It also gives tax-planning opportunities through cash top-ups, subject to annual limits and changing rules.
+CPF is one of Singapore's great FI advantages. It forces savings before lifestyle can claim the money. It pays attractive risk-free rates by global standards. It helps finance housing, pre-funds healthcare, and provides longevity insurance. It also offers tax-planning opportunities through cash top-ups, subject to annual limits and changing rules.
 
-But CPF is not a complete retirement plan.
+But CPF is not a complete retirement plan. It has liquidity gates and policy risk. Its rules can change, as the closure of SA for members aged 55 and above showed. Its purchasing power depends on Singapore remaining a high-trust, well-run country with a strong currency. And for many older Singaporeans, CPF balances are modest because wages decades ago were modest.
 
-It has liquidity gates. It has policy risk. Its rules can change, as the closure of SA for members aged 55 and above showed. Its purchasing power depends on Singapore remaining a high-trust, well-run country with a strong currency. And for many older Singaporeans, CPF balances are modest because wages decades ago were modest.
-
-The sensible attitude is boring and useful: use CPF deliberately, count it honestly, and build outside it.
-
-Do not fight CPF for emotional reasons. Do not worship CPF because it pays 4 percent. Do not treat CPF LIFE as proof that the portfolio can be small. Do not treat illiquidity as if it were safety in all circumstances.
+The sensible attitude is boring and useful: use CPF deliberately, count it honestly, and build outside it. Do not fight CPF for emotional reasons. Do not worship it because it pays 4 percent. Do not treat illiquidity as if it were safety in all circumstances.
 
 CPF is part of the Singapore FI stack. The next part is what happens before money even reaches the stack: how much of each dollar Singapore lets you keep.
 
