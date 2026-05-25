@@ -6,13 +6,13 @@ The household only gets rich from what survives.
 
 I first understood this after opening our IRAS notice of assessment after we had children. I expected tax to behave like a simple subtraction from salary. Instead, the household picture was stranger. My wife's tax was close to zero. My own bill was not zero, but child-related reliefs, rebates, preschool support, public school, and child-linked transfers were all pushing in the opposite direction. Money left through one door. Some of it came back through another. Some bills simply never arrived at private-market prices.
 
-This is not a claim that children are a tax strategy. That would be a strange way to describe sleep deprivation.
+No one has children for tax efficiency. Sleep deprivation is a poor rebate.
 
-The point is narrower and more useful: Singapore does not just tax less. It lets more of a middle-class household's economic output stay useful to the household.
+The narrower, more useful claim is that Singapore taxes less and lets more of a middle-class household's economic output stay useful to the household.
 
 Chapter 5 began the Singapore FI stack with CPF. CPF is compulsory saving with locks, policy risk, and unusually useful SGD-denominated returns. This chapter moves one step earlier in the paycheque. Before money goes into CPF, investments, housing, or lifestyle, how much does the system let the household keep?
 
-FI is not built from gross income. It is built from the part of income that survives tax, family costs, investment leakage, and lifestyle choices.
+FI is built from the part of income that survives tax, family costs, investment leakage, and lifestyle choices.
 
 ## The Engineer Who Keeps More
 
@@ -30,7 +30,7 @@ Source: Levels.fyi Google L5 Software Engineer pages for [San Francisco Bay Area
 
 The Bay Area number is much larger. London sits in between. Singapore's headline number is the smallest.
 
-But the question is not which headline is largest. The question is how much of each headline can become household surplus.
+The useful question is how much of each headline can become household surplus.
 
 A Bay Area engineer sees federal income tax, California income tax, payroll taxes, medical insurance costs, high housing costs, and childcare costs that can look like a second mortgage. A London engineer sees a different trade: the National Health Service changes the household's healthcare risk in a way the table does not capture, but at this income level the personal allowance has disappeared, the additional income tax rate is 45 percent, and employee National Insurance still applies.
 
@@ -40,7 +40,7 @@ There is another difference. In the United States and the United Kingdom, payrol
 
 The Singapore engineer's gross number may be less glamorous. The money that survives may be more competitive than the headline suggests.
 
-This is not an argument that everyone should work in Singapore instead of California or London.
+This argument should not send everyone rushing to work in Singapore instead of California or London.
 
 Careers are not spreadsheets wearing shoes.
 
@@ -50,7 +50,7 @@ But a household pursuing FI must understand the conversion rate. The economic un
 
 ## The Low-Tax Stack
 
-Singapore's low-tax advantage is not one trick. It is a stack, but not a complicated one.
+Singapore's low-tax advantage works as a small stack.
 
 Personal income tax is progressive but low by developed-world standards. The resident schedule starts at zero for the first S$20,000 of chargeable income and rises gradually; most households never touch the top marginal rate. Long-term capital gains are generally not taxed as capital gains, unless the activity is really trading. Under Singapore's one-tier corporate tax system, many one-tier dividends paid by Singapore resident companies are not taxed again in the hands of individual shareholders. Estate duty was removed for deaths on and after 15 February 2008.
 
@@ -70,25 +70,25 @@ In Singapore, the child bill is not entirely private.
 
 Start early. For Singapore Citizen children in ECDA-licensed infant care or childcare, there is a basic subsidy. A working mother, or a single father who is the main applicant, can receive S$600 a month of basic subsidy for infant care and S$300 a month for childcare, with additional means-tested subsidy for qualifying households. From December 2024, lower-income families with a Singapore Citizen child in childcare and monthly household income of S$6,000 or below, or per capita income of S$1,500 or below, qualify for full childcare subsidies if eligible. Full subsidy support does not necessarily mean a zero bill; the fee, income tier, programme type, and subsidy rules still matter. It means the household qualifies for the full basic-plus-additional subsidy structure for its tier.
 
-Fee caps matter too. Anchor Operator preschools exist because the state does not want the preschool market to become only a contest of parental fear. As of 2026, the fee cap for full-day childcare at an Anchor Operator centre is S$610 before GST for Singapore Citizen children. That is not pocket change. But it is also not the U.S. daycare number that haunts American personal-finance forums.
+Fee caps matter too. Anchor Operator preschools exist because the state does not want the preschool market to become only a contest of parental fear. As of 2026, the fee cap for full-day childcare at an Anchor Operator centre is S$610 before GST for Singapore Citizen children. That still matters in a household budget, but it sits far below the U.S. daycare number that haunts American personal-finance forums.
 
-Then there is the Baby Bonus system. The Child Development Account begins with a First Step Grant, and the government co-matches parental savings up to a cap. For the first child, the current structure provides a S$5,000 First Step Grant and up to S$4,000 of government co-matching. The amounts rise for later children. The CDA is not a cash gift to spend on anything; it is a child-linked account for approved uses. That is exactly the point. The state is not simply handing the household a cheque. It is helping fund the child bill.
+Then there is the Baby Bonus system. The Child Development Account begins with a First Step Grant, and the government co-matches parental savings up to a cap. For the first child, the current structure provides a S$5,000 First Step Grant and up to S$4,000 of government co-matching. The amounts rise for later children. The CDA is a child-linked account for approved uses rather than general cash. That is exactly the point. The state is helping fund the child bill.
 
 The same logic appears on the tax side. Qualifying Child Relief can be shared between spouses, up to S$4,000 per child. Working Mother's Child Relief gives eligible working mothers relief tied to qualifying Singapore Citizen children. For children born or adopted on or after 1 January 2024, the WMCR is a fixed dollar amount: S$8,000 for the first child, S$10,000 for the second, and S$12,000 for the third and subsequent child. Parenthood Tax Rebate gives a tax credit: S$5,000 for the first child, S$10,000 for the second, and S$20,000 for each third and subsequent child, with unused balances carried forward. QCR or Handicapped Child Relief plus WMCR is capped at S$50,000 per child, and the overall personal relief cap is S$80,000 per Year of Assessment.
 
-There are conditions. The details change by child order, citizenship, birth or adoption date, marital status, income, and year. This paragraph is not tax advice. It is a map of the mechanism.
+There are conditions. The details change by child order, citizenship, birth or adoption date, marital status, income, and year. This paragraph maps the mechanism; it is not tax advice.
 
 At school age, the effect becomes sharper. Singapore Citizen students in government and government-aided primary schools do not pay monthly school fees. Secondary school fees for citizens are S$5 a month, and pre-university fees are S$6 a month, before miscellaneous fees. The miscellaneous fees are also low by any developed-country private benchmark.
 
 This is the point many anxious parents miss.
 
-The expensive part of raising a child in Singapore is often not the institutional bill. It is the parental decisions layered on top of the institutional bill.
+In Singapore, the institutional bill for a child can be surprisingly low. The expensive part often comes from parental decisions layered on top.
 
-Tuition is a decision. Enrichment is a decision. Private school is a decision. Overseas university is a decision. Some of these decisions may be good decisions for a particular child. But they are not the same kind of expense as the public school system itself. They are not the unavoidable price of parenthood in Singapore.
+Tuition is a decision. Enrichment is a decision. Private school is a decision. Overseas university is a decision. Some of these decisions may be good decisions for a particular child. They belong in a different category from the public school system itself. They are add-ons to parenthood in Singapore, not its unavoidable entry fee.
 
 That distinction matters for FI. If a household imports an American private-education mental model, or a Chinese arms-race mental model, it will build a very expensive Singaporean childhood. If it uses the Singapore public system well, the cash cost can be far lower than the anxiety suggests.
 
-The state quietly shares the child bill. It does not raise the child. It does not remove the time cost, the attention cost, the sleep cost, or the emotional cost. It does not solve PSLE anxiety, which deserves its own chapter. But it lowers the cash burn in exactly the years when many households are still building their asset base.
+The state quietly shares the child bill. Parents still carry the time cost, the attention cost, the sleep cost, the emotional cost, and the PSLE anxiety that deserves its own chapter. But the cash burn is lower in exactly the years when many households are still building their asset base.
 
 For a family pursuing FI, this is not a small detail. A preschool line that falls sharply when a child enters public primary school can move the household savings rate by several points. Chapter 2 described that in my own numbers. The spreadsheet did not improve because I became more virtuous. One institutional cost fell off the table.
 
@@ -98,17 +98,17 @@ Public primary school does what no coupon strategy can: it deletes a budget line
 
 Tax also matters after the surplus is invested, but this chapter only needs the principle. A Singapore tax resident investing personally starts from a friendly base: long-term capital gains are generally not taxed as capital gains, many one-tier local dividends do not enter the personal tax bill again, and estate duty is gone. For a Singapore resident buying U.S. assets, the story is not magically tax-free; U.S.-domiciled ETFs can create dividend withholding tax and estate-tax exposure for non-resident aliens. Ireland-domiciled accumulating funds can reduce some of that leakage. That is Chapter 17.
 
-For now, remember only this: investment return is not only what the fund earns. It is what the household keeps after taxes, withholding, estate rules, fees, and product choices.
+For now, remember only this: household investment return is what remains after taxes, withholding, estate rules, fees, and product choices.
 
 ## What Low Tax Does Not Do
 
 Low tax does not make Singapore cheap.
 
-This distinction matters. Many people hear "Singapore has low taxes" and reply, correctly, that housing is expensive, cars are absurd, restaurants are not cheap, and children still cost money. Yes. The tax system is one part of the FI stack. It is not a magic wand waved over the entire cost of living.
+This distinction matters. Many people hear "Singapore has low taxes" and reply, correctly, that housing is expensive, cars are absurd, restaurants are not cheap, and children still cost money. Yes. The tax system is one part of the FI stack, not a magic wand waved over the entire cost of living.
 
 Low tax does something specific. It increases the amount of income that reaches the household before lifestyle choices begin.
 
-After that, the household can still choose an expensive version of Singapore. Singapore has many voluntary taxes, or tax-like tolls on particular choices. A car is the obvious one: COE is not income tax, but for a household that chooses car ownership it behaves like a large entry ticket to a more expensive life. Private property brings buyer's stamp duty, and in some cases additional buyer's stamp duty. Alcohol, tobacco, petrol, ERP, parking, and other choice-linked costs do not touch every household equally. They are not the basic price of being alive in Singapore. They are the price of buying certain versions of Singapore.
+After that, the household can still choose an expensive version of Singapore. Singapore has many voluntary taxes, or tax-like tolls on particular choices. A car is the obvious one: COE is not income tax, but for a household that chooses car ownership it behaves like a large entry ticket to a more expensive life. Private property brings buyer's stamp duty, and in some cases additional buyer's stamp duty. Alcohol, tobacco, petrol, ERP, parking, and other choice-linked costs do not touch every household equally. They are the price of buying certain versions of Singapore rather than the basic price of being alive here.
 
 That is why low tax and high cost of living can both be true. Singapore does not take a large share of salary at the income-tax line, then it offers many expensive doors. Condo. Car. Restaurant routine. Private tuition stack. Luxury travel. The doors are real. Some are worth entering. But they are doors, not the floor.
 
@@ -118,7 +118,7 @@ Low taxes make that sentence more powerful. They do not replace it.
 
 If a household earns S$200,000 and pays relatively low tax, that is useful. If it spends the remainder on a life that costs S$180,000 a year, the FI target is still enormous. If another household earns less, keeps fixed costs low, uses CPF and public schools well, avoids routine status spending, and invests the surplus, the lower-tax environment becomes an accelerator.
 
-The difference is not the tax system alone. It is the tax system plus household design.
+The tax system helps most when household design keeps the benefit.
 
 Singapore lets more money reach the household. The household has to decide how much of it stays there.
 
