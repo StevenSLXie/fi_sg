@@ -7,3 +7,4 @@
 * [Chapter 4: Four Percent of What?](manuscript/chapter-04.md)
 * [Chapter 5: CPF Is Not One Thing](manuscript/chapter-05.md)
 * [Chapter 6: Low Taxes Are a Feature](manuscript/chapter-06.md)
+* [Chapter 7: The Strong Dollar Under Your Feet](manuscript/chapter-07.md)
