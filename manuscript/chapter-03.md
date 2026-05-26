@@ -131,7 +131,7 @@ The other half of the system is the asset base. At a minimum, a workable househo
 | Home value | Annually | Long-term optionality, downgrade reserve |
 | Mortgage balance | Monthly or quarterly | Main liability |
 | Net worth | Monthly or quarterly | Overall direction |
-| Investable assets | Monthly or quarterly | FI numerator |
+| FI numerator | Monthly or quarterly | Used in the FI gauge |
 | FI progress | Monthly or quarterly | Work-optional gauge |
 
 This is enough. Business owners, families with multiple properties, and freelancers may need more. For most salaried households, the danger is not under-engineering; it is building a system too elaborate to maintain.
@@ -142,13 +142,13 @@ The **investment portfolio** should be marked to market quarterly. Weekly or dai
 
 The **home** is harder, and the easy answer — exclude it — is too easy. An owner-occupied home does not produce cash flow, but its market value still matters. A household that downgrades from a four-room flat, sells and rents, or moves to JB releases real cash from the asset. Treat home value as zero, and you pretend that optionality does not exist either.
 
-The pragmatic compromise is two numbers. Update home value annually — URA caveats for the same block, an SRX or EdgeProp estimate, or a recent neighbour transaction is precise enough — and include it in net worth. Keep a separate **investable assets** number that excludes the home, and use that for the FI gauge:
+The pragmatic compromise is two numbers. Update home value annually — URA caveats for the same block, an SRX or EdgeProp estimate, or a recent neighbour transaction is precise enough — and include it in net worth. Keep a separate **FI numerator** that excludes the home, and use that for the FI gauge:
 
-`investable assets x withdrawal rate / annual spending`
+`FI numerator x withdrawal rate / annual spending`
 
 At 50 percent, the portfolio can theoretically support half the household's annual spending under the chosen withdrawal assumption. At 100 percent, employment income has become optional.
 
-Net worth shows wealth. Investable assets show how close the portfolio is to supporting the life. A household pursuing FI needs both.
+Net worth shows wealth. The FI numerator shows how close the portfolio is to supporting the life. A household pursuing FI needs both. The next chapter gives that numerator its formal name.
 
 Whether the withdrawal rate should be 4 percent, 3.5 percent, or something else is the next chapter. The bookkeeping job is more basic: know the numerator and the denominator honestly. Without measurement, the withdrawal-rate debate is theatre.
 
@@ -172,7 +172,7 @@ A few rules, for the household that wants this still running in three years rath
 
 Bookkeeping is not there to make the household feel guilty. It is there to make the household visible.
 
-Once the household is visible, arguments become more concrete. Should we buy a car? Look at transport. Is the condo slowing us down? Separate interest, principal, maintenance, tax, and opportunity cost. Are children making FI impossible, or is the school line manageable? Look at the twelve-month number. Are we investing enough? Look at savings rate and investable assets.
+Once the household is visible, arguments become more concrete. Should we buy a car? Look at transport. Is the condo slowing us down? Separate interest, principal, maintenance, tax, and opportunity cost. Are children making FI impossible, or is the school line manageable? Look at the twelve-month number. Are we investing enough? Look at savings rate and the FI numerator.
 
 The spreadsheet, app, or AI tool does not make these decisions. It makes the trade-offs harder to hide.
 

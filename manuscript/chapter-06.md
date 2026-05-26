@@ -112,7 +112,7 @@ After that, the household can still choose an expensive version of Singapore. Si
 
 That is why low tax and high cost of living can both be true. Singapore does not take a large share of salary at the income-tax line, then it offers many expensive doors. Condo. Car. Restaurant routine. Private tuition stack. Luxury travel. The doors are real. Some are worth entering. But they are doors, not the floor.
 
-This is why the book's central sentence remains old and boring: live below your means.
+The book's central sentence remains old and boring: live below your means.
 
 Low taxes make that sentence more powerful. They do not replace it.
 

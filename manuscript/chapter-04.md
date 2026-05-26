@@ -4,7 +4,7 @@ Imagine running a modern retirement test on someone who stopped work on the firs
 
 She begins with one million U.S. dollars, all of it in the S&P 500. She withdraws four percent in the first year and raises the withdrawal with inflation after that. The plan is meant to last thirty years.
 
-This is not Bengen's original portfolio. It is a deliberately simple all-equity pressure test.
+The test below differs from Bengen's original portfolio. It is a deliberately simple all-equity pressure test.
 
 The next decade is unkind. Stocks disappoint. Inflation rises. The portfolio is forced to sell too much, too early, at too little real value. The long bull market eventually arrives in 1982, but by then the damage has been done. The market recovers. The retiree's base has not.
 
@@ -20,11 +20,11 @@ The answer was about four percent. More precisely, Bengen's original work pointe
 
 For our purposes, define the withdrawal rate like this:
 
-`first-year withdrawal / investable assets`
+`first-year withdrawal / FI asset base`
 
-If a household has S$1 million of investable assets and withdraws S$40,000 in the first year, the starting withdrawal rate is four percent. If the household wants S$40,000 at 3.5 percent, it needs about S$1.14 million.
+If a household has a S$1 million FI asset base and withdraws S$40,000 in the first year, the starting withdrawal rate is four percent. If the household wants S$40,000 at 3.5 percent, it needs about S$1.14 million.
 
-For this book's FI gauge, I use a slightly broader asset base: liquid investments plus CPF counted with liquidity caveats, excluding the owner-occupied home. Chapter 3 called this the investable-assets number for simplicity. The important point is that the home you live in is outside the withdrawal base.
+Here is the vocabulary for the rest of the book. **Net worth** is the broad household balance sheet: home, CPF, investments, cash, and debts. **FI asset base** is the number used in the 3.5 percent gauge: non-home financial assets, including liquid investments and CPF counted with liquidity caveats, excluding the owner-occupied home unless monetising it is part of the plan. **Liquid bridge** is the subset available before CPF gates and CPF LIFE payouts. Chapter 3 called the FI asset base the numerator. This chapter gives it a name.
 
 The definition is simple. The difficulty is choosing the number. Four percent is not magic. It is a U.S. historical result built around a thirty-year retirement, U.S. assets, U.S. inflation, and inflation-adjusted withdrawals. A Singapore household pursuing early FI has a different problem: longer horizon, SGD spending, CPF in the background, and assets that may be global rather than purely American.
 
@@ -40,9 +40,9 @@ This is sequence-of-returns risk. In accumulation, a market crash early in life 
 
 The 1966 retiree is the clean example. She did not need the market to fail forever. She only needed the first decade to be bad enough. By the time returns improved, too much of the portfolio had already been removed.
 
-A rough stress test gives the shape. I took Robert Shiller's monthly S&P 500 real total-return series, started a retiree in January of each year from 1960 to 1995, withdrew monthly from a one-million-dollar portfolio, and asked what was left after thirty years in starting-year purchasing power.
+A rough stress test gives the shape. I computed a real total-return series from Robert Shiller's monthly S&P 500 price, dividend, and CPI data, started a retiree in January of each year from 1960 to 1995, withdrew monthly from a one-million-dollar portfolio, and asked what was left after thirty years in starting-year purchasing power.
 
-This is deliberately crude: all equities, no bonds, no fees, no taxes, and U.S. inflation. It is not a Singapore retirement model. It is a pressure test.
+The test is deliberately crude: all equities, no bonds, no fees, no taxes, and U.S. inflation. It is a pressure test, not a Singapore retirement model.
 
 | First-year withdrawal rate | Failed starts, 1960-1995 | Weakest point in the test |
 |---:|---:|---|
@@ -52,6 +52,8 @@ This is deliberately crude: all equities, no bonds, no fees, no taxes, and U.S. 
 | 6.0% | 15 / 36 | Every 1960-1974 start fails |
 
 That table is the evidence for the line I care about. It does not prove that 3.5 percent is safe forever. It shows why the extra half-percent is not cosmetic. Four percent mostly works, but the bad starts get close to the edge or fall over it. Three and a half survives this particular set.
+
+Source and method note: author calculation using Robert Shiller's monthly S&P 500 price, dividend, and CPI data; monthly withdrawals; values reported in starting-year purchasing power.
 
 The same table also deals with five and six. At five percent, the bad starts are no longer rare exceptions. At six, every start from 1960 through 1974 fails. The argument against five or six is not tone. It is the failure count.
 
@@ -79,7 +81,7 @@ My response is not to throw away the four percent rule. It is to use 3.5 percent
 
 Three point five is not a theorem. It is a working number.
 
-It is the half-percent margin I want for the household this book is written for: Singapore-based, pursuing full FI before the traditional retirement age, counting CPF as wealth but not pretending it is cash, excluding the owner-occupied home from investable assets, and planning for a future that may not look like the American backtest.
+It is the half-percent margin I want for the household this book is written for: Singapore-based, pursuing full FI before the traditional retirement age, counting CPF as wealth but not pretending it is cash, excluding the owner-occupied home from the FI asset base, and planning for a future that may not look like the American backtest.
 
 The cost is visible. A household spending S$60,000 a year needs S$1.5 million at four percent. At 3.5 percent, it needs about S$1.71 million.
 
@@ -87,7 +89,7 @@ That is not a rounding error. It is also not a doubling. It is a premium paid fo
 
 Around that number, two accounting habits are more useful than arguing over the second decimal place.
 
-First, exclude the owner-occupied home from investable assets, but keep it on the household balance sheet. The home is a last-resort option - downgrade, rent out a room, sell and move - not a monthly withdrawal source. Counting it in the withdrawal calculation pretends that you can eat your house. You can, but only by selling it, and only once.
+First, exclude the owner-occupied home from the FI asset base, but keep it on the household balance sheet. The home is a last-resort option - downgrade, rent out a room, sell and move - not a monthly withdrawal source. Counting it in the withdrawal calculation pretends that you can eat your house. You can, but only by selling it, and only once.
 
 Second, diversify the equity engine beyond a single-country bet. A modern Singaporean investor can own global equities, then layer SGD cash, CPF, Singapore-listed income assets, or a small gold allocation for specific risks. None of this guarantees safety. It reduces the number of things that have to go exactly right.
 
@@ -95,11 +97,11 @@ Second, diversify the equity engine beyond a single-country bet. A modern Singap
 
 Chapter 3 gave a formula:
 
-`investable assets x withdrawal rate / annual spending`
+`FI asset base x withdrawal rate / annual spending`
 
 For the rest of this book, use 3.5 percent:
 
-`investable assets x 0.035 / annual spending`
+`FI asset base x 0.035 / annual spending`
 
 At 50 percent, the FI asset base can theoretically support half the household's annual spending under this assumption. At 100 percent, employment income has become optional.
 

@@ -12,17 +12,17 @@ The high-income graduate does what high-income people are quietly encouraged to 
 
 The second graduate keeps fixed costs low. HDB room or family home for the first few years. Public transport. Home cooking. No car. No condo. Few recurring subscriptions.
 
-This is not a morality tale. The first graduate is not sinful. The second graduate is not holy. They are buying different cash-flow structures.
+No morality tale is hiding here. The first graduate is not sinful. The second graduate is not holy. They are buying different cash-flow structures.
 
 If the first graduate earns S$9,000 and spends S$7,000, he saves S$2,000. If the second earns S$4,500 and spends S$2,250, he saves S$2,250. In dollar terms, the lower earner is saving slightly more.
 
 But the FI target is not the same.
 
-The first lifestyle costs S$84,000 a year. Using the famous 4 percent shorthand for now, it requires about S$2.1 million of investable assets. The second lifestyle costs S$27,000 a year. It requires about S$675,000. Chapter 4 will make the withdrawal-rate assumption stricter; the point here is the shape of the problem.
+The first lifestyle costs S$84,000 a year. Using the famous 4 percent shorthand for now, it requires about S$2.1 million of assets. The second lifestyle costs S$27,000 a year. It requires about S$675,000. Chapter 4 will make the withdrawal-rate assumption stricter; the point here is the shape of the problem.
 
 Lower salary. Slightly higher monthly savings. Much smaller finish line.
 
-This is why salary is a bad unit of FI progress. Salary tells you how much money passes through the household. Savings rate tells you how much of that money becomes freedom.
+Salary is a bad unit of FI progress. It tells you how much money passes through the household. Savings rate tells you how much of that money becomes freedom.
 
 ## The Ratio That Matters
 
@@ -72,7 +72,7 @@ The shape does not.
 
 At low savings rates, the FI timeline behaves like a normal career. Ten percent or twenty percent savings feels responsible, and it is responsible, but it is still a thirty-year problem. At forty or fifty percent, the line bends. At sixty or seventy percent, the timeline starts to look strange to people who think retirement must be issued by CPF at the proper age.
 
-This is why the two graduates can reverse intuition. The higher earner may have more absolute dollars passing through the bank account, but if most of those dollars are already spoken for by housing, car, restaurants, travel, and identity, the FI engine is smaller than it looks. The lower earner may have fewer dollars, but if the spending base is low, every saved dollar does more work.
+The two graduates can reverse intuition. The higher earner may have more absolute dollars passing through the bank account, but if most of those dollars are already spoken for by housing, car, restaurants, travel, and identity, the FI engine is smaller than it looks. The lower earner may have fewer dollars, but if the spending base is low, every saved dollar does more work.
 
 FI is not paid for by income. FI is paid for by the part of income that survives contact with the life you built.
 
@@ -106,7 +106,7 @@ Public primary school does for Singapore parents what no spreadsheet hack can: i
 
 What did not happen was a dramatic new wave of self-denial. The household was already running lean: no condo, no luxury restaurant habit, home cooking, some DIY, low fixed costs. The lifestyle did not change very much. Income grew, one cost category collapsed, and the spreadsheet did the rest.
 
-This is why Singapore matters. A high savings rate is not only willpower. It is system design plus household design. CPF pulls money away before lifestyle can claim it. HDB can keep the housing base low. Public school can remove a large recurring cost. Low taxes mean more of each raise remains available to become assets.
+Singapore matters because a high savings rate is not only willpower. It is system design plus household design. CPF pulls money away before lifestyle can claim it. HDB can keep the housing base low. Public school can remove a large recurring cost. Low taxes mean more of each raise remains available to become assets.
 
 The system will not make you free by itself. But if you work with it, it does some of the lifting.
 
@@ -118,7 +118,7 @@ Often, yes.
 
 A 70 percent savings rate is not the starting point. It is not a moral requirement. It is not the official entrance exam for this book. If your household is at 15 percent, the next useful number is not 70. It is 20. Then 25. Then 30.
 
-The point is not to worship 70 percent. The point is to know your number and move it in the right direction.
+Do not worship 70 percent. Know your number and move it in the right direction.
 
 In Singapore, the number can also be less absurd than it sounds, because the household is not starting from zero. CPF contributions already force a large savings flow for employees below the relevant wage ceilings. Mortgage principal, if you own a home and are paying down the loan, is also a form of saving. It is not cash in the bank, but it increases net worth and reduces future obligations.
 
@@ -130,31 +130,17 @@ Track it. Improve it. Do not turn it into a personality contest.
 
 ## The Singapore Accounting
 
-To make savings rate useful, two accounting rules are necessary.
+To make savings rate useful in Singapore, two working rules are enough for now.
 
-First, CPF is wealth.
+First, count CPF as wealth, not cash. Employee CPF and employer CPF increase the household balance sheet, even though they do not all behave like spendable money.
 
-CPF is not cash. That is true. It does not follow that CPF is not wealth. Liquidity is a property of an asset. It is not the definition of an asset.
+Second, split the mortgage. Principal repayment increases home equity and reduces debt. Interest is the fee paid to the lender. One improves the household balance sheet. The other leaves the household.
 
-OA is more liquid than people often admit if the household has a mortgage. It may not buy lunch, but it can pay one of the largest monthly bills in the household. As long as OA can service housing payments, it affects cash flow in a very real way.
+Without those two rules, a Singapore household can look cash-poor while building wealth through CPF and principal repayment, or look affluent while converting most income into interest, rent, cars, fees, and lifestyle. The savings-rate number becomes a mood.
 
-SA is different. SA is genuinely illiquid for consumption before 55. But it is still a compounding asset. It earns interest, may be invested subject to CPF rules, and reduces the amount of non-CPF assets required later. Calling it "not savings" because it cannot be spent today confuses savings with spending money.
+The mechanics belong in the next chapter. Insurance premiums, annual bills, school fees, one-off expenses, bonuses, reimbursements, CPF outflows, and net-worth tracking all need a method. A beautiful spreadsheet that dies after three weeks is less useful than an ugly one maintained for four years.
 
-Do not count CPF as cash. Do count CPF as wealth.
-
-Second, mortgage principal is savings; mortgage interest is spending.
-
-A monthly mortgage payment contains two different things wearing the same bank deduction. Principal repayment increases home equity and reduces debt. Interest is the fee paid to the lender for the privilege of having borrowed money. One improves the household balance sheet. The other leaves the household.
-
-They should not be treated the same.
-
-This is not hard to track. Local banks usually send an annual housing-loan statement that lists, month by month, how much of the year's mortgage payment went to principal and how much went to interest. Use that statement. Do not guess, and do not treat the whole mortgage payment as an expense just because it leaves the bank account in one deduction.
-
-This matters especially in Singapore because housing and CPF are intertwined. A household can look cash-poor while still building wealth through CPF and principal repayment. Another household can look affluent while converting most income into interest, rent, cars, fees, and lifestyle. Without the split, the savings-rate number becomes a mood.
-
-There are more details, but they belong in the next chapter. Insurance premiums, annual bills, school fees, one-off expenses, bonuses, reimbursements, CPF outflows, and net-worth tracking all need a method. A beautiful spreadsheet that dies after three weeks is less useful than an ugly one maintained for four years.
-
-For this chapter, the minimum is enough: count income honestly, count spending honestly, count CPF as wealth, separate mortgage principal from interest, and look at the rolling twelve-month savings rate rather than one noisy month.
+For this chapter, the minimum is enough: count income honestly, count spending honestly, include CPF in the savings flow, separate mortgage principal from interest, and look at the rolling twelve-month savings rate rather than one noisy month.
 
 ## The Inflation Caveat
 

@@ -4,7 +4,7 @@ CPF is confusing because it is not one thing.
 
 It is a housing account. It is a retirement account. It is a medical wallet. At 65, part of it becomes an annuity. The same three letters appear on all of these products, which is convenient for branding and inconvenient for thinking.
 
-This chapter exists because Chapter 4 put CPF inside the FI asset base with a warning label: count it as wealth, but do not pretend it is cash. That sounds simple until you ask which CPF dollar you mean. An Ordinary Account dollar paying a mortgage is different from a Special Account dollar at age forty. A MediSave dollar is different again. A Retirement Account dollar at fifty-five is not the same product as a CPF LIFE payout at seventy.
+The earlier chapters used a working rule: count CPF as wealth, but do not pretend it is cash. This chapter is where that rule gets unpacked. An Ordinary Account dollar paying a mortgage is different from a Special Account dollar at age forty. A MediSave dollar is different again. A Retirement Account dollar at fifty-five is not the same product as a CPF LIFE payout at seventy.
 
 The useful description is unsentimental: CPF is compulsory saving with policy risk, liquidity gates, and unusually good SGD-denominated returns. It is not a tax — a tax leaves the household balance sheet; CPF does not. It is also not cash. Pretending it is cash overstates liquidity. Pretending it is tax understates wealth. Both errors distort the FI calculation.
 
@@ -20,7 +20,7 @@ This sounds obvious until a government system gives one of them an official labe
 
 A household can be financially independent before CPF LIFE starts. A household can also be financially dependent after CPF LIFE starts. The payout age is not a permission slip. It is a feature of the product.
 
-This is why CPF matters so much for FI and why it should not be allowed to define FI. CPF is part of the balance sheet. It is not the whole balance sheet.
+CPF matters so much for FI precisely because it should not be allowed to define FI. CPF is part of the balance sheet. It is not the whole balance sheet.
 
 ## The Paycheque Split
 
@@ -28,7 +28,7 @@ For a Singapore citizen or third-year permanent resident aged 55 or below, earni
 
 That means a S$8,000 monthly salary sends S$2,960 into CPF before the household has made a single deliberate savings decision.
 
-This is why Chapter 2 counted CPF inside savings rate. The employee portion reduces take-home pay. The employer portion is compensation that never touches the bank account. Both increase household wealth.
+Chapter 2 counted CPF inside savings rate for this reason. The employee portion reduces take-home pay. The employer portion is compensation that never touches the bank account. Both increase household wealth.
 
 The money does not land in one place. Before 55, it is allocated across three accounts:
 

@@ -32,7 +32,7 @@ The arithmetic answer to the parent at the top is simpler than her question. FI 
 
 In Singapore, retirement has an official smell to it.
 
-There is the statutory retirement age. There is the re-employment age. There is CPF. There is CPF LIFE. There is the Payout Eligibility Age, which is 65, with the option to start CPF LIFE payouts anytime from 65 to 70. There are letters from CPF Board, dashboards, retirement sums, payout plans, and a general sense that retirement is something that arrives when the system starts sending monthly money.
+There is the statutory retirement age. There is the re-employment age. There is CPF, the compulsory national savings system. There is CPF LIFE, the national longevity annuity. There is the Payout Eligibility Age, which is 65, with the option to start CPF LIFE payouts anytime from 65 to 70. There are letters from CPF Board, dashboards, retirement sums, payout plans, and a general sense that retirement is something that arrives when the system starts sending monthly money.
 
 That sense is convenient. It is also confusing.
 
@@ -50,25 +50,25 @@ This is the practical case for FI. Not the hammock. The case is that salary is n
 
 Let us make this less abstract.
 
-Consider a young Singaporean citizen couple, both fresh from NUS or NTU and starting their first jobs. They have no children yet. They are eligible for BTO. They each earn around the 2024 graduate median starting salary — about S$4,500 a month — for a combined gross of S$9,000, or roughly S$10,500 once employer CPF is added. This is not big tech. This is the middle of the new-graduate distribution.
+Consider a young Singaporean citizen couple, both fresh from NUS or NTU and starting their first jobs. They have no children yet. They are eligible for BTO, a subsidised HDB flat bought before completion. They each earn around the 2024 graduate median starting salary — about S$4,500 a month — for a combined gross of S$9,000, or roughly S$10,500 once employer CPF is added. This is not big tech. This is the middle of the new-graduate distribution.
 
 Now impose severe but clear assumptions. They live plainly. No car. Few restaurant meals. Modest travel, if any. They buy a BTO flat, not a condo. They do not treat early adulthood as a seven-year tasting menu of every subscription, cafe, holiday, gadget, and "self-care" category available in a developed economy. A thought experiment should not hide its assumptions in the cupboard and then announce a miracle.
 
 Suppose they save S$70,000 a year between cash, CPF contributions, and mortgage principal. We will tighten the accounting in the next chapter, because CPF and mortgage principal should not be lazily mixed with spending. For now, S$70,000. Demanding but not absurd for a no-car, no-condo couple at that combined income.
 
-Suppose they buy a 3-room BTO for around S$300,000 — Standard non-central or low-end Plus territory. Grants, classification rules, MOP, and renovation costs all exist; we will deal with them later.
+Suppose they buy a 3-room Standard BTO for around S$300,000 in a non-central project. Grants, classification rules, the MOP, and renovation costs all exist; we will deal with them later. MOP means Minimum Occupation Period, the period before sale can be considered and, for eligible flats, before whole-flat rental can even be considered.
 
 Over eight years, S$70,000 a year — counting cash, CPF, and mortgage principal together — produces about S$560,000 of household wealth. The S$300,000 BTO is paid off; the remaining S$250,000 sits in CPF balances and cash investments.
 
 Start work at 25 — realistic for graduates once national service and any postgrad time are factored in — and by 33 they own a paid-off flat outright with about S$250,000 in financial assets alongside.
 
-Once the Minimum Occupation Period clears — five years from key collection for a Standard flat — they rent out the whole flat and live somewhere cheaper. Johor Bahru, Penang, Ipoh, somewhere else. The point is not "move to JB." The point is that where income is earned and where retirement spending happens do not have to be the same.
+Once the five-year MOP clears for that Standard flat, they apply to rent out the whole flat and live somewhere cheaper. That rental step is subject to HDB eligibility and approval, and only Singapore Citizen flat owners may rent out an entire HDB flat. Johor Bahru, Penang, Ipoh, somewhere else. The point is not "move to JB." The point is that where income is earned and where retirement spending happens do not have to be the same.
 
-HDB 3-room whole-flat median rents in 2026 sit in the high S$2,000s. Call it S$2,700 net after frictions. Translated into a lower-cost geography, that monthly income supports a very different lifestyle from the same number spent inside Singapore.
+HDB 3-room whole-flat median rents in 1Q2026 commonly sat in the high S$2,000s. Use S$2,700 as a rough gross rent, then remember that tax, vacancy, repairs, and agent fees reduce the net. Translated into a lower-cost geography, even the reduced number supports a very different lifestyle from the same number spent inside Singapore.
 
 There is your provocative result: under a strict set of assumptions, a couple at median graduate income can make work optional in their early thirties, using BTO, low fixed costs, and geography.
 
-This is a thought experiment, not advice. Real life has children, parents, medical needs, visas, currency risk, MOP timing, and the inconvenient fact that not everyone wants to move. Good — those are real objections.
+This is a thought experiment, not advice. Real life has children, parents, medical needs, visas, currency risk, HDB rental rules, MOP timing, and the inconvenient fact that not everyone wants to move. Good — those are real objections.
 
 But do not let the objections erase the lesson. The lesson is not "retire at 33." The lesson is that FI is calculable, and the FI number moves dramatically with housing, fixed costs, and where the spending happens. FI is not a mystical state. It is arithmetic plus behaviour.
 
