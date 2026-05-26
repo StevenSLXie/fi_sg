@@ -166,7 +166,7 @@ Sometimes it can. Usually it cannot.
 
 The practical rule is simple: do not buy a higher floor and call it a shortcut.
 
-Chapter 8 showed how HDB can lower the floor. This chapter showed why private housing often raises it. The next part of the book moves from the home to daily life, where the same pattern repeats in smaller bills: food, geography, children, and the skills that keep convenience from becoming a permanent tax.
+Chapter 8 showed how HDB can lower the floor. This chapter showed why private housing often raises it. The next part of the book moves from the home to daily life, where the same pattern repeats in smaller bills. Start with [Chapter 10: The First Convenience Tax](chapter-10.md): food, geography, children, and the skills that keep convenience from becoming a permanent tax.
 
 ## Notes
 
