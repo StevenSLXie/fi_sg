@@ -16,9 +16,7 @@ A condo can be a good home. The mistake is calling every good home an FI shortcu
 
 Chapter 8 showed how HDB can lower the floor. A condo often does the opposite. It can be a home, an investment story, a facilities subscription, a status signal, a maintenance bill, a leveraged bet on Singapore land policy, and a committee membership with hundreds of strangers. The buyer usually prices the home and the investment story. The FI damage often hides in the rest.
 
-Two claims matter here.
-
-First, break the lazy sales pitch that private property automatically compounds better than HDB. Second, make the self-occupied condo problem impossible to miss: for most middle-class households, a large amount of capital gets locked inside the home, produces no spending cash while they live in it, and raises the annual cost that the FI portfolio must support.
+Start with the lazy sales pitch that private property automatically compounds better than HDB. Then make the self-occupied condo problem impossible to miss: for most middle-class households, a large amount of capital gets locked inside the home, produces no spending cash while they live in it, and raises the annual cost that the FI portfolio must support.
 
 That is a bad shape for early FI.
 
