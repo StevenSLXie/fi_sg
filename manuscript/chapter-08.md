@@ -194,9 +194,7 @@ HDB is one of Singapore's great FI mechanisms because it can lower the largest f
 
 The shortcut is real. It has gates. It works by lowering the floor, not by promising a windfall.
 
-The next chapter is about what happens when the household looks at that lower floor and decides it would rather buy the escalator.
-
-We need to talk about condos.
+The next chapter is about what happens when the household looks at that lower floor and decides it would rather buy the escalator: [Chapter 9: Why We Left the Condo](chapter-09.md).
 
 ## Notes
 

@@ -9,3 +9,4 @@
 * [Chapter 6: Low Taxes Are a Feature](manuscript/chapter-06.md)
 * [Chapter 7: The Strong Dollar Under Your Feet](manuscript/chapter-07.md)
 * [Chapter 8: HDB Is the Shortcut](manuscript/chapter-08.md)
+* [Chapter 9: Why We Left the Condo](manuscript/chapter-09.md)
