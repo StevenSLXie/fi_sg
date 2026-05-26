@@ -50,7 +50,7 @@ The conveyor belt does not care.
 
 Here is a toy model.
 
-Assume a household begins with a given savings rate. Salary grows 5 percent a year. Spending grows 3 percent a year. The surplus is invested at 6 percent a year. FI is reached when assets can support annual spending under the same temporary 4 percent shorthand.
+Assume a household begins with a given savings rate. Salary grows 5 percent a year. Spending grows 3 percent a year. The surplus is invested at 6 percent a year. FI is reached when assets can support annual spending under the same temporary 4 percent shorthand.[1](#note-1)
 
 Do not treat the table as prophecy. Treat it as a curve.
 
@@ -84,7 +84,7 @@ There was no dramatic conversion scene. No layoff. No viral Reddit post. No spre
 
 So I started measuring.
 
-In 2022, our household savings rate was about 55 percent, counting CPF contributions and mortgage principal as savings. By the end of 2025, the rolling twelve-month number had crossed 72 percent.
+In 2022, our household savings rate was about 55 percent, counting CPF contributions and mortgage principal as savings. By the end of 2025, the rolling twelve-month number had crossed 72 percent.[2](#note-2)
 
 The important part is not that 72 is a large number. The important part is what it means.
 
@@ -100,7 +100,7 @@ How did our number move from 55 to 72?
 
 Mostly income growth. Household income rose materially over those years, from my work and from my wife's career progression. This is worth saying plainly because the usual personal-finance story likes discipline more than arithmetic. We did not discover a secret coupon strategy. We were not cutting a large pile of small luxuries; the baseline was already fairly lean.
 
-The second factor was a very Singaporean expense cliff: one child moved from kindergarten to public primary school. Public primary school for citizens is, in practical budget terms, almost free. A line item that had mattered became nearly symbolic.
+The second factor was a very Singaporean expense cliff: one child moved from kindergarten to public primary school. Public primary school for citizens is, in practical budget terms, almost free.[3](#note-3) A line item that had mattered became nearly symbolic.
 
 Public primary school does for Singapore parents what no spreadsheet hack can: it deletes a budget line.
 
@@ -171,3 +171,11 @@ Not the only number. Not a perfect number. But the number that tells you whether
 The next question is how to measure it without lying to yourself.
 
 [Chapter 3: What Gets Measured Gets Retired](chapter-03.md)
+
+## Notes
+
+<a id="note-1"></a>[1] Author calculation using the assumptions stated in the paragraph. The table is a toy model to show the curve, not a forecast or investment recommendation.
+
+<a id="note-2"></a>[2] Author's household bookkeeping records. The savings-rate method counts CPF contributions and mortgage principal as savings while separating mortgage interest as spending.
+
+<a id="note-3"></a>[3] Ministry of Education, [School fees](https://www.moe.gov.sg/financial-matters/fees).

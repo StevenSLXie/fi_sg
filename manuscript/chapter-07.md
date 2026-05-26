@@ -14,9 +14,7 @@ FI makes the same issue permanent. If your future spending is in Singapore dolla
 
 The money that survives Chapter 6 is not floating in the air. It is sitting on a currency.
 
-For a Singapore household, that currency has been unusually strong. The path has never been smooth, universal, or guaranteed, but over a working life the pattern is hard to ignore. The Singapore dollar has appreciated sharply against the Malaysian ringgit. Against the U.S. dollar, the story is more mixed by cycle, but still meaningful: the average exchange rate moved from about S$2.01 per U.S. dollar in 1988 to about S$1.31 in 2025. A U.S. dollar became cheaper in Singapore-dollar terms.
-
-Source: SingStat, [Exchange Rates (Average For Period), Annual](https://data.gov.sg/datasets/d_b09aeaf8eb591c4bfe347b66148c6b53/view), checked in May 2026.
+For a Singapore household, that currency has been unusually strong. The path has never been smooth, universal, or guaranteed, but over a working life the pattern is hard to ignore. The Singapore dollar has appreciated sharply against the Malaysian ringgit. Against the U.S. dollar, the story is more mixed by cycle, but still meaningful: the average exchange rate moved from about S$2.01 per U.S. dollar in 1988 to about S$1.31 in 2025. A U.S. dollar became cheaper in Singapore-dollar terms.[1](#note-1)
 
 Singapore remains expensive. Chapter 6 already dealt with the low-tax version of that objection; the same logic applies here. A rich, trusted, high-cost city with a strong currency can feel expensive precisely because everyone is standing on the same strong floor.
 
@@ -24,7 +22,7 @@ But the floor matters.
 
 ## The Accusation That Explains the System
 
-In 2019, the U.S. Treasury put Singapore on its monitoring list for currency practices. That sounds dramatic until one remembers what Singapore's monetary policy is.
+In 2019, the U.S. Treasury put Singapore on its monitoring list for currency practices.[2](#note-2) That sounds dramatic until one remembers what Singapore's monetary policy is.
 
 Singapore manages its currency.
 
@@ -32,7 +30,7 @@ That sentence sounds conspiratorial only if one has not read the operating manua
 
 Most central banks talk about interest rates. The Federal Reserve moves the federal funds rate. The Bank of England moves Bank Rate. The European Central Bank moves its policy rates. Singapore is different because Singapore is small, open, and import-dependent. Goods, services, labour, capital, food, energy, and intermediate inputs move through the economy with unusual speed. In that kind of economy, the exchange rate reaches domestic prices more directly than a domestic interest-rate target would.
 
-So MAS runs an exchange-rate-centred monetary policy. The policy variable is the Singapore dollar nominal effective exchange rate, or S$NEER. In plain English, MAS watches the Singapore dollar against a trade-weighted basket of currencies, rather than a single bilateral rate like USD/SGD.
+So MAS runs an exchange-rate-centred monetary policy. The policy variable is the Singapore dollar nominal effective exchange rate, or S$NEER. In plain English, MAS watches the Singapore dollar against a trade-weighted basket of currencies, rather than a single bilateral rate like USD/SGD.[3](#note-3)
 
 The exact basket is not disclosed. The currency is allowed to move within a policy band. MAS can adjust the path of that band and intervene in foreign-exchange markets when needed to keep the currency aligned with its price-stability objective.
 
@@ -52,21 +50,19 @@ A strong currency needs more than a confident-looking banknote. It needs pressur
 
 For long stretches of Singapore's history, the operational problem has been managing upward pressure on the currency. MAS accumulates official foreign reserves as part of that process. When appreciation pressure on the Singapore dollar is too strong, MAS can buy foreign currency and sell Singapore dollars. That adds to official foreign reserves and releases Singapore-dollar liquidity into the system.
 
-The scale is large. SingStat's MAS-sourced table of official foreign reserves shows total official foreign reserves of about S$544 billion in April 2026, up from about S$384 billion in January 2023 and about S$289 billion at the end of 2010. These numbers move with valuation changes, market conditions, intervention, and reporting details, so they should not be read like a household savings account. They still show the size of the balance sheet behind the currency framework.
-
-Source: SingStat Table Builder, [Official Foreign Reserves (End Of Period), Monthly](https://tablebuilder.singstat.gov.sg/table/TS/M700031), data last updated 7 May 2026.
+The scale is large. SingStat's MAS-sourced table of official foreign reserves shows total official foreign reserves of about S$544 billion in April 2026, up from about S$384 billion in January 2023 and about S$289 billion at the end of 2010.[4](#note-4) These numbers move with valuation changes, market conditions, intervention, and reporting details, so they should not be read like a household savings account. They still show the size of the balance sheet behind the currency framework.
 
 Where did the upward pressure come from?
 
 Part of the answer is old-fashioned national saving. Singapore's system has many drains that pull Singapore dollars out of immediate household and corporate circulation. CPF contributions are the most familiar one. A worker's salary never becomes entirely spendable cash. Part becomes employee CPF. The employer also contributes. The money remains household wealth, but stops being loose cash chasing goods in the present.
 
-Government borrowing and fiscal rules also keep parts of the public balance sheet from becoming current spending. Some securities exist to build markets, meet CPF needs, provide savings instruments, or transfer excess official foreign reserves. MOF states plainly that the proceeds from many of these borrowings are invested and cannot be spent for recurrent needs.
+Government borrowing and fiscal rules also keep parts of the public balance sheet from becoming current spending. Some securities exist to build markets, meet CPF needs, provide savings instruments, or transfer excess official foreign reserves. MOF states plainly that the proceeds from many of these borrowings are invested and cannot be spent for recurrent needs.[5](#note-5)
 
 Fiscal discipline matters too. When a government persistently spends less than it collects, or when land-sale proceeds and certain reserves flows are protected rather than treated as current pocket money, domestic liquidity is restrained. "Supply-side drain" is a slightly technical phrase, but the intuition is right: the Singapore system has built-in mechanisms that prevent every dollar generated in the economy from immediately becoming spendable demand.
 
 That was especially important in earlier decades.
 
-MOF's current explanation adds a second point. In the last decade, it says large capital inflows have chiefly contributed to official foreign reserve accumulation. This is the demand side. Companies invest in Singapore. Funds book activity in Singapore. Wealth moves to Singapore. Family offices, regional headquarters, commodity firms, technology companies, banks, insurers, and asset managers do not all have the same reason to be here, but many of them need Singapore-dollar exposure, Singapore banking rails, Singapore staff, Singapore leases, and Singapore regulatory credibility.
+MOF's current explanation adds a second point. In the last decade, it says large capital inflows have chiefly contributed to official foreign reserve accumulation.[5](#note-5) This is the demand side. Companies invest in Singapore. Funds book activity in Singapore. Wealth moves to Singapore. Family offices, regional headquarters, commodity firms, technology companies, banks, insurers, and asset managers do not all have the same reason to be here, but many of them need Singapore-dollar exposure, Singapore banking rails, Singapore staff, Singapore leases, and Singapore regulatory credibility.
 
 This version is less romantic than national mythology and more useful for FI planning. A strong currency is a price formed by policy, savings, credibility, and demand for the jurisdiction.
 
@@ -74,13 +70,13 @@ This version is less romantic than national mythology and more useful for FI pla
 
 The phrase "Singapore's reserves" causes endless confusion because people use one word for several things.
 
-MAS manages official foreign reserves. Temasek publishes its net portfolio value. GIC manages government assets but does not disclose the full size of the funds it manages.
+MAS manages official foreign reserves. Temasek publishes its net portfolio value. GIC manages government assets but does not disclose the full size of the funds it manages.[6](#note-6)
 
 The Government has assets and liabilities. Fifth Schedule entities have protected reserves. Past Reserves are constitutionally protected. The Net Investment Returns Contribution then allows part of the expected long-term real returns on relevant assets, and part of the net investment income from other past reserves, to be used in the Budget.
 
 The machine is complicated. A household can leave most of the gears alone after reading one chapter and keep the correct mental model.
 
-The reserves are a national balance sheet rather than money sitting in a drawer waiting for a popular policy idea. They support confidence. They help MAS conduct monetary policy and maintain financial stability. They provide crisis capacity. They generate investment returns, part of which can support the Budget through NIRC. MOF says NIRC contributes about 20 percent of government revenue annually.
+The reserves are a national balance sheet rather than money sitting in a drawer waiting for a popular policy idea. They support confidence. They help MAS conduct monetary policy and maintain financial stability. They provide crisis capacity. They generate investment returns, part of which can support the Budget through NIRC. MOF says NIRC contributes about 20 percent of government revenue annually.[6](#note-6)
 
 That last point matters for this book. Chapter 6 showed how Singapore can run relatively low taxes while still delivering useful public services. Part of the answer is investment income. The reserves sit behind the currency and also help the fiscal system avoid choosing, too brutally, between high taxes and weak services.
 
@@ -161,3 +157,17 @@ Used well, it expands the household's map. It makes overseas options more real, 
 FI runs on mechanisms, not slogans.
 
 CPF is a mechanism. Low tax is a mechanism. A strong, credible currency is a mechanism. The next mechanism is the largest expense in most lives, and the one most likely to decide whether the Singapore FI stack remains a shortcut or becomes a trap: [Chapter 8: HDB Is the Shortcut](chapter-08.md).
+
+## Notes
+
+<a id="note-1"></a>[1] SingStat, [Exchange Rates (Average For Period), Annual](https://data.gov.sg/datasets/d_b09aeaf8eb591c4bfe347b66148c6b53/view), checked in May 2026.
+
+<a id="note-2"></a>[2] U.S. Department of the Treasury, [Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States, May 2019](https://home.treasury.gov/system/files/206/2019-05-28-May-2019-FX-Report.pdf).
+
+<a id="note-3"></a>[3] Monetary Authority of Singapore, [Singapore's monetary policy framework](https://www.mas.gov.sg/monetary-policy/singapores-monetary-policy-framework).
+
+<a id="note-4"></a>[4] SingStat Table Builder, [Official Foreign Reserves (End Of Period), Monthly](https://tablebuilder.singstat.gov.sg/table/TS/M700031), data last updated 7 May 2026.
+
+<a id="note-5"></a>[5] Ministry of Finance, [Our assets and liabilities](https://www.mof.gov.sg/policies/reserves/our-assets-and-liabilities/).
+
+<a id="note-6"></a>[6] Ministry of Finance, [What comprises the reserves and who manages them?](https://www.mof.gov.sg/policies/reserves/what-comprises-the-reserves-and-who-manages-them), and Ministry of Finance, [How does the Government use investment returns from our reserves?](https://www.mof.gov.sg/policies/reserves/how-does-the-government-use-investment-returns-from-our-reserves/).

@@ -59,13 +59,13 @@ The first is **tax**. For most salaried Singapore households, personal income ta
 
 Tax deserves its own category because it is one of the largest household line items that **disappears when employment ends**. A retiree with no employment income and no rental property has very little to pay IRAS. Bury the tax bill inside "general expenses," and the FI math overstates the post-retirement run rate by tens of thousands of dollars a year — in the wrong direction.
 
-The second is **school**. The interesting thing about a Singapore school line is what is inside it. SingStat's 2023 Household Expenditure Survey reports average household education spending of about S$404 a month, of which roughly S$127 — about a third — goes to private tuition and enrichment. The institutional cost of educating a Singapore child through public primary, secondary, polytechnic or JC, and a local university is unusually low for a high-income country. Most of what households spend on "school" is not a bill the country sends; it is their own decisions about tuition, enrichment, private alternatives, and overseas options.
+The second is **school**. The interesting thing about a Singapore school line is what is inside it. SingStat's 2023 Household Expenditure Survey reports average household education spending of about S$404 a month, of which roughly S$127 — about a third — goes to private tuition and enrichment.[1](#note-1) The institutional cost of educating a Singapore child through public primary, secondary, polytechnic or JC, and a local university is unusually low for a high-income country. Most of what households spend on "school" is not a bill the country sends; it is their own decisions about tuition, enrichment, private alternatives, and overseas options.
 
 That makes the school line more diagnostic than expensive. When enrichment creeps up, the line creeps up. When a child enters public primary school and a S$1,500-a-month preschool line disappears overnight, that is a real FI inflection a less granular system would miss. Watch the line, and the household sees how much of its child-related spending is institutional cost and how much is anxiety converted into recurring fees.
 
 The third is **food**. Eating in Singapore is not one product. It is at least three: hawker centres, food courts, and kopitiams at one end; home cooking in the middle; sit-down restaurants at the other. Collapsing them into a single "dining" line hides the most consequential food decision a Singapore family makes month after month.
 
-The same SingStat survey reports that about 68 percent of household food spending goes to F&B services rather than groceries — the average household is buying food primarily as a service, not as ingredients. A "hawker / food court / takeaway" line and a separate "restaurants" line let the household see the mix at a glance. A Saturday restaurant bill is a different animal from a weekday Koufu lunch.
+The same SingStat survey reports that about 68 percent of household food spending goes to F&B services rather than groceries — the average household is buying food primarily as a service, not as ingredients.[1](#note-1) A "hawker / food court / takeaway" line and a separate "restaurants" line let the household see the mix at a glance. A Saturday restaurant bill is a different animal from a weekday Koufu lunch.
 
 The math gets a chapter of its own later. The short version: hawkers and food courts are remarkably cheap, home cooking is cheaper still, and restaurants sell ambience and ritual along with the meal. Keep restaurants for occasions, not for routine.
 
@@ -89,7 +89,7 @@ This is also why a stable category structure matters. This year's travel categor
 
 Here is what is useful about a year of one household instead of an average.
 
-The four largest lines in my 2025 spending were mortgage interest, travel, tax, and school. Together they accounted for almost half of annual outflow. Groceries — the thing households actually feel themselves spending on, week after week — came in below 7 percent. Restaurants and entertainment were rounding errors next to the mortgage statement and IRAS.
+The four largest lines in my 2025 spending were mortgage interest, travel, tax, and school. Together they accounted for almost half of annual outflow. Groceries — the thing households actually feel themselves spending on, week after week — came in below 7 percent. Restaurants and entertainment were rounding errors next to the mortgage statement and IRAS.[2](#note-2)
 
 | Category | Share of annual spending |
 |---|---:|
@@ -106,7 +106,7 @@ The four largest lines in my 2025 spending were mortgage interest, travel, tax, 
 
 Do not copy these percentages. Travel in my case includes visiting parents and family in my home country, which is closer to obligation than holiday. The "car" line is low because the household does not own one. Other households will look different in exactly the ways their lives are different.
 
-For a published reference point, the SingStat HES 2023 reports that the average resident household spent S$5,931 a month, with housing (29.8%), food (20.0%), and transport (13.4%) making up about 63% of expenditure. That shape is very different from mine, and probably from yours. Until the household is visible to itself, decisions about housing, cars, school, and travel are being made against an imaginary reference.
+For a published reference point, the SingStat HES 2023 reports that the average resident household spent S$5,931 a month, with housing (29.8%), food (20.0%), and transport (13.4%) making up about 63% of expenditure.[1](#note-1) That shape is very different from mine, and probably from yours. Until the household is visible to itself, decisions about housing, cars, school, and travel are being made against an imaginary reference.
 
 ## Track Income, Track Assets
 
@@ -179,3 +179,9 @@ The spreadsheet, app, or AI tool does not make these decisions. It makes the tra
 A household does not need perfect accounting. It needs accounting honest enough to change decisions, and simple enough to survive.
 
 The next question is the famous one. Once the assets and the spending are measured honestly, what withdrawal rate is actually safe? That is [Chapter 4: Four Percent of What?](chapter-04.md).
+
+## Notes
+
+<a id="note-1"></a>[1] Singapore Department of Statistics, [Household Expenditure Survey 2023 key indicators](https://www.singstat.gov.sg/-/media/files/find_data/household/hes2023-key-indicators.ashx), and SingStat, [Household Expenditure Survey 2023 infographic](https://www.singstat.gov.sg/-/media/files/visualising_data/infographics/households/hes-householdexpenditure.ashx).
+
+<a id="note-2"></a>[2] Author's 2025 household bookkeeping records; categories follow the simplified household accounting method described in this chapter.

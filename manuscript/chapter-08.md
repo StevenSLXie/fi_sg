@@ -4,7 +4,7 @@ Housing dominates the household balance sheet.
 
 That sentence sounds like a property-agent slogan until it becomes a household spreadsheet. In Singapore, the home is rarely a small side asset. It is often the largest line on the balance sheet, the largest debt, the largest monthly commitment, and the strongest social signal a middle-class household buys.
 
-MOF's 2026 paper on income growth, inequality, and social mobility used newer household wealth data and made the shape explicit. Home equity, meaning property value less outstanding mortgages, accounts for more than half of average household wealth in every wealth quintile. CPF balances account for about 22 percent of resident household wealth.
+MOF's 2026 paper on income growth, inequality, and social mobility used newer household wealth data and made the shape explicit. Home equity, meaning property value less outstanding mortgages, accounts for more than half of average household wealth in every wealth quintile. CPF balances account for about 22 percent of resident household wealth.[1](#note-1)
 
 That is why housing belongs in the Singapore FI stack.
 
@@ -19,8 +19,6 @@ This is the job HDB can do well. For an eligible citizen household that chooses 
 That is where the shortcut begins.
 
 The useful promise is narrower than the old resale mythology: a lower floor.
-
-Source for household wealth data: MOF, [Occasional Paper on Income Growth, Inequality, and Social Mobility Trends in Singapore](https://www.mof.gov.sg/news-resources/newsroom/occasional-paper-on-income-growth--inequality--and-social-mobility-trends-in-singapore/), 2026.
 
 ## The Largest Line Item
 
@@ -46,7 +44,7 @@ The shortcut begins with eligibility. It survives only if the household also cho
 
 A small price table shows the mechanism better than a speech about affordability.
 
-In the February 2026 BTO exercise, HDB launched Standard flats in Sembawang with starting prices like these:
+In the February 2026 BTO exercise, HDB launched Standard flats in Sembawang with starting prices like these:[2](#note-2)
 
 | Example from February 2026 BTO launch | Starting price before grants | Illustrative starting price after EHG | FI relevance |
 |---|---:|---:|---|
@@ -54,11 +52,7 @@ In the February 2026 BTO exercise, HDB launched Standard flats in Sembawang with
 | Sembawang Standard 4-room | from S$304,000 | from S$224,000 | Family-sized flat without private-market debt |
 | Sembawang Standard 5-room | from S$439,000 | from S$384,000 | More space, still inside subsidised public housing |
 
-Source: HDB, [February 2026 BTO and SBF launch](https://www.hdb.gov.sg/hdb-pulse/news/2026/hdb-launches-9012-flats-in-february-2026-bto-and-sbf-exercises).
-
-The after-grant prices are illustrative. They assume eligibility for grants. The actual Enhanced CPF Housing Grant depends on household income and other conditions. From 20 August 2024, first-timer families may receive up to S$120,000 under the EHG, while eligible first-timer singles may receive up to S$60,000 under EHG (Singles). The words "up to" carry the whole caveat.
-
-Sources: HDB, [Enhanced CPF Housing Grant for couples and families](https://www.hdb.gov.sg/buying-a-flat/flat-grant-and-loan-eligibility/couples-and-families/enhanced-cpf-housing-grant), and HDB, [Measures to cool the HDB resale market and provide more support for first-time home buyers](https://www.hdb.gov.sg/hdb-pulse/news/2024/measures-to-cool-the-hdb-resale-market-and-provide-more-support-for-first-time-home-buyers).
+The after-grant prices are illustrative. They assume eligibility for grants. The actual Enhanced CPF Housing Grant depends on household income and other conditions. From 20 August 2024, first-timer families may receive up to S$120,000 under the EHG, while eligible first-timer singles may receive up to S$60,000 under EHG (Singles).[3](#note-3) The words "up to" carry the whole caveat.
 
 Still, even before grants, the table explains why HDB changes FI math. A household that can live well in a S$300,000 to S$450,000 subsidised flat is playing a different game from a household that turns housing into a seven-figure obligation. The gap shows up in monthly cash flow, debt duration, CPF usage, insurance needs, renovation temptation, property tax, maintenance, and the psychological pressure to keep earning at peak pace.
 
@@ -66,15 +60,11 @@ The low price is not free money.
 
 The lower price is bundled with gates.
 
-The first gate is entry. The HDB Flat Eligibility letter now sits near the start of the process. It tells buyers which flat types they may buy, what grants they may qualify for, and whether they may take an HDB loan. For couples and families buying a new flat, the usual income ceiling for 4-room and 5-room flats is S$14,000; extended or multi-generation families can have a higher ceiling. Rules vary by flat type and project.
-
-Source: HDB, [HDB Flat Eligibility letter](https://www.hdb.gov.sg/buying-a-flat/flat-grant-and-loan-eligibility/application-for-an-hdb-flat-eligibility-hfe-letter) and [Couples and families](https://www.hdb.gov.sg/buying-a-flat/flat-grant-and-loan-eligibility/couples-and-families).
+The first gate is entry. The HDB Flat Eligibility letter now sits near the start of the process. It tells buyers which flat types they may buy, what grants they may qualify for, and whether they may take an HDB loan. For couples and families buying a new flat, the usual income ceiling for 4-room and 5-room flats is S$14,000; extended or multi-generation families can have a higher ceiling. Rules vary by flat type and project.[4](#note-4)
 
 The second gate is time. BTO means waiting. A household that needs a home now may buy resale, rent, live with parents, or make some other compromise. Waiting can be financially powerful, but it is not free. It consumes years of life, affects commute, family formation, caregiving, school planning, and sometimes sanity.
 
-A more attractive Plus or Prime flat may look cheaper than comparable resale or private alternatives, but the discount comes with tighter conditions. Standard flats generally have a five-year Minimum Occupation Period. Plus and Prime flats have a ten-year MOP, tighter resale eligibility conditions, and no whole-flat rental even after MOP. For Plus and Prime flats bought from HDB, subsidy recovery applies on resale or transfer.
-
-Source: HDB, [Standard, Plus, and Prime housing framework](https://www.hdb.gov.sg/buying-a-flat/bto-sbf-and-open-booking-of-flats/finding-a-new-flat/standard-plus-and-prime-housing-framework).
+A more attractive Plus or Prime flat may look cheaper than comparable resale or private alternatives, but the discount comes with tighter conditions. Standard flats generally have a five-year Minimum Occupation Period. Plus and Prime flats have a ten-year MOP, tighter resale eligibility conditions, and no whole-flat rental even after MOP. For Plus and Prime flats bought from HDB, subsidy recovery applies on resale or transfer.[5](#note-5)
 
 That last sentence is the modern HDB story in miniature. Many younger households are buying a lower cost base with tighter rules attached, not the old "HDB always makes you rich" story. Price and restrictions are part of the same product.
 
@@ -84,9 +74,7 @@ The value for FI comes from lower housing cost and lower debt. It should not be 
 
 HDB also matters because CPF and housing are joined.
 
-Chapter 5 described CPF OA as both wealth and a housing cash-flow tool. Ch8 is where that becomes concrete. OA can be used for HDB down payments and monthly instalments, subject to CPF housing rules. The HDB concessionary loan interest rate is pegged at 0.1 percentage point above the CPF OA rate. In the second quarter of 2026, the HDB concessionary interest rate is 2.6 percent per year; the CPF OA rate is 2.5 percent.
-
-Sources: HDB, [HDB housing loan interest rate](https://www.hdb.gov.sg/managing-my-home/finances/loan-matters/interest-rate), and CPF, [Using CPF savings for property purchase](https://www.cpf.gov.sg/service/article/how-much-cpf-savings-can-i-use-for-my-property-purchase).
+Chapter 5 described CPF OA as both wealth and a housing cash-flow tool. Ch8 is where that becomes concrete. OA can be used for HDB down payments and monthly instalments, subject to CPF housing rules. The HDB concessionary loan interest rate is pegged at 0.1 percentage point above the CPF OA rate. In the second quarter of 2026, the HDB concessionary interest rate is 2.6 percent per year; the CPF OA rate is 2.5 percent.[6](#note-6)
 
 Housing remains expensive. CPF used for housing is still household wealth. It has moved into walls.
 
@@ -148,23 +136,17 @@ The word "optionality" is often abused in finance. In housing, it means the hous
 
 HDB can provide some of that, but only inside rules.
 
-For Standard flats, the usual MOP is five years. After MOP, whole-flat rental may be possible if the owners meet HDB conditions and obtain approval. Only Singapore Citizen flat owners may rent out an entire HDB flat; Singapore Permanent Resident owners cannot. Room rental has its own conditions, and owners or authorised occupiers must continue living in the flat.
+For Standard flats, the usual MOP is five years. After MOP, whole-flat rental may be possible if the owners meet HDB conditions and obtain approval. Only Singapore Citizen flat owners may rent out an entire HDB flat; Singapore Permanent Resident owners cannot. Room rental has its own conditions, and owners or authorised occupiers must continue living in the flat.[7](#note-7)
 
-For Plus and Prime flats, the picture is tighter. The MOP is ten years. Whole-flat rental is not allowed even after MOP. Resale buyers must meet tighter eligibility conditions. For Plus and Prime flats bought from HDB, subsidy recovery applies on resale or transfer.
-
-Source: HDB, [Renting out a flat](https://www.hdb.gov.sg/managing-my-home/home-ownership/renting-out-a-flat-or-bedrooms/renting-out-a-flat/eligibility).
+For Plus and Prime flats, the picture is tighter. The MOP is ten years. Whole-flat rental is not allowed even after MOP. Resale buyers must meet tighter eligibility conditions. For Plus and Prime flats bought from HDB, subsidy recovery applies on resale or transfer.[5](#note-5)
 
 These restrictions belong in the price.
 
 A Standard flat in a less glamorous location may offer more future flexibility than a subsidised flat in a more attractive location with tighter conditions. A family that values future rental optionality should not discover after purchase that the option is unavailable. A household that expects to upgrade should understand resale levy, subsidy recovery, stamp duty, and CPF refund mechanics before the upgrade becomes a dream with a floor plan.
 
-Resale levy is one example. A household that buys subsidised housing and later buys another subsidised flat or certain executive condominiums may face a five-figure cash or sale-proceeds item. Plus and Prime subsidy recovery is a separate mechanism.
+Resale levy is one example. A household that buys subsidised housing and later buys another subsidised flat or certain executive condominiums may face a five-figure cash or sale-proceeds item. Plus and Prime subsidy recovery is a separate mechanism.[8](#note-8)
 
-Source: HDB, [Conditions after buying a new flat](https://www.hdb.gov.sg/buying-a-flat/bto-sbf-and-open-booking-of-flats/conditions-after-buying-a-new-flat?anchor=housing-subsidy).
-
-ABSD has its own boundary. A Singapore Citizen buying a first residential property pays no ABSD. A second residential property triggers ABSD unless a specific remission or disposal condition applies. HDB-to-HDB upgrading can have different treatment because HDB rules generally require disposal of the existing flat. The safe household rule is simple: never let a future upgrade sit in the FI spreadsheet as a free option. Check levy, subsidy recovery, ABSD, and CPF refund rules before the floor plan becomes a plan.
-
-Source: IRAS, [Additional Buyer's Stamp Duty](https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer%27s-stamp-duty-%28absd%29).
+ABSD has its own boundary. A Singapore Citizen buying a first residential property pays no ABSD. A second residential property triggers ABSD unless a specific remission or disposal condition applies. HDB-to-HDB upgrading can have different treatment because HDB rules generally require disposal of the existing flat.[9](#note-9) The safe household rule is simple: never let a future upgrade sit in the FI spreadsheet as a free option. Check levy, subsidy recovery, ABSD, and CPF refund rules before the floor plan becomes a plan.
 
 Housing optionality is real. It is also conditional.
 
@@ -215,3 +197,23 @@ The shortcut is real. It has gates. It works by lowering the floor, not by promi
 The next chapter is about what happens when the household looks at that lower floor and decides it would rather buy the escalator.
 
 We need to talk about condos.
+
+## Notes
+
+<a id="note-1"></a>[1] Ministry of Finance, [Occasional Paper on Income Growth, Inequality, and Social Mobility Trends in Singapore](https://www.mof.gov.sg/news-resources/newsroom/occasional-paper-on-income-growth--inequality--and-social-mobility-trends-in-singapore/), 2026.
+
+<a id="note-2"></a>[2] HDB, [February 2026 BTO and SBF launch](https://www.hdb.gov.sg/hdb-pulse/news/2026/hdb-launches-9012-flats-in-february-2026-bto-and-sbf-exercises).
+
+<a id="note-3"></a>[3] HDB, [Enhanced CPF Housing Grant for couples and families](https://www.hdb.gov.sg/buying-a-flat/flat-grant-and-loan-eligibility/couples-and-families/enhanced-cpf-housing-grant), and HDB, [Measures to cool the HDB resale market and provide more support for first-time home buyers](https://www.hdb.gov.sg/hdb-pulse/news/2024/measures-to-cool-the-hdb-resale-market-and-provide-more-support-for-first-time-home-buyers).
+
+<a id="note-4"></a>[4] HDB, [HDB Flat Eligibility letter](https://www.hdb.gov.sg/buying-a-flat/flat-grant-and-loan-eligibility/application-for-an-hdb-flat-eligibility-hfe-letter), and HDB, [Couples and families](https://www.hdb.gov.sg/buying-a-flat/flat-grant-and-loan-eligibility/couples-and-families).
+
+<a id="note-5"></a>[5] HDB, [Standard, Plus, and Prime housing framework](https://www.hdb.gov.sg/buying-a-flat/bto-sbf-and-open-booking-of-flats/finding-a-new-flat/standard-plus-and-prime-housing-framework).
+
+<a id="note-6"></a>[6] HDB, [HDB housing loan interest rate](https://www.hdb.gov.sg/managing-my-home/finances/loan-matters/interest-rate), and CPF Board, [How much CPF savings can I use for my property purchase?](https://www.cpf.gov.sg/service/article/how-much-cpf-savings-can-i-use-for-my-property-purchase).
+
+<a id="note-7"></a>[7] HDB, [Renting out a flat](https://www.hdb.gov.sg/managing-my-home/home-ownership/renting-out-a-flat-or-bedrooms/renting-out-a-flat/eligibility).
+
+<a id="note-8"></a>[8] HDB, [Conditions after buying a new flat](https://www.hdb.gov.sg/buying-a-flat/bto-sbf-and-open-booking-of-flats/conditions-after-buying-a-new-flat?anchor=housing-subsidy).
+
+<a id="note-9"></a>[9] IRAS, [Additional Buyer's Stamp Duty](https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/additional-buyer%27s-stamp-duty-%28absd%29).

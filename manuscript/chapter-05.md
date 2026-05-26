@@ -16,7 +16,7 @@ The first useful distinction is between the age you stop working and the age a r
 
 They are not the same age.
 
-This sounds obvious until a government system gives one of them an official label. In Singapore, CPF LIFE payouts can start from 65, with the option to defer up to 70. That does not mean 65 is the age at which work becomes optional. It means 65 is the age at which one specific retirement product can begin sending monthly income.
+This sounds obvious until a government system gives one of them an official label. In Singapore, CPF LIFE payouts can start from 65, with the option to defer up to 70.[1](#note-1) That does not mean 65 is the age at which work becomes optional. It means 65 is the age at which one specific retirement product can begin sending monthly income.
 
 A household can be financially independent before CPF LIFE starts. A household can also be financially dependent after CPF LIFE starts. The payout age is not a permission slip. It is a feature of the product.
 
@@ -24,7 +24,7 @@ CPF matters so much for FI precisely because it should not be allowed to define 
 
 ## The Paycheque Split
 
-For a Singapore citizen or third-year permanent resident aged 55 or below, earning more than S$750 a month, CPF contributions in 2026 are 37 percent of wages up to the Ordinary Wage ceiling: 20 percent from the employee and 17 percent from the employer. The Ordinary Wage ceiling has reached S$8,000 a month.
+For a Singapore citizen or third-year permanent resident aged 55 or below, earning more than S$750 a month, CPF contributions in 2026 are 37 percent of wages up to the Ordinary Wage ceiling: 20 percent from the employee and 17 percent from the employer. The Ordinary Wage ceiling has reached S$8,000 a month.[2](#note-2)
 
 That means a S$8,000 monthly salary sends S$2,960 into CPF before the household has made a single deliberate savings decision.
 
@@ -46,7 +46,7 @@ That is why "CPF is locked up" is too crude. Some of it is locked. Some of it pa
 
 The Ordinary Account is the easiest account to underestimate because it earns the lowest headline rate.
 
-As of early 2026, OA earns 2.5 percent. That is not exciting. It is also not the whole story. OA can pay for the down payment and monthly instalments of an HDB flat or private property, subject to CPF housing rules. For an owner-occupier with a mortgage, OA is not cash, but it affects cash flow almost as directly as cash.
+As of early 2026, OA earns 2.5 percent. That is not exciting. It is also not the whole story. OA can pay for the down payment and monthly instalments of an HDB flat or private property, subject to CPF housing rules.[3](#note-3) For an owner-occupier with a mortgage, OA is not cash, but it affects cash flow almost as directly as cash.
 
 If OA pays S$2,000 of mortgage instalments this month, the household's bank account is S$2,000 less stressed. The money cannot buy lunch. It can pay one of the largest bills in the household.
 
@@ -56,15 +56,15 @@ CPF makes home ownership easier. It can also make the cost of the home feel less
 
 ## SA and RA: The Bond-Like Dollar
 
-The Special Account is easier to respect. It pays a higher rate and is built for retirement. As of early 2026, Special, MediSave, and Retirement Account balances earn 4 percent, with extra interest on the first portion of CPF balances.
+The Special Account is easier to respect. It pays a higher rate and is built for retirement. As of early 2026, Special, MediSave, and Retirement Account balances earn 4 percent, with extra interest on the first portion of CPF balances.[4](#note-4)
 
 For a forty-year-old, SA is close to a long-duration government bond that cannot be sold. That is both the point and the irritation. The lock-up makes it behaviourally powerful. It also makes it useless for bridging expenses before access.
 
-Since 19 January 2025, CPF members aged 55 and above no longer keep a Special Account. If you turn 55 after that date, your Retirement Account is created on your fifty-fifth birthday, savings from SA and OA are transferred to RA up to the Full Retirement Sum, and the SA is closed. Remaining SA savings, if any, go to OA.
+Since 19 January 2025, CPF members aged 55 and above no longer keep a Special Account. If you turn 55 after that date, your Retirement Account is created on your fifty-fifth birthday, savings from SA and OA are transferred to RA up to the Full Retirement Sum, and the SA is closed. Remaining SA savings, if any, go to OA.[5](#note-5)
 
 That policy change is a useful reminder: CPF rules are policy design, not physics. They can change.
 
-The Retirement Account is where the retirement income machinery begins to become explicit. For members turning 55 in 2026, the reference sums are:
+The Retirement Account is where the retirement income machinery begins to become explicit. For members turning 55 in 2026, the reference sums are:[6](#note-6)
 
 | Retirement sum | Amount at 55 | Estimated monthly payout from 65 |
 |---|---:|---:|
@@ -78,7 +78,7 @@ But the table gives the scale. CPF LIFE is meaningful income. It is not, by itse
 
 ## MA: The Medical Dollar
 
-MediSave is the account people understand last because it is neither spending money nor retirement income in the usual sense. MA pays for approved medical expenses and MediShield Life and Integrated Shield premiums, subject to limits. It earns the same headline rate as SA and RA, but it is a restricted healthcare wallet, not a pool waiting to be withdrawn in one lump sum.
+MediSave is the account people understand last because it is neither spending money nor retirement income in the usual sense. MA pays for approved medical expenses and MediShield Life and Integrated Shield premiums, subject to limits.[7](#note-7) It earns the same headline rate as SA and RA, but it is a restricted healthcare wallet, not a pool waiting to be withdrawn in one lump sum.
 
 That restriction is annoying until a large medical bill appears. Then it starts to look like design.
 
@@ -135,3 +135,19 @@ But CPF is not a complete retirement plan. It has liquidity gates and policy ris
 The sensible attitude is boring and useful: use CPF deliberately, count it honestly, and build outside it. Do not fight CPF for emotional reasons. Do not worship it because it pays 4 percent. Do not treat illiquidity as if it were safety in all circumstances.
 
 CPF is part of the Singapore FI stack. The next part is what happens before money even reaches CPF, investments, housing, or lifestyle: [Chapter 6: Low Taxes Are a Feature](chapter-06.md).
+
+## Notes
+
+<a id="note-1"></a>[1] CPF Board, [What is the CPF LIFE payout age?](https://www.cpf.gov.sg/member/infohub/educational-resources/what-is-the-cpf-life-payout-age).
+
+<a id="note-2"></a>[2] CPF Board, [How much CPF contributions to pay](https://www.cpf.gov.sg/employer/employer-obligations/how-much-cpf-contributions-to-pay).
+
+<a id="note-3"></a>[3] CPF Board, [How much CPF savings can I use for my property purchase?](https://www.cpf.gov.sg/service/article/how-much-cpf-savings-can-i-use-for-my-property-purchase).
+
+<a id="note-4"></a>[4] CPF Board, [What are the CPF interest rates?](https://www.cpf.gov.sg/service/article/what-are-the-cpf-interest-rates).
+
+<a id="note-5"></a>[5] CPF Board, [What is the closure of Special Account for members aged 55 and above about?](https://www.cpf.gov.sg/service/article/what-is-the-closure-of-special-account-for-members-aged-55-and-above-about).
+
+<a id="note-6"></a>[6] CPF Board, [What is the CPF retirement sum?](https://www.cpf.gov.sg/member/infohub/educational-resources/what-is-the-cpf-retirement-sum).
+
+<a id="note-7"></a>[7] CPF Board, [MediSave Account](https://www.cpf.gov.sg/member/infohub/educational-resources/medisave-account).

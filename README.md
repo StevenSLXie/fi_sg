@@ -10,7 +10,7 @@ A family, in my view, should be run a little like a listed company. Not because 
 
 Doing this for four years produced two surprises.
 
-The first was about savings rate. Take a Singaporean couple earning a combined S$10,000 a month, spending every dollar that lands in their bank account. CPF still moves about S$3,700 into their household savings each month — S$2,000 deducted from their paycheques, plus S$1,700 contributed by their employers on top. More than a third of their gross pay is set aside on autopilot, before they have done anything deliberate.
+The first was about savings rate. Take a Singaporean couple earning a combined S$10,000 a month, spending every dollar that lands in their bank account. CPF still moves about S$3,700 into their household savings each month — S$2,000 deducted from their paycheques, plus S$1,700 contributed by their employers on top. More than a third of their gross pay is set aside on autopilot, before they have done anything deliberate.[1](#note-1)
 
 The second surprise was more interesting. Ordinary life in Singapore was not as expensive as the national conversation made it sound — but only because we were buying a different version of Singapore.
 
@@ -58,3 +58,7 @@ If there is a single sentence behind this book, it is the oldest one in personal
 Singapore can be an expensive place to live. It can also be an unusually good place to become free.
 
 The difference begins with knowing your numbers. Start with [Chapter 1: When Work Becomes Optional](manuscript/chapter-01.md).
+
+## Notes
+
+<a id="note-1"></a>[1] CPF contribution illustration uses the 2026 employee and employer contribution rates for a Singapore Citizen or third-year Permanent Resident aged 55 and below, up to the Ordinary Wage ceiling. CPF Board, [How much CPF contributions to pay](https://www.cpf.gov.sg/employer/employer-obligations/how-much-cpf-contributions-to-pay).

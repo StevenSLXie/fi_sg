@@ -14,7 +14,7 @@ For this book, the answer is 3.5 percent.
 
 ## What Four Percent Means
 
-The four percent rule comes from William Bengen's 1994 paper, "Determining Withdrawal Rates Using Historical Data." Bengen tested U.S. market history and asked a narrow question: across historical thirty-year retirements, what first-year withdrawal rate survived if the dollar withdrawal was raised with inflation each year?
+The four percent rule comes from William Bengen's 1994 paper, "Determining Withdrawal Rates Using Historical Data." Bengen tested U.S. market history and asked a narrow question: across historical thirty-year retirements, what first-year withdrawal rate survived if the dollar withdrawal was raised with inflation each year?[1](#note-1)
 
 The answer was about four percent. More precisely, Bengen's original work pointed to a safe first-year withdrawal rate a little above four, and the world rounded it into a rule.
 
@@ -40,7 +40,7 @@ This is sequence-of-returns risk. In accumulation, a market crash early in life 
 
 The 1966 retiree is the clean example. She did not need the market to fail forever. She only needed the first decade to be bad enough. By the time returns improved, too much of the portfolio had already been removed.
 
-A rough stress test gives the shape. I computed a real total-return series from Robert Shiller's monthly S&P 500 price, dividend, and CPI data, started a retiree in January of each year from 1960 to 1995, withdrew monthly from a one-million-dollar portfolio, and asked what was left after thirty years in starting-year purchasing power.
+A rough stress test gives the shape. I computed a real total-return series from Robert Shiller's monthly S&P 500 price, dividend, and CPI data, started a retiree in January of each year from 1960 to 1995, withdrew monthly from a one-million-dollar portfolio, and asked what was left after thirty years in starting-year purchasing power.[2](#note-2)
 
 The test is deliberately crude: all equities, no bonds, no fees, no taxes, and U.S. inflation. It is a pressure test, not a Singapore retirement model.
 
@@ -53,8 +53,6 @@ The test is deliberately crude: all equities, no bonds, no fees, no taxes, and U
 
 That table is the evidence for the line I care about. It does not prove that 3.5 percent is safe forever. It shows why the extra half-percent is not cosmetic. Four percent mostly works, but the bad starts get close to the edge or fall over it. Three and a half survives this particular set.
 
-Source and method note: author calculation using Robert Shiller's monthly S&P 500 price, dividend, and CPI data; monthly withdrawals; values reported in starting-year purchasing power.
-
 The same table also deals with five and six. At five percent, the bad starts are no longer rare exceptions. At six, every start from 1960 through 1974 fails. The argument against five or six is not tone. It is the failure count.
 
 This does not prove the future. It shows what the extra half-percent is buying: room for a bad first decade.
@@ -63,7 +61,7 @@ This does not prove the future. It shows what the extra half-percent is buying: 
 
 Singapore helps the withdrawal math in taxes and CPF returns. It complicates the math in liquidity, currency, and horizon.
 
-CPF gives many households a large SGD-denominated, government-backed, bond-like asset. As of the second quarter of 2026, Ordinary Account balances earn 2.5 percent, while Special, MediSave, and Retirement Account balances earn 4 percent, with extra interest on the first portion of combined balances. Low taxes also help. Personal capital gains are generally not taxed unless the activity is really trading. Many local dividends are not taxed in the hands of individuals. Estate duty has been removed for deaths on and after 15 February 2008.
+CPF gives many households a large SGD-denominated, government-backed, bond-like asset. As of the second quarter of 2026, Ordinary Account balances earn 2.5 percent, while Special, MediSave, and Retirement Account balances earn 4 percent, with extra interest on the first portion of combined balances.[3](#note-3) Low taxes also help. Personal capital gains are generally not taxed unless the activity is really trading. Many local dividends are not taxed in the hands of individuals. Estate duty has been removed for deaths on and after 15 February 2008.[4](#note-4)
 
 For a U.S. retiree, tax sequencing can become a second retirement problem sitting on top of the first. For many Singapore residents, the withdrawal math is cleaner.
 
@@ -112,3 +110,13 @@ That gives one side of the FI equation a hard number.
 The other side - annual spending - is still pretending to be a constant. It is not. The same Singaporean household at the same income level can spend S$120,000 a year or S$48,000 a year depending entirely on which version of Singapore it has chosen to buy. A condo near Orchard, a continental car, restaurants as routine, enrichment subscriptions, and overseas family holidays produce one number. A four-room HDB near an MRT, public transport, hawker centres on weekdays, public school, and JB on long weekends produce a very different one.
 
 Three point five percent gives the formula a working rate. The next question is Singapore-specific: what belongs inside the FI asset base, what stays locked away, and when the system starts paying you back. That is [Chapter 5: CPF Is Not One Thing](chapter-05.md).
+
+## Notes
+
+<a id="note-1"></a>[1] William P. Bengen, ["Determining Withdrawal Rates Using Historical Data,"](https://www.financialplanningassociation.org/learning/publications/journal/OCT94-determining-withdrawal-rates-using-historical-data) *Journal of Financial Planning*, October 1994.
+
+<a id="note-2"></a>[2] Author calculation using Robert Shiller's [online data](https://www.econ.yale.edu/~shiller/data.htm): monthly S&P 500 price, dividend, and CPI data; monthly withdrawals; values reported in starting-year purchasing power.
+
+<a id="note-3"></a>[3] CPF Board, [What are the CPF interest rates?](https://www.cpf.gov.sg/service/article/what-are-the-cpf-interest-rates).
+
+<a id="note-4"></a>[4] IRAS, [What is taxable and what is not](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not); IRAS, [One-tier corporate tax system](https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/tax-residency-of-a-company/one-tier-corporate-tax-system); IRAS, [Estate duty](https://www.iras.gov.sg/taxes/other-taxes/estate-duty).
