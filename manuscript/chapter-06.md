@@ -134,6 +134,4 @@ Third, track investable surplus. This is the number that enters the FI machine.
 
 Low taxes are a feature. More precisely, the money that survives is the feature.
 
-The next question is what the surviving money is sitting on. A low-tax salary paid in a weak currency creates one kind of FI problem. A low-tax salary paid in Singapore dollars creates another. To understand why geography and currency matter so much to Singapore FI, we need to talk about the strong dollar under your feet.
-
-[Chapter 7 follows.]
+The next question is what the surviving money is sitting on. A low-tax salary paid in a weak currency creates one kind of FI problem. A low-tax salary paid in Singapore dollars creates another. That is [Chapter 7: The Strong Dollar Under Your Feet](chapter-07.md).

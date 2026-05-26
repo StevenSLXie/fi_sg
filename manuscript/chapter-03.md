@@ -178,6 +178,4 @@ The spreadsheet, app, or AI tool does not make these decisions. It makes the tra
 
 A household does not need perfect accounting. It needs accounting honest enough to change decisions, and simple enough to survive.
 
-The next question is the famous one. Once the assets and the spending are measured honestly, what withdrawal rate is actually safe? Four percent of what?
-
-[Chapter 4 follows.]
+The next question is the famous one. Once the assets and the spending are measured honestly, what withdrawal rate is actually safe? That is [Chapter 4: Four Percent of What?](chapter-04.md).

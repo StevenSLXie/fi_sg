@@ -111,6 +111,4 @@ That gives one side of the FI equation a hard number.
 
 The other side - annual spending - is still pretending to be a constant. It is not. The same Singaporean household at the same income level can spend S$120,000 a year or S$48,000 a year depending entirely on which version of Singapore it has chosen to buy. A condo near Orchard, a continental car, restaurants as routine, enrichment subscriptions, and overseas family holidays produce one number. A four-room HDB near an MRT, public transport, hawker centres on weekdays, public school, and JB on long weekends produce a very different one.
 
-Three point five percent gives the formula a working rate. The next question is Singapore-specific: what belongs inside the FI asset base, what stays locked away, and when the system starts paying you back.
-
-[Chapter 5: CPF Is Not One Thing](chapter-05.md)
+Three point five percent gives the formula a working rate. The next question is Singapore-specific: what belongs inside the FI asset base, what stays locked away, and when the system starts paying you back. That is [Chapter 5: CPF Is Not One Thing](chapter-05.md).

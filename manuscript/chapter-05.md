@@ -134,6 +134,4 @@ But CPF is not a complete retirement plan. It has liquidity gates and policy ris
 
 The sensible attitude is boring and useful: use CPF deliberately, count it honestly, and build outside it. Do not fight CPF for emotional reasons. Do not worship it because it pays 4 percent. Do not treat illiquidity as if it were safety in all circumstances.
 
-CPF is part of the Singapore FI stack. The next part is what happens before money even reaches the stack: how much of each dollar Singapore lets you keep.
-
-[Chapter 6 follows.]
+CPF is part of the Singapore FI stack. The next part is what happens before money even reaches CPF, investments, housing, or lifestyle: [Chapter 6: Low Taxes Are a Feature](chapter-06.md).

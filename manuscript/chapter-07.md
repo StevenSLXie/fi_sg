@@ -160,6 +160,4 @@ Used well, it expands the household's map. It makes overseas options more real, 
 
 FI runs on mechanisms, not slogans.
 
-CPF is a mechanism. Low tax is a mechanism. A strong, credible currency is a mechanism. The next mechanism is the largest expense in most lives, and the one most likely to decide whether the Singapore FI stack remains a shortcut or becomes a trap.
-
-We need to talk about housing.
+CPF is a mechanism. Low tax is a mechanism. A strong, credible currency is a mechanism. The next mechanism is the largest expense in most lives, and the one most likely to decide whether the Singapore FI stack remains a shortcut or becomes a trap: [Chapter 8: HDB Is the Shortcut](chapter-08.md).
