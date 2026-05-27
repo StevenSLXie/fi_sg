@@ -1,6 +1,6 @@
 # How Much Is Enough?
 
-> **Navigation:** [← The Index Is Not the Product](chapter-14.md) · [Contents](../SUMMARY.md) · Next: forthcoming
+> **Navigation:** [← The Index Is Not the Product](chapter-14.md) · [Contents](../SUMMARY.md) · [What Can Go Wrong? →](chapter-16.md)
 
 "How much is enough?" sounds like a philosophical question.
 
@@ -123,7 +123,7 @@ This is a more useful conclusion than "it depends." It still depends, but now it
 Once the FI number is visible, the household can stop arguing about magic numbers and start choosing which version of Singapore it is actually buying.
 
 ---
-**Navigation:** [← The Index Is Not the Product](chapter-14.md) · [Contents](../SUMMARY.md) · Next: forthcoming
+**Navigation:** [← The Index Is Not the Product](chapter-14.md) · [Contents](../SUMMARY.md) · [What Can Go Wrong? →](chapter-16.md)
 
 ## Notes
 

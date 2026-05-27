@@ -28,3 +28,7 @@
 * [Chapter 13: Investing Is the Easy Part](manuscript/chapter-13.md)
 * [Chapter 14: The Index Is Not the Product](manuscript/chapter-14.md)
 * [Chapter 15: How Much Is Enough?](manuscript/chapter-15.md)
+
+## Part V: Making It Hold
+
+* [Chapter 16: What Can Go Wrong?](manuscript/chapter-16.md)
