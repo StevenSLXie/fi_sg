@@ -138,17 +138,11 @@ The word "optionality" is often abused in finance. In housing, it means the hous
 
 HDB can provide some of that, but only inside rules.
 
-For Standard flats, the usual MOP is five years. After MOP, whole-flat rental may be possible if the owners meet HDB conditions and obtain approval. Only Singapore Citizen flat owners may rent out an entire HDB flat; Singapore Permanent Resident owners cannot. Room rental has its own conditions, and owners or authorised occupiers must continue living in the flat.[7](#note-7)
+For Standard flats, the usual MOP is five years. After MOP, whole-flat rental may be possible if the owners meet HDB conditions and obtain approval. Only Singapore Citizen flat owners may rent out an entire HDB flat.[7](#note-7)
 
-For Plus and Prime flats, the picture is tighter. The MOP is ten years. Whole-flat rental is not allowed even after MOP. Resale buyers must meet tighter eligibility conditions. For Plus and Prime flats bought from HDB, subsidy recovery applies on resale or transfer.[5](#note-5)
+For Plus and Prime flats, the picture is tighter: ten-year MOP, no whole-flat rental even after MOP, resale eligibility conditions, and subsidy recovery on resale or transfer.[5](#note-5)
 
-These restrictions belong in the price.
-
-A Standard flat in a less glamorous location may offer more future flexibility than a subsidised flat in a more attractive location with tighter conditions. A family that values future rental optionality should not discover after purchase that the option is unavailable. A household that expects to upgrade should understand resale levy, subsidy recovery, stamp duty, and CPF refund mechanics before the upgrade becomes a dream with a floor plan.
-
-Resale levy is one example. A household that buys subsidised housing and later buys another subsidised flat or certain executive condominiums may face a five-figure cash or sale-proceeds item. Plus and Prime subsidy recovery is a separate mechanism.[8](#note-8)
-
-ABSD has its own boundary. A Singapore Citizen buying a first residential property pays no ABSD. A second residential property triggers ABSD unless a specific remission or disposal condition applies. HDB-to-HDB upgrading can have different treatment because HDB rules generally require disposal of the existing flat.[9](#note-9) The safe household rule is simple: never let a future upgrade sit in the FI spreadsheet as a free option. Check levy, subsidy recovery, ABSD, and CPF refund rules before the floor plan becomes a plan.
+These restrictions belong in the price. A family that values future rental optionality should not discover after purchase that the option is unavailable. A household that expects to upgrade should check resale levy, subsidy recovery, ABSD, and CPF refund rules before the floor plan becomes a plan.[8](#note-8)[9](#note-9)
 
 Housing optionality is real. It is also conditional.
 

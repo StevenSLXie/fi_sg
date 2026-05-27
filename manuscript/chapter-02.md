@@ -74,7 +74,7 @@ The shape does not.
 
 At low savings rates, the FI timeline behaves like a normal career. Ten percent or twenty percent savings feels responsible, and it is responsible, but it is still a thirty-year problem. At forty or fifty percent, the line bends. At sixty or seventy percent, the timeline starts to look strange to people who think retirement must be issued by CPF at the proper age.
 
-The two graduates can reverse intuition. The higher earner may have more absolute dollars passing through the bank account, but if most of those dollars are already spoken for by housing, car, restaurants, travel, and identity, the FI engine is smaller than it looks. The lower earner may have fewer dollars, but if the spending base is low, every saved dollar does more work.
+The two graduates can reverse intuition. The higher earner may have more absolute dollars passing through the bank account, but if most of those dollars are already spoken for by housing and identity costs, the FI engine is smaller than it looks. The lower earner may have fewer dollars, but if the spending base is low, every saved dollar does more work.
 
 FI is not paid for by income. FI is paid for by the part of income that survives contact with the life you built.
 

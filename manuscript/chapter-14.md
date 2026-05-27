@@ -100,9 +100,9 @@ It is easy to mentally export that friendliness to every product bought from a b
 
 That is a mistake.
 
-U.S.-source dividends paid to foreign persons are generally subject to 30 percent withholding unless reduced by treaty.[5](#note-5) Singapore does not have the kind of U.S. tax treaty that reduces that dividend withholding rate for ordinary portfolio investors. A U.S.-domiciled ETF holding dividend-paying U.S. stocks can be efficient in fees and liquidity, but the dividend leak is real.
+U.S.-source dividends paid to foreign persons are generally subject to 30 percent withholding unless reduced by treaty.[5](#note-5) For ordinary Singapore portfolio investors, that rate is not reduced simply because the brokerage account is in Singapore. A U.S.-domiciled ETF holding dividend-paying U.S. stocks can be efficient in fees and liquidity, but the dividend leak is real.
 
-There is also an estate angle. The IRS requires Form 706-NA filing for nonresident non-citizen estates where U.S.-situated assets exceed US$60,000, and U.S.-law corporation stock is generally U.S.-situated property.[6](#note-6) This is not the same as saying every Singapore investor's family will definitely pay a large U.S. estate tax bill. Actual outcomes depend on the estate, credits, treaties, structure, and facts. The practical point is enough: a U.S.-domiciled fund can create exposure and paperwork that the index name does not show.
+There is also an estate angle. A U.S.-domiciled fund can create exposure and paperwork that the index name does not show.[6](#note-6) That is not the same as saying every Singapore investor's family will definitely pay a large U.S. estate tax bill. The practical point is enough: the wrapper can matter even when the exposure is the same.
 
 The wrapper is not small print.
 
@@ -110,7 +110,7 @@ It is part of the FI result.
 
 ## Ireland Is Common, Not Magic
 
-This is why Ireland-domiciled UCITS ETFs are common among Singapore investors who want U.S. or global equity exposure.
+One common response is the Ireland-domiciled UCITS ETF.
 
 The usual logic is simple. A U.S.-domiciled ETF receives U.S. dividends and distributes them to a Singapore resident, typically with 30 percent U.S. withholding. An Ireland-domiciled fund holding U.S. equities usually benefits from the U.S.-Ireland treaty rate at the fund level, commonly 15 percent for portfolio dividends.[7](#note-7) If the fund is accumulating, the remaining dividend is reinvested inside the fund rather than paid out to the investor.
 

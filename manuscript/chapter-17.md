@@ -68,12 +68,6 @@ It can cover a large share of a modest household's discretionary spending. In a 
 
 The key word is chosen. If the household needs that income to prevent immediate failure, it may not be fully FI yet. If the income improves the plan, reduces risk, or funds work the person actually wants to do, then work is no longer the master account. It is a lever.
 
-This is why the argument for FI is stronger than the argument for retirement.
-
-Retirement asks whether you will stop working.
-
-FI asks whether you can decide.
-
 ## The New Golden Cage
 
 There is one trap after FI that looks respectable.

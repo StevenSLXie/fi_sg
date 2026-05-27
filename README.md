@@ -36,11 +36,11 @@ The answer also depends on where the spending actually happens. A household that
 
 Whatever formula you settle on, Singapore is unusually good for it — if you buy the right version of Singapore. Low income tax keeps more of what you earn. CPF — annoying, and that is also why it works — locks part of what's left into housing, retirement, and medical assets before lifestyle can claim it. HDB, for eligible BTO buyers, lowers the largest fixed cost in most lives. The rest we will get to. Together, they make up the Singapore FI stack.
 
-I am writing this as a married father of two, eleven years into working life — a software engineer who has worked in big tech and now works at a mid-sized fintech. By my own formula, our family are about 53 percent of the way to full FI, with roughly four years to go. A software career is not a forty-year escalator. In the AI era, some days it feels closer to day labour with a nicer laptop — one year of work, one year of income earned. That is one practical reason FI matters to me. 
+I am writing this as a married father of two, eleven years into working life, with our household about 53 percent of the way to full FI by that conservative formula. That number is not a boast. It is the vantage point of the book: still inside the system, far enough along for the mechanics to matter.
 
 This book is not an investment manual, a call to extreme frugality, or a promise that everyone can retire at thirty-five. Investing is where the surplus goes, not where the surplus is created. Frugality, done right, is the art of refusing low-value expenses before they become structural. And "Retire Early" is the marketing department. Financial Independence is the operating system.
 
-The book follows that order. First, we define the math: savings rate, the 4 percent rule, and what full FI actually means. Then we examine the Singapore operating system: CPF, low taxes, the Singapore dollar, and HDB. After that, we move into daily life: housing upgrades, food, children, and practical skills. The point is not to make life small. It is to turn expensive defaults back into choices. Only then do we discuss investing, because investing is where the surplus goes after the household has produced it. Finally, we return to the question underneath the spreadsheet: what the freedom is for.
+The book follows the build order: math first, then the Singapore stack, then the cost floor, then investing, then the question of enough, risk, and work after FI. The point is not to make life small. It is to turn expensive defaults back into choices.
 
 Here is the route through the argument. The same chapter list is also available as a compact [table of contents](SUMMARY.md).
 
@@ -62,7 +62,7 @@ Here is the route through the argument. The same chapter list is also available 
 | III. The Cost Floor | [12. Children Are Not the FI Killer](manuscript/chapter-12.md) | Separates unavoidable child costs from optional education anxiety and status spending. |
 | IV. The Investing Machine | [13. Investing Is the Easy Part](manuscript/chapter-13.md) | Turns the surplus into a boring, low-cost, automated investment system instead of a heroic stock-picking project. |
 | IV. The Investing Machine | [14. The Index Is Not the Product](manuscript/chapter-14.md) | Separates the index exposure from the fund wrapper that changes tax, estate, liquidity, and administration outcomes. |
-| IV. The Investing Machine | [15. How Much Is Enough?](manuscript/chapter-15.md) | Turns spending, CPF timing, and liquidity into a Singapore-specific FI dashboard. |
+| V. Making It Hold | [15. How Much Is Enough?](manuscript/chapter-15.md) | Turns spending, CPF timing, and liquidity into a Singapore-specific FI dashboard. |
 | V. Making It Hold | [16. What Can Go Wrong?](manuscript/chapter-16.md) | Turns market, Singapore-system, family, and liquidity risks into concrete levers instead of vague anxiety. |
 | V. Making It Hold | [17. Work After FI](manuscript/chapter-17.md) | Shows how work changes when employment income is optional rather than compulsory. |
 

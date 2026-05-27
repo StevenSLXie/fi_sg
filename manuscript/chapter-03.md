@@ -55,21 +55,13 @@ The useful question is not where the money was spent, but what household functio
 
 Chapter 2 covered the two non-negotiable splits. CPF is wealth, not cash, and contributions belong inside the household's savings flow. Mortgage principal is savings; mortgage interest is spending; the bank's annual housing-loan statement already does that split month by month. Those two rules are the spine of any Singapore household FI account.
 
-Three more local traps are worth naming.
+Three more local traps are worth naming, briefly.
 
-The first is **tax**. Singapore's headline income-tax rates are low, but for a household seriously on the FI path the absolute bill can still be large.
+The first is **tax**. Singapore's headline income-tax rates are low, but the absolute bill can still be one of the largest household line items. It also falls sharply when employment income ends. Bury the tax bill inside "general expenses," and the FI math overstates the post-retirement run rate.
 
-Tax deserves its own category because it is one of the largest household line items that **disappears when employment ends**. A retiree with no employment income and no rental property has very little to pay IRAS. Bury the tax bill inside "general expenses," and the FI math overstates the post-retirement run rate by tens of thousands of dollars a year — in the wrong direction.
+The second is **school**. SingStat's 2023 Household Expenditure Survey reports average household education spending of about S$404 a month; average private-tuition spending alone was S$105 a month across all households.[1](#note-1) The useful question is not whether children cost money. It is how much of the line is the public system, and how much is tuition, enrichment, private alternatives, or anxiety converted into recurring fees.
 
-The second is **school**. The interesting thing about a Singapore school line is what is inside it. SingStat's 2023 Household Expenditure Survey reports average household education spending of about S$404 a month, of which roughly S$127 — about a third — goes to private tuition and enrichment.[1](#note-1) The institutional cost of educating a Singapore child through public primary, secondary, polytechnic or JC, and a local university is unusually low for a high-income country. Most of what households spend on "school" is not a bill the country sends; it is their own decisions about tuition, enrichment, private alternatives, and overseas options.
-
-That makes the school line more diagnostic than expensive. When enrichment creeps up, the line creeps up. When a child enters public primary school and a S$1,500-a-month preschool line disappears overnight, that is a real FI inflection a less granular system would miss. Watch the line, and the household sees how much of its child-related spending is institutional cost and how much is anxiety converted into recurring fees.
-
-The third is **food**. Eating in Singapore comes in several products wearing the same name: ingredients, cheap prepared meals, and restaurants. Collapsing them into a single "dining" line hides the most consequential food decision a Singapore family makes month after month.
-
-The same SingStat survey reports that about 68 percent of household food spending goes to F&B services rather than groceries — the average household is buying food primarily as a service, not as ingredients.[1](#note-1) A "hawker / food court / takeaway" line and a separate "restaurants" line let the household see the mix at a glance. A Saturday restaurant bill is a different animal from a weekday Koufu lunch.
-
-The math gets a chapter of its own later. The short version: hawkers and food courts are remarkably cheap, home cooking is cheaper still, and restaurants sell ambience and ritual along with the meal. Keep restaurants for occasions, not for routine.
+The third is **food**. Eating in Singapore comes in several products wearing the same name: ingredients, cheap prepared meals, and restaurants. A single "dining" category hides whether the household is buying a daily solution or a weekend occasion.
 
 ## Use The Trail
 
@@ -118,23 +110,16 @@ My income categories are simple: salary, CPF contribution, dividends, Singapore 
 
 Passive income is worth tracking but easy to over-weight. If dividends, interest, and rent already cover annual spending, work is optional — an intuitive gauge for dividend-heavy households. But it misleads a total-return investor: a global equity portfolio may produce modest dividends while compounding well; a high-dividend portfolio may produce more visible income while growing less efficiently. Passive income is a useful number. It is not the number.
 
-The other half of the system is the asset base. At a minimum, a workable household dashboard tracks:
+The other half of the system is the asset base. At a minimum, a workable household dashboard tracks the core flows and balances:
 
 | Item | Frequency | Purpose |
 |---|---|---|
-| Monthly income, broad categories | Monthly | Calculate savings rate |
-| Monthly spending, broad categories | Monthly | See where money goes |
+| Income and spending | Monthly | Calculate savings rate |
 | CPF contributions | Monthly / annual | Capture forced savings |
 | Mortgage principal vs interest | Annual statement, allocated monthly | Separate savings from expense |
 | Rolling 12-month spending | Monthly | Smooth annual and lumpy expenses |
-| Cash and bank balances | Monthly | Liquidity buffer |
-| CPF balances | Monthly or quarterly | Major Singapore wealth component |
-| Investment balances | Quarterly | Compounding engine |
-| Home value | Annually | Long-term optionality, downgrade reserve |
-| Mortgage balance | Monthly or quarterly | Main liability |
-| Net worth | Monthly or quarterly | Overall direction |
-| FI numerator | Monthly or quarterly | Used in the FI gauge |
-| FI progress | Monthly or quarterly | Work-optional gauge |
+| Cash, CPF, and investment balances | Monthly or quarterly | Track liquidity, locked wealth, and compounding assets |
+| Net worth and FI numerator | Monthly or quarterly | Separate total wealth from work-optional wealth |
 
 This is enough. Business owners, families with multiple properties, and freelancers may need more. For most salaried households, the danger is not under-engineering; it is building a system too elaborate to maintain.
 
@@ -187,6 +172,6 @@ The next question is the famous one. Once the assets and the spending are measur
 
 ## Notes
 
-<a id="note-1"></a>[1] Singapore Department of Statistics, [Household Expenditure Survey 2023 key indicators](https://www.singstat.gov.sg/-/media/files/find_data/household/hes2023-key-indicators.ashx), and SingStat, [Household Expenditure Survey 2023 infographic](https://www.singstat.gov.sg/-/media/files/visualising_data/infographics/households/hes-householdexpenditure.ashx).
+<a id="note-1"></a>[1] Singapore Department of Statistics, [Household Expenditure Survey 2023 key indicators](https://www.singstat.gov.sg/-/media/files/find_data/household/hes2023-key-indicators.ashx), SingStat, [Household Expenditure Survey 2023 infographic](https://www.singstat.gov.sg/-/media/files/visualising_data/infographics/households/hes-householdexpenditure.ashx), and Singapore Department of Statistics, [Singapore Statistics Newsletter Issue 125](https://www.singstat.gov.sg/-/media/files/publications/reference/newsletter/ssn125.ashx).
 
 <a id="note-2"></a>[2] Author's 2025 household bookkeeping records; categories follow the simplified household accounting method described in this chapter.

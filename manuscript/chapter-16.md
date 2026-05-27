@@ -66,7 +66,7 @@ But they are still one national system.
 
 The uncomfortable question is what happens if that system becomes less exceptional.
 
-Singapore is aging. The citizen share aged 65 and above rose from 13.1 percent in 2015 to 20.7 percent in 2025, and official projections put it near one in four by 2030. The resident total fertility rate was 0.97 in 2024.[2](#note-2) At the same time, Singapore's economic model still relies heavily on foreign labour and capital. The 2025 population report puts the non-resident population at 1.91 million, with the foreign workforce making up about two-thirds of that non-resident population.[2](#note-2)
+Singapore is aging. The citizen share aged 65 and above rose from 13.1 percent in 2015 to 20.7 percent in 2025, and official projections put it near one in four by 2030. The resident total fertility rate was 0.97 in 2024.[2](#note-2) At the same time, Singapore's economic model still relies heavily on foreign labour and capital.
 
 Those facts do not predict collapse.
 

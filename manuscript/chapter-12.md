@@ -142,11 +142,11 @@ Just do not call it unavoidable.
 
 Once the education arms race is contained, the child-cost question becomes more honest.
 
-Money still matters. Preschool, school materials, food, medical care, transport, clothes, enrichment, holidays, larger housing needs, insurance, and university all belong somewhere in the plan.
+Money still matters. Preschool, food, medical care, enrichment, housing, and university all belong somewhere in the plan.
 
 But the scarcer household resources are often not dollars.
 
-They are sleep. Time. Attention. Career flexibility. Calm. The ability to work late. The ability to take a risky job. The ability to move. The ability to spend Sunday recovering instead of managing logistics. The ability of two adults to remain partners rather than project managers of a small institution with homework.
+They are sleep, attention, career flexibility, and calm. They are the ability to take a risky job, recover on a Sunday, or remain partners rather than project managers of a small institution with homework.
 
 This is why children change FI without destroying the formula.
 

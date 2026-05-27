@@ -68,9 +68,9 @@ Once the five-year MOP clears for that Standard flat, they apply to rent out the
 
 HDB 3-room whole-flat median rents in 1Q2026 commonly sat in the high S$2,000s. Use S$2,700 as a rough gross rent, then remember that tax, vacancy, repairs, and agent fees reduce the net.[5](#note-5) Translated into a lower-cost spending base, even the reduced number supports a very different lifestyle from the same number spent inside Singapore.
 
-There is your provocative result: under a strict set of assumptions, a couple at median graduate income can make work optional in their early thirties, using BTO, low fixed costs, and spending flexibility.
+There is the deliberately provocative result: under a strict, geography-assisted set of assumptions, a couple at median graduate income can create a serious work-optional path in their early thirties, using BTO, low fixed costs, and spending flexibility.
 
-Treat this as a thought experiment, not advice. Real life has children, parents, medical needs, HDB rules, and the inconvenient fact that not everyone wants to move. Good — those are real objections.
+Treat this as a thought experiment, not advice. Chapter 15 later prices the ordinary stay-in-Singapore version more conservatively. Real life has children, parents, medical needs, HDB rules, and the inconvenient fact that not everyone wants to move. Good — those are real objections.
 
 But do not let the objections erase the lesson. The lesson is not "retire at 33." The lesson is that FI is calculable, and the FI number moves dramatically with housing, fixed costs, and where the spending happens. FI is not a mystical state. It is arithmetic plus behaviour.
 

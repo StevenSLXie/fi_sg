@@ -107,9 +107,7 @@ The goal is to make the default meal easy enough that the household does not sur
 
 My own default is not glamorous. Steam or roast a protein. Boil or stir-fry a vegetable. Add rice, noodles, potatoes, fruit, or soup. Repeat with minor variations. A meal like that is not Instagram content. That is part of the attraction. Instagram content is rarely optimised for savings rate.
 
-The health side is secondary, but real. Singapore's National Population Health Survey materials cite National Nutrition Survey 2022 findings that about nine in ten residents exceeded the recommended sodium limit, with average sodium intake around 3,620mg a day. Hypertension prevalence rose from 19.8 percent in 2010 to 37.0 percent in 2021-2022.[6](#note-6)
-
-Home cooking does not automatically make a household healthy. A person can deep-fry at home with great enthusiasm. But home cooking gives control over salt, oil, portion size, carbs, and protein. That control has financial value too. Health problems are not only medical issues. They are time issues, energy issues, insurance issues, and eventually FI issues.
+The health side is secondary, but real. Home cooking does not automatically make a household healthy; a person can deep-fry at home with great enthusiasm. But it gives more control over salt, oil, portions, and protein.
 
 Still, health should not be used as a stick.
 
@@ -169,5 +167,3 @@ The next chapter widens that idea from meals to vendors. If food is the first co
 <a id="note-4"></a>[4] Grocery-basket illustration based on May 2026 online supermarket listings for items such as frozen chicken breast, eggs, tofu, leafy vegetables, and rice, including NTUC FairPrice, [Seara Frozen Chicken Breast, 1kg](https://www.fairprice.com.sg/product/seara-frozen-chicken-breast-1kg-13178140), NTUC FairPrice, [Chef Nai Bai, 200g](https://www.fairprice.com.sg/product/chef-nai-bai-200g-13236467), and FairPrice online egg and rice listings. Online grocery prices move and promotions vary, so the example is used as a dated illustration rather than a stable price promise.
 
 <a id="note-5"></a>[5] IRAS, [Overview of GST rate change](https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/gst-rate-change/gst-rate-change-for-business/overview-of-gst-rate-change), and IRAS, [Hotel and Food & Beverage](https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/specific-business-sectors/hotel-and-food-beverage). GST rose to 9 percent on 1 January 2024. Restaurant service charge is a business practice, not a statutory requirement; IRAS describes service charge as common in the hotel and food and beverage industry and states that it is subject to GST. The S$14 to about S$16.79 illustration assumes a 10 percent service charge followed by 9 percent GST on the post-service amount: `14 x 1.10 x 1.09 = 16.786`.
-
-<a id="note-6"></a>[6] Ministry of Health, [National Population Health Survey 2023 shows Singaporeans are adopting healthier lifestyles](https://www.moh.gov.sg/newsroom/national-population-health-survey-2023-shows-singaporeans-are-adopting-healthier-lifestyles/). MOH cites National Nutrition Survey 2022 sodium findings and hypertension prevalence trends.

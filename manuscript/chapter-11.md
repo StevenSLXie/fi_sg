@@ -168,11 +168,7 @@ Outsource when the task is rare, dangerous, regulated, specialised, time-sensiti
 
 The Renaissance household is not a household that refuses help. It is a household that knows when help is worth buying.
 
-This is the last cost-floor chapter before the book turns toward children and investing. The pattern should be familiar by now. HDB lowers the housing floor. Home cooking lowers the food floor. Practical competence lowers the vendor floor.
-
-None of these is glamorous.
-
-That is why they work.
+This is the last cost-floor chapter before the book turns toward children and investing. The pattern should be familiar by now: lower the recurring floor before asking the portfolio to do heroic work.
 
 If financial independence is the ability to say no to employers, household competence is the ability to say no to small markets.
 

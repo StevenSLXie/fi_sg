@@ -68,17 +68,11 @@ Preschool, tuition, university, enrichment: the line item grows in the imaginati
 
 In Singapore, the child bill is not entirely private.
 
-Start early. For Singapore Citizen children in ECDA-licensed infant care or childcare, there is a basic subsidy. A working mother, or a single father who is the main applicant, can receive S$600 a month of basic subsidy for infant care and S$300 a month for childcare, with additional means-tested subsidy for qualifying households. From December 2024, lower-income families with a Singapore Citizen child in childcare and monthly household income of S$6,000 or below, or per capita income of S$1,500 or below, qualify for full childcare subsidies if eligible.[4](#note-4) Full subsidy support does not necessarily mean a zero bill; the fee, income tier, programme type, and subsidy rules still matter. It means the household qualifies for the full basic-plus-additional subsidy structure for its tier.
+Start early. For Singapore Citizen children in ECDA-licensed infant care or childcare, the basic subsidy can be S$600 a month for infant care and S$300 a month for childcare, with additional means-tested support for qualifying households.[4](#note-4) Fee caps matter too: in 2026, full-day childcare at an Anchor Operator centre is capped at S$610 before GST for Singapore Citizen children.[5](#note-5)
 
-Fee caps matter too. Anchor Operator preschools exist because the state does not want the preschool market to become only a contest of parental fear. As of 2026, the fee cap for full-day childcare at an Anchor Operator centre is S$610 before GST for Singapore Citizen children.[5](#note-5) That still matters in a household budget, but it sits far below the U.S. daycare number that haunts American personal-finance forums.
+Baby Bonus and child-related tax reliefs add more support, but the details vary enough that they belong in the notes rather than the main argument.[6](#note-6)[7](#note-7)
 
-Then there is the Baby Bonus system. The Child Development Account begins with a First Step Grant, and the government co-matches parental savings up to a cap. For the first child, the current structure provides a S$5,000 First Step Grant and up to S$4,000 of government co-matching.[6](#note-6) The amounts rise for later children. The CDA is a child-linked account for approved uses rather than general cash. That is exactly the point. The state is helping fund the child bill.
-
-The same logic appears on the tax side. Child-related reliefs and rebates can materially reduce tax for eligible parents, especially in households with Singapore Citizen children and a working mother who qualifies for Working Mother's Child Relief. The mechanics are detailed — Qualifying Child Relief, Working Mother's Child Relief, Parenthood Tax Rebate, per-child caps, and the overall S$80,000 personal relief cap all interact — but the household point is simple: the tax system recognises part of the child bill.[7](#note-7)
-
-There are conditions. The details change by child order, citizenship, birth or adoption date, marital status, income, and year. This paragraph maps the mechanism; it is not tax advice.
-
-At school age, the effect becomes sharper. Singapore Citizen students in government and government-aided primary schools do not pay monthly school fees. Secondary school fees for citizens are S$5 a month, and pre-university fees are S$6 a month, before miscellaneous fees.[8](#note-8) The miscellaneous fees are also low by any developed-country private benchmark.
+At school age, the effect becomes sharper. Singapore Citizen students in government and government-aided primary schools do not pay monthly school fees. Secondary school fees for citizens are S$5 a month, and pre-university fees are S$6 a month, before miscellaneous fees.[8](#note-8)
 
 This is the point many anxious parents miss.
 
@@ -96,7 +90,7 @@ Public primary school does what no coupon strategy can: it deletes a budget line
 
 ## Investment Leakage
 
-Tax also matters after the surplus is invested, but this chapter only needs the principle. A Singapore tax resident investing personally starts from a friendly base: long-term capital gains are generally not taxed as capital gains, many one-tier local dividends do not enter the personal tax bill again, and estate duty is gone.[3](#note-3) For a Singapore resident buying U.S. assets, the story is not magically tax-free; U.S.-domiciled ETFs can create dividend withholding tax and estate-tax exposure for non-resident aliens. Ireland-domiciled accumulating funds can reduce some of that leakage.[9](#note-9) Chapter 14 returns to the wrapper problem.
+Tax also matters after the surplus is invested, but this chapter only needs the principle. A Singapore tax resident investing personally starts from a friendly base: long-term capital gains are generally not taxed as capital gains, many one-tier local dividends do not enter the personal tax bill again, and estate duty is gone.[3](#note-3) For a Singapore resident buying U.S. assets, the story is not magically tax-free; U.S.-domiciled ETFs can create dividend withholding tax and estate-tax exposure for non-resident aliens. Chapter 14 returns to the wrapper problem.
 
 For now, remember only this: household investment return is what remains after taxes, withholding, estate rules, fees, and product choices.
 
@@ -156,5 +150,3 @@ The next question is what the surviving money is sitting on. A low-tax salary pa
 <a id="note-7"></a>[7] IRAS, [Qualifying Child Relief and Handicapped Child Relief](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-reliefs-rebates-and-deductions/tax-reliefs/qualifying-child-relief-and-handicapped-child-relief); IRAS, [Working Mother's Child Relief](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-reliefs-rebates-and-deductions/tax-reliefs/working-mother-s-child-relief); IRAS, [Parenthood Tax Rebate](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-reliefs-rebates-and-deductions/tax-rebates/parenthood-tax-rebate).
 
 <a id="note-8"></a>[8] Ministry of Education, [School fees](https://www.moe.gov.sg/financial-matters/fees), and MOE, [Revised school fees for non-citizens in Government and Government-aided schools for 2024 to 2026](https://www.moe.gov.sg/news/press-releases/20231018-revised-school-fees-for-non-citizens-in-government-and-government-aided-schools-for-2024-to-2026).
-
-<a id="note-9"></a>[9] IRS, [Publication 515, withholding of tax on nonresident aliens and foreign entities](https://www.irs.gov/publications/p515), and IRS, [Some nonresidents with U.S. assets must file estate tax returns](https://www.irs.gov/individuals/international-taxpayers/some-nonresidents-with-us-assets-must-file-estate-tax-returns).

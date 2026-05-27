@@ -112,13 +112,11 @@ More categories can be added later, but the first version should fit on one page
 
 ## Use The Official Profile, Then Make It Honest
 
-The official profiles are useful because they puncture fantasy. Housed singles can be closer than they think; private-housing families are playing a much more expensive game; CPF changes late-life arithmetic without solving early-FI liquidity.
-
-Then the household has to make the number honest. Add ongoing obligations: mortgage cashflow, tax, parent support, healthcare, and any real household bills missing from the official anchor. Name deliberate optional costs: an expensive education path, private housing, a car, or any other choice that raises the floor. If the plan depends on selling, renting out, downsizing, or leaving Singapore, model that explicitly instead of letting home equity hover over the spreadsheet like a benevolent ghost.
+The official profiles are useful because they puncture fantasy. Then the household has to make the number honest. Add ongoing obligations: mortgage cashflow, tax, parent support, healthcare, and any real household bills missing from the official anchor. Name deliberate optional costs: an expensive education path, private housing, a car, or any other choice that raises the floor. If the plan depends on selling, renting out, downsizing, or leaving Singapore, model that explicitly instead of letting home equity hover over the spreadsheet like a benevolent ghost.
 
 If your life resembles the low-housing-cost single profile, S$5 million is not the entrance ticket to freedom. If your life resembles the private-housing family profile, the weak point may not be expected return. It may be the floor.
 
-This is a more useful conclusion than "it depends." It still depends, but now it depends on named things: spending, housing, bridge length, CPF floor, dependants, health, and buffer. Named things can be changed, funded, insured, or accepted. Vague fear can only grow.
+It still depends, but now it depends on named things. Named things can be changed, funded, insured, or accepted. Vague fear can only grow.
 
 Once the FI number is visible, the household can stop arguing about magic numbers and start choosing which version of Singapore it is actually buying.
 
