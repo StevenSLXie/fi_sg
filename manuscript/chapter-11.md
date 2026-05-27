@@ -12,7 +12,7 @@ But a question follows.
 
 How much of that bill is for work that genuinely requires a professional, and how much is for work that a careful adult can learn?
 
-Start with the safety boundary, because it matters. This chapter is talking about basic maintenance: filters, front panels, visible dust, simple fan-coil cleaning, drainage awareness, and knowing when a problem is no longer basic. It is not an invitation to do refrigerant work, chemical overhaul, electrical repair, compressor or PCB repair, outdoor-unit work, high-place work, or anything that conflicts with warranty, lease, safety, or common sense.
+Start with the safety boundary, because it matters. This chapter means basic cleaning: filters, visible dust, and drainage awareness. Refrigerant work, chemical overhaul, electrical repair, outdoor units, and warranty-sensitive jobs still belong to professionals.
 
 With that boundary in place, ordinary aircon cleaning becomes less mysterious.
 
@@ -94,11 +94,11 @@ The idea can sound grand, especially if the word "Renaissance" makes everyone th
 
 That is not the version this book needs.
 
-The Singapore FI version is quieter: a Renaissance household is less helpless. It does not require one person to be a carpenter, cook, mechanic, accountant, trainer, teacher, investor, plumber, and philosopher. It requires the household to build enough practical competence that the market is an option, not the default reflex.
+The Singapore FI version is quieter: a Renaissance household is less helpless. It does not require one person to become a tradesperson, accountant, trainer, and teacher at once. It requires enough practical competence that the market is an option, not the default reflex.
 
 This matters more in Singapore than it first appears.
 
-Labour is expensive. Travel time is expensive. GST applies to many services. Small jobs often carry minimum charges. Platforms add fees. Urgent work costs more. The cleaner, technician, installer, handyman, barber, delivery rider, tutor, and contractor are not selling only the visible task. They are selling time, transport, coordination, risk, overhead, and margin.
+Labour is expensive. Travel time is expensive. Small jobs often carry minimum charges. The technician or handyman is not selling only the visible task. He is selling time, transport, risk, and margin.
 
 Some of that is worth buying. Much of it is genuinely useful.
 
@@ -106,7 +106,7 @@ But when every small inconvenience is immediately outsourced, convenience become
 
 That assumption is expensive.
 
-It also makes the household fragile. A family that can cook a basic meal, clean an aircon filter, do a simple workout at home, troubleshoot a router, assemble furniture, read an insurance statement, file a basic tax return, and use a screwdriver is not heroic. It is just less dependent on vendors for ordinary life.
+It also makes the household fragile. A family that can cook a basic meal, clean an aircon filter, and troubleshoot a simple household problem is not heroic. It is just less dependent on vendors for ordinary life.
 
 Less helpless is the goal. Not self-sufficient. Not extreme. Less helpless.
 
@@ -130,7 +130,7 @@ If no, it is just a purchase with a better story.
 
 The cost of learning has changed.
 
-In the past, a household member trying to repair or maintain something often had bad options: guess, ask a friend, read a vague manual, or call a professional. Now the first layer of help is much richer: manuals, YouTube, forums, Reddit threads, manufacturer diagrams, and AI explanations.
+In the past, a household member trying to repair or maintain something often had bad options: guess, ask a friend, read a vague manual, or call a professional. Now manuals, videos, forums, and AI can get a careful beginner much further.
 
 AI does not make a person qualified to do dangerous work. It does not change physics, electrical risk, warranty terms, or the fact that some jobs require professionals.
 
@@ -144,7 +144,7 @@ The goal is not expert status. The goal is better judgement before money leaves 
 
 Financial independence is not a plan to turn the household into a low-cost labour camp.
 
-Some jobs should be outsourced. Electrical work, gas, refrigerant, chemical overhaul, major plumbing, high-place work, structural issues, medical care, legal documents, and anything with serious safety, licensing, warranty, tenancy, or insurance implications deserve professional treatment.
+Some jobs should be outsourced. Electrical, gas, refrigerant, major plumbing, high-place work, and anything involving licensing, warranty, or insurance deserve professional treatment.
 
 Some jobs are technically possible but personally foolish. If the task creates family conflict, consumes rare rest, or turns the home into a workshop nobody asked for, the saving may not be worth it.
 

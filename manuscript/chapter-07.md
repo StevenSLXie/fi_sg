@@ -62,7 +62,7 @@ Fiscal discipline matters too. When a government persistently spends less than i
 
 That was especially important in earlier decades.
 
-MOF's current explanation adds a second point. In the last decade, it says large capital inflows have chiefly contributed to official foreign reserve accumulation.[5](#note-5) This is the demand side. Companies invest in Singapore. Funds book activity in Singapore. Wealth moves to Singapore. Family offices, regional headquarters, commodity firms, technology companies, banks, insurers, and asset managers do not all have the same reason to be here, but many of them need Singapore-dollar exposure, Singapore banking rails, Singapore staff, Singapore leases, and Singapore regulatory credibility.
+MOF's current explanation adds a second point. In the last decade, it says large capital inflows have chiefly contributed to official foreign reserve accumulation.[5](#note-5) This is the demand side. Companies, funds, family offices, and regional headquarters do not all have the same reason to be here. But many need Singapore-dollar exposure and the credibility of Singapore's legal, banking, and regulatory system.
 
 This version is less romantic than national mythology and more useful for FI planning. A strong currency is a price formed by policy, savings, credibility, and demand for the jurisdiction.
 
@@ -94,7 +94,7 @@ First, it protects imported purchasing power. Singapore imports a great deal of 
 
 Second, it clarifies the jobs inside the portfolio. Global equities diversify the productive engine. SGD cash, CPF, local bonds, and local-income assets match part of the spending currency. A Singaporean buying a global equity ETF may be converting SGD into USD or another fund currency, and currency movements will still affect reported returns. The lesson is portfolio design, not avoidance: know which assets are meant to grow the portfolio and which assets are meant to pay Singapore-dollar bills.
 
-Third, it powers geographic arbitrage. A Singapore dollar spent in Singapore buys a Singapore life. A Singapore dollar spent in Malaysia, Thailand, Vietnam, Indonesia, or parts of southern Europe may buy a different life. Few households can move just because a spreadsheet says so; elderly parents, children, school systems, visas, healthcare, language, community, and temperament all get a vote. Even unused optionality has value. A strong currency gives a household more ways to solve the same spending problem.
+Third, it powers geographic optionality. A Singapore dollar spent in Singapore buys a Singapore life. In some lower-cost countries, the same dollar buys a different life. Few households can move just because a spreadsheet says so; family, visas, healthcare, language, and temperament all get a vote. Even unused optionality has value. A strong currency gives a household more ways to solve the same spending problem.
 
 Fourth, it changes how emergencies feel. A family with SGD assets, access to global markets, and a credible home-country currency has more room to respond to overseas education, medical choices, temporary relocation, family support abroad, or a career break outside Singapore. Again, not free. Not frictionless. But easier.
 
@@ -118,7 +118,7 @@ The practical conclusion is narrower than national pride: Singapore income and a
 
 Every FI plan contains an implied macro bet. Most people simply leave it unwritten.
 
-If you keep all assets in SGD and spend only in Singapore, you are betting on Singapore's currency, institutions, inflation control, property system, healthcare system, and political order. If you keep almost all assets in U.S. equities, you are betting on U.S. corporate capitalism, U.S. market structure, and the U.S. dollar. If you plan to retire in Malaysia on Singapore assets, you are betting on both Singapore's relative currency strength and Malaysia remaining accessible, liveable, and politically workable for you.
+If you keep all assets in SGD and spend only in Singapore, you are betting on Singapore's currency and institutions. If you keep almost all assets in U.S. equities, you are betting on U.S. corporate capitalism and the U.S. dollar. If you plan to retire in Malaysia on Singapore assets, you are betting on both Singapore's relative currency strength and Malaysia remaining workable for you.
 
 There is no version of FI with no macro bet. There are only bets you can see and bets you forgot you made.
 

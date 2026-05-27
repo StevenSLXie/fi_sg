@@ -6,7 +6,7 @@ It usually begins well. Someone in the family — often the more organised spous
 
 It dies for the same reason almost every time: people begin as if they are building a small accounting firm at home. Every lunch needs a category. Every snack needs a category. Watsons is separate from FairPrice, and by week three the system has become a part-time job with worse benefits.
 
-The previous chapter ended on savings rate as the single number worth managing. But a number is only useful if it is honestly measured. A household does not need a finance department to do that. It needs a few numbers it can trust: how much came in, how much went out, how much became savings, how much it owns, how much it owes, and how close the assets are to supporting the life. Everything else is detail.
+The previous chapter ended on savings rate as the single number worth managing. But a number is only useful if it is honestly measured. A household does not need a finance department to do that. It needs a few numbers it can trust: income, spending, balance-sheet movement, and FI progress. Everything else is detail.
 
 The rule that survives is short: be precise where the classification changes FI math. Be coarse everywhere else.
 
@@ -45,9 +45,9 @@ The most important category may be "Other." There will always be expenses that d
 
 ## Coarse On Purpose
 
-"Groceries & Household" is deliberately broad — groceries, toiletries, cleaning supplies, pharmacy, snacks, ordinary day-to-day consumption. Watsons, Bengawan Solo, and small household supplies all go there.
+"Groceries & Household" is deliberately broad: supermarket food, toiletries, pharmacy, and ordinary day-to-day consumption all go there.
 
-The point is not where the money was spent. The point is what household function it served. Splitting groceries, toiletries, snacks, and pharmacy feels more correct and is usually less useful. Unless the split changes a decision, it is just extra work.
+The point is not where the money was spent. The point is what household function it served. Splitting groceries from pharmacy feels more correct and is usually less useful. Unless the split changes a decision, it is just extra work.
 
 ## Three More Singapore Traps
 
@@ -172,7 +172,7 @@ A few rules, for the household that wants this still running in three years rath
 
 Bookkeeping is not there to make the household feel guilty. It is there to make the household visible.
 
-Once the household is visible, arguments become more concrete. Should we buy a car? Look at transport. Is the condo slowing us down? Separate interest, principal, maintenance, tax, and opportunity cost. Are children making FI impossible, or is the school line manageable? Look at the twelve-month number. Are we investing enough? Look at savings rate and the FI numerator.
+Once the household is visible, arguments become more concrete. Should we buy a car? Look at transport. Is the condo slowing us down? Separate the loan cost from the asset. Are children making FI impossible, or is the school line manageable? Look at the twelve-month number. Are we investing enough? Look at savings rate and the FI numerator.
 
 The spreadsheet, app, or AI tool does not make these decisions. It makes the trade-offs harder to hide.
 

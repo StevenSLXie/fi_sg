@@ -32,7 +32,7 @@ This is why housing matters more than almost any coupon, bank promotion, or inve
 
 The investment chapter has not arrived yet, and that is on purpose. Before the household asks how to earn one more percent on a portfolio, it should ask whether it has accidentally built a life that requires an extra half-million dollars to support.
 
-Housing does that quietly. It arrives as a location preference, a slightly larger flat, a school-zone hope, a view, a nicer lobby, a future resale story, a shorter commute, a renovation package, or a sentence that begins with "since we can afford it." Each decision may be reasonable. Together they set the floor.
+Housing does that quietly. It arrives as a location preference, a larger flat, a nicer renovation, or a sentence that begins with "since we can afford it." Each decision may be reasonable. Together they set the floor.
 
 HDB matters because it gives many citizen households a way to refuse some of that escalation without refusing a normal life.
 
@@ -54,7 +54,7 @@ In the February 2026 BTO exercise, HDB launched Standard flats in Sembawang with
 
 The after-grant prices are illustrative. They assume eligibility for grants. The actual Enhanced CPF Housing Grant depends on household income and other conditions. From 20 August 2024, first-timer families may receive up to S$120,000 under the EHG, while eligible first-timer singles may receive up to S$60,000 under EHG (Singles).[3](#note-3) The words "up to" carry the whole caveat.
 
-Still, even before grants, the table explains why HDB changes FI math. A household that can live well in a S$300,000 to S$450,000 subsidised flat is playing a different game from a household that turns housing into a seven-figure obligation. The gap shows up in monthly cash flow, debt duration, CPF usage, insurance needs, renovation temptation, property tax, maintenance, and the psychological pressure to keep earning at peak pace.
+Still, even before grants, the table explains why HDB changes FI math. A household that can live well in a S$300,000 to S$450,000 subsidised flat is playing a different game from a household that turns housing into a seven-figure obligation. The gap shows up in monthly cash flow, debt duration, and the pressure to keep earning at peak pace.
 
 The low price is not free money.
 
@@ -164,7 +164,7 @@ There is nothing wrong with wanting a nicer home. People live in homes, not cell
 
 The problem starts when every preference is treated as non-negotiable.
 
-FI requires ranking: what matters, what is nice, what is status, what is fear, what is convenience pretending to be necessity, and what is a future obligation wearing the costume of present comfort.
+FI requires ranking. Needs first. Wants second. Fear and status last.
 
 HDB's power is that it creates room for that ranking. It gives an eligible household a real home at a lower cost base, then asks what the household will do with the difference.
 
@@ -188,7 +188,7 @@ Each word matters.
 
 "Happily live in" matters because a home chosen only for the spreadsheet will eventually be punished by the household. The best FI plan is one the family can inhabit without feeling like it is serving a sentence.
 
-"Fewest future obligations" means debt, MOP, rental restrictions, subsidy recovery, renovation standard, upgrade pressure, and social comparison all belong in the decision.
+"Fewest future obligations" means the home should not bring a second package of debt, rules, renovation standards, and upgrade pressure.
 
 HDB is one of Singapore's great FI mechanisms because it can lower the largest fixed cost in the household. Used well, it turns housing from a lifestyle escalator into a controlled base. Used badly, it becomes the first rung of a property ladder that never stops asking for more salary.
 

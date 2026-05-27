@@ -110,13 +110,13 @@ The distinction sounds small. It is the difference between using the system and 
 
 ## What 1M65 Gets Right, And Where To Be Careful
 
-The most influential CPF idea of the past decade did not come from a bank or a regulator. It came from Loo Cheng Chuan, a Singaporean who began arguing in the mid-2010s that an ordinary working couple could each reach a million dollars in CPF by 65. The shorthand is 1M65. The mechanism is unglamorous: contribute steadily, transfer OA to SA so the balance earns the higher 4 percent rate, top up where it is tax-efficient, and let four decades of compounding do the rest.
+The most influential CPF idea of the past decade did not come from a bank or a regulator. It came from Loo Cheng Chuan, a Singaporean who began arguing in the mid-2010s that an ordinary working couple could each reach a million dollars in CPF by 65. The shorthand is 1M65. The mechanism is unglamorous: steady contributions, OA-to-SA transfers, selective top-ups, and time.
 
 The movement deserves credit. It takes saving seriously. It respects compounding. It treats CPF as an asset rather than only as a grievance. It also understands something many high-income households miss: a large, boring, government-backed balance compounding for decades can beat a clever portfolio constantly interrupted by lifestyle.
 
 That spirit belongs in this book.
 
-The gentle critique is about one specific tactic: the OA-to-SA transfer. It is irreversible. It also reduces the OA available for a future home, mortgage instalments, insurance, education, or CPF Investment Scheme use. If OA later runs short, the household pays for housing in cash.
+The gentle critique is about one specific tactic: the OA-to-SA transfer. It is irreversible. It also reduces the OA available for housing and other CPF uses. If OA later runs short, the household pays for housing in cash.
 
 For a household with a settled home, strong reserves, stable income, and no plan to upgrade, the transfer can be rational. The higher rate is real. The forced lock-up can be behaviourally useful.
 

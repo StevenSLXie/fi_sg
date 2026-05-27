@@ -6,7 +6,7 @@ I open our bank statements and credit-card bills and read them line by line. Sal
 
 I have done this every month since July 2022. About an hour a month, for almost four years. The household reports to itself.
 
-A family, in my view, should be run a little like a listed company. Not because children should issue quarterly earnings guidance, though some parents in Singapore seem to be working toward that outcome. Because a household, like a company, has revenue, expenses, assets, liabilities, cash flow, leverage, and a strategy. If a company does not know its margins, we call that bad management. If a family does not know its savings rate, we call that normal life.
+A family, in my view, should be run a little like a listed company. Not because children should issue quarterly earnings guidance, though some parents in Singapore seem to be working toward that outcome. Because a household, like a company, has income, expenses, and a balance sheet. If a company does not know its margins, we call that bad management. If a family does not know its savings rate, we call that normal life.
 
 Doing this for four years produced two surprises.
 
@@ -20,9 +20,7 @@ We are also not monks. We have two children. We travel three or four times a yea
 
 The point is not to spend nothing. The point is to stop buying the full middle-class package by default.
 
-A condo bundles a home with an investment story, a facilities subscription, a status signal, a maintenance bill, a leveraged bet on land policy, and a committee membership with hundreds of strangers. A restaurant bill bundles food with rent, labour, service charge, GST, atmosphere, and a temporary vacation from doing dishes. A gym membership mostly buys the option to become fit later, billed monthly.
-
-Some of these are worth buying. Many are not. The problem is letting recurring costs become identity. A high salary is not wealth. It is a fast conveyor belt. You can put assets on it, or you can put lifestyle on it.
+A condo is not just a home; it is a home wrapped in an investment story and a monthly facilities bill. A restaurant is not just dinner; it is food plus rent, labour, and a temporary vacation from doing dishes. Some of these bundles are worth buying. Many are not. The danger is letting recurring costs become identity. A high salary is not wealth. It is a fast conveyor belt. You can put assets on it, or you can put lifestyle on it.
 
 A surprising share of what middle-class households call cost of living in Singapore is actually cost of identity.
 

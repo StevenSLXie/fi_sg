@@ -34,11 +34,13 @@ MOE said in 2023 that the lifetime cohort participation rate for publicly funded
 
 The structure before that expansion was already broader than many parents' fears. In a 2023 Committee of Supply speech, then-Education Minister Chan Chun Sing described the earlier model as 40 percent of each cohort provided with subsidised undergraduate places for fresh school leavers, plus another 10 percent set aside for adult learners.[2](#note-2) Singapore was not asking every middle-class child to win a one-seat-in-a-thousand contest before the household could relax.
 
+Modestly competitive in Singapore is still internationally legible. Public admission tables from ANU and Auckland, for example, show serious undergraduate routes for Singapore-Cambridge A-Level results well below the Oxbridge tier.[3](#note-3) This does not make overseas study cheap or guaranteed. It only weakens the panic story: a child can miss the local prestige race and still have serious routes.
+
 Parents who buy tuition are often buying insurance against uncertainty. That is human. The FI question is how much insurance the household actually needs in this system.
 
 This is why "modestly competitive" matters.
 
-For most FI-minded families, the realistic goal is to keep the child broadly on track in a system with many viable routes: subject levels in secondary school, junior college, polytechnic, ITE, local universities, applied degrees, adult learning, and later career switches. The target is capability, not a prestige trophy.
+For most FI-minded families, the realistic goal is to keep the child broadly on track in a system with multiple routes: secondary subject levels, polytechnic, local universities, and adult learning. The target is capability, not a prestige trophy.
 
 Broadly on track lacks glamour.
 
@@ -54,13 +56,13 @@ There is truth in the stress.
 
 There is also exaggeration in the slogan.
 
-From the 2024 Secondary 1 cohort, Singapore removed the old Express, Normal (Academic), and Normal (Technical) streams. Students enter secondary school through Posting Groups and take subjects at G1, G2, or G3 levels, with adjustments possible according to strengths and learning needs.[3](#note-3)
+From the 2024 Secondary 1 cohort, Singapore removed the old Express, Normal (Academic), and Normal (Technical) streams. Students enter secondary school through Posting Groups and take subjects at G1, G2, or G3 levels, with adjustments possible according to strengths and learning needs.[4](#note-4)
 
 PSLE still matters. It affects the initial school and subject-level posting. It shapes the starting track. It can make life easier or harder. A parent who takes it seriously is responding to a real gate.
 
 But one serious exam does not own the whole childhood.
 
-The polytechnic route also matters here. MOE said in 2021 that the proportion of polytechnic graduates progressing to local universities had risen from about one in four in 2015 to about one in three.[4](#note-4) Again, no miracle. A student still has to perform. But the system has more than one bridge.
+The polytechnic route also matters here. MOE said in 2021 that the proportion of polytechnic graduates progressing to local universities had risen from about one in four in 2015 to about one in three.[5](#note-5) Again, no miracle. A student still has to perform. But the system has more than one bridge.
 
 The FI implication is budget discipline, not educational complacency.
 
@@ -74,7 +76,7 @@ That is understandable. It is also expensive.
 
 Education spending is real.
 
-In the 2023 Household Expenditure Survey, average household education spending was S$404 a month. For married-couple-based households with young children, it was S$1,021 a month. Average private-tuition spending across all households was S$105 a month; for married-couple-based households with young children, it was S$389 a month. In households where the youngest child was aged 7 to 15, private-tuition spending averaged S$548 a month.[5](#note-5)
+In the 2023 Household Expenditure Survey, average household education spending was S$404 a month. For married-couple-based households with young children, it was S$1,021 a month. Average private-tuition spending across all households was S$105 a month; for married-couple-based households with young children, it was S$389 a month. In households where the youngest child was aged 7 to 15, private-tuition spending averaged S$548 a month.[6](#note-6)
 
 These are averages, not commandments.
 
@@ -88,7 +90,7 @@ Each purchase has a story.
 
 The spreadsheet sees a system.
 
-The useful question is where tuition belongs. Sometimes it is the right tool. If a child has a clear weakness, a good tutor can save the family time, conflict, and frustration. If a child loves music, sport, coding, debate, art, robotics, or chess, money spent on that interest may be one of the best uses of the household budget.
+The useful question is where tuition belongs. Sometimes it is the right tool. If a child has a clear weakness, a good tutor can save the family time, conflict, and frustration. If a child loves music, sport, or coding, money spent on that interest may be one of the best uses of the household budget.
 
 But parents need to name the category correctly.
 
@@ -102,29 +104,29 @@ The last two need to be named before they are allowed to compound.
 
 University is where the anxiety story becomes most expensive.
 
-For a Singapore Citizen, a subsidised local degree is often a tens-of-thousands decision, not a hundreds-of-thousands decision. For AY2026/27, NUS lists subsidised annual tuition of S$8,300 for many programmes such as Computing, Engineering, and Humanities and Sciences, S$9,700 for Business, S$12,750 for Law, and S$33,200 for Medicine except Nursing. NTU and SMU publish similar subsidised local-citizen fee structures, with variation by programme.[6](#note-6)
+For a Singapore Citizen, a subsidised local degree is often a tens-of-thousands decision, not a hundreds-of-thousands decision. For AY2026/27, NUS lists subsidised annual tuition of S$8,300 for many programmes such as Computing, Engineering, and Humanities and Sciences, S$9,700 for Business, S$12,750 for Law, and S$33,200 for Medicine except Nursing. NTU and SMU publish similar subsidised local-citizen fee structures, with variation by programme.[7](#note-7)
 
 Medicine is expensive. Law is more expensive than many general degrees. Living costs still exist. Opportunity cost exists. None of this is free.
 
 But compare the shape of the decision with an unfunded overseas route.
 
-Oxford and Cambridge sit at the top end of the prestige ladder, and for the very strongest local students they may be real options. They are also useful price markers. Oxford's 2026/27 overseas course fees are listed at GBP37,380 to GBP62,820 a year for many courses, with clinical medicine higher, and estimated living costs of GBP12,645 to GBP18,945 for nine months.[7](#note-7) Cambridge's 2026 entry international tuition ranges from GBP29,052 to GBP70,554 a year, with college fees and living costs on top.[8](#note-8)
+Oxford and Cambridge sit at the top end of the prestige ladder, and for the very strongest local students they may be real options. They are also useful price markers. Oxford's 2026/27 overseas course fees are listed at GBP37,380 to GBP62,820 a year for many courses, with clinical medicine higher, and estimated living costs of GBP12,645 to GBP18,945 for nine months.[8](#note-8) Cambridge's 2026 entry international tuition ranges from GBP29,052 to GBP70,554 a year, with college fees and living costs on top.[9](#note-9)
 
 For a Singapore family without scholarship funding, that is commonly a hundreds-of-thousands-Singapore-dollar decision.
 
-Oxbridge is not the whole overseas question. Many families are considering a broader route: Australia, the UK outside Oxbridge, the US, Canada, private foundation programmes, overseas transfer paths, or any programme that feels safer, more prestigious, or more face-saving than staying within the local public system. Some of these choices may be right for a child. They are still choices.
+Oxbridge is not the whole overseas question. Many families are considering a broader route: Australia, the UK outside Oxbridge, North America, or a foundation pathway that feels safer or more face-saving than staying within the local public system. Some of these choices may be right for a child. They are still choices.
 
 It may still be worth it.
 
-An overseas university can be a wonderful education. It can provide a global network, a formative life experience, a path into certain international industries, a migration option, or a family dream. For some global careers, research paths, postgraduate ambitions, or scholarship-funded routes, the return may be real. Some children will thrive there in ways that cannot be reduced to first-job salary. Some scholarships change the equation completely.
+An overseas university can be a wonderful education. It can provide a global network, a formative life experience, or a family dream. For some global careers, research paths, or scholarship-funded routes, the return may be real. Some children will thrive there in ways that cannot be reduced to first-job salary.
 
 But it should not be smuggled into the FI plan as a compulsory employability expense.
 
 For Singapore employment and financial return after cost, NUS is not the budget version of a real university.
 
-NUS reported in its 2025 Joint Autonomous Universities Graduate Employment Survey release that 89.8 percent of fresh graduates in the labour force were employed within six months after final examinations, 75.2 percent were in full-time permanent employment, and the median gross monthly salary for full-time permanent fresh graduates was S$4,746.[9](#note-9)
+NUS reported in its 2025 Joint Autonomous Universities Graduate Employment Survey release that 89.8 percent of fresh graduates in the labour force were employed within six months after final examinations, 75.2 percent were in full-time permanent employment, and the median gross monthly salary for full-time permanent fresh graduates was S$4,746.[10](#note-10)
 
-Oxford is excellent, but its public outcomes do not justify a lazy assumption that it automatically dominates NUS on narrow first-job economics after cost. Oxford's careers summary for 2022-23 undergraduate leavers says around nine in ten were in work or further study within 15 months, with median undergraduate salary around GBP33,000.[10](#note-10) The two datasets are not directly comparable: different countries, currencies, tax systems, cost of living, time windows, subject mixes, and student self-selection.
+Oxford is excellent, but its public outcomes do not justify a lazy assumption that it automatically dominates NUS on narrow first-job economics after cost. Oxford's careers summary for 2022-23 undergraduate leavers says around nine in ten were in work or further study within 15 months, with median undergraduate salary around GBP33,000.[11](#note-11) The two datasets are not directly comparable: different labour markets, different time windows, and very different student mixes.
 
 That caveat is the point.
 
@@ -162,15 +164,15 @@ FI with children requires a cleaner sorting system: real costs, optional costs, 
 
 Sort child-related spending into five buckets.
 
-First, unavoidable care: food, healthcare, basic schooling costs, transport, childcare arrangements, and the housing space that makes family life workable.
+First, unavoidable care: food, healthcare, basic schooling, transport, childcare, and enough housing space.
 
 Second, high-return support for a real bottleneck: a tutor for a specific weakness, therapy where needed, help that reduces conflict or unlocks learning.
 
-Third, genuine interest or talent: music, sport, coding, art, debate, science, or anything else the child actually cares about enough to sustain.
+Third, genuine interest or talent: anything the child actually cares about enough to sustain.
 
 Fourth, parental anxiety spending: spending driven mainly by fear that other parents are doing more.
 
-Fifth, status spending: school, programme, overseas route, activity, or credential bought partly because of what it says about the family.
+Fifth, status spending: credentials bought partly because of what they say about the family.
 
 The first three can be part of a healthy FI plan. The last two need stricter scrutiny. They may still be worth buying, but they should be named as anxiety or status before the household lets them compound.
 
@@ -188,18 +190,20 @@ The goal is to raise a child without turning fear into the household's largest s
 
 <a id="note-2"></a>[2] Ministry of Education, [FY2023 Committee of Supply Debate response by Minister for Education Chan Chun Sing](https://www.moe.gov.sg/news/speeches/20230301-moe-fy2023-committee-of-supply-debate-response-by-minister-for-education-chan-chun-sing). The speech describes the existing structure as 40 percent of each cohort with subsidised undergraduate places as fresh school leavers, plus a 10 percent allowance for adult learners, before the move toward 60 percent lifetime cohort participation.
 
-<a id="note-3"></a>[3] Ministry of Education, [Full Subject-Based Banding: Secondary school experience](https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/secondary-school-experience). From the 2024 Secondary 1 cohort, students are posted through Posting Groups rather than the old Express / Normal (Academic) / Normal (Technical) streams, and take subjects at G1, G2, or G3 levels according to strengths, interests, and learning needs.
+<a id="note-3"></a>[3] Australian National University, [Singapore A Levels indicative entry requirements](https://study.anu.edu.au/apply/international-applications/indicative-entry-requirement/singapore-levels); ANU, [Bachelor of Arts](https://programsandcourses.anu.edu.au/program/BARTS); ANU, [Bachelor of Commerce 2026](https://programsandcourses.anu.edu.au/2026/program/BCOMM); University of Auckland, [2026 programme-specific entry requirements for overseas secondary school applicants](https://www.auckland.ac.nz/assets/study/applications-and-admissions/entry-requirements/undergraduate-entry-requirements/overseas-secondary-school-applicants/2026%20Undergraduate-programme-specific-entry-requirements-A-I.pdf). These examples support the limited claim that credible overseas undergraduate routes can exist below the Oxbridge tier; they do not map Singapore cohort percentiles directly to Australia or New Zealand competitiveness.
 
-<a id="note-4"></a>[4] Ministry of Education, [Polytechnic graduates' progression and subsidies for PEIs](https://www.moe.gov.sg/news/parliamentary-replies/20210510-polytechnic-graduates-progression-and-subsidies-for-peis), 10 May 2021. MOE said the proportion of polytechnic graduates progressing to local universities rose from about one in four in 2015 to about one in three at the time of the reply.
+<a id="note-4"></a>[4] Ministry of Education, [Full Subject-Based Banding: Secondary school experience](https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/secondary-school-experience). From the 2024 Secondary 1 cohort, students are posted through Posting Groups rather than the old Express / Normal (Academic) / Normal (Technical) streams, and take subjects at G1, G2, or G3 levels according to strengths, interests, and learning needs.
 
-<a id="note-5"></a>[5] Singapore Department of Statistics, [Singapore Statistics Newsletter Issue 125](https://www.singstat.gov.sg/-/media/files/publications/reference/newsletter/ssn125.ashx), using Household Expenditure Survey 2023 data. Figures cited include average household education spending, education spending for married-couple-based households with young children, average private-tuition spending, and private-tuition spending for households with children in relevant age groups.
+<a id="note-5"></a>[5] Ministry of Education, [Polytechnic graduates' progression and subsidies for PEIs](https://www.moe.gov.sg/news/parliamentary-replies/20210510-polytechnic-graduates-progression-and-subsidies-for-peis), 10 May 2021. MOE said the proportion of polytechnic graduates progressing to local universities rose from about one in four in 2015 to about one in three at the time of the reply.
 
-<a id="note-6"></a>[6] NUS, [AY2026/27 undergraduate tuition fees](https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf); NTU, [Tuition fees for accepted programme offer in 2026](https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026); SMU, [Tuition fees and grant](https://admissions.smu.edu.sg/financial-matters/tuition-fees-grant). Figures in the chapter refer to subsidised Singapore Citizen annual tuition fees and vary by programme.
+<a id="note-6"></a>[6] Singapore Department of Statistics, [Singapore Statistics Newsletter Issue 125](https://www.singstat.gov.sg/-/media/files/publications/reference/newsletter/ssn125.ashx), using Household Expenditure Survey 2023 data. Figures cited include average household education spending, education spending for married-couple-based households with young children, average private-tuition spending, and private-tuition spending for households with children in relevant age groups.
 
-<a id="note-7"></a>[7] University of Oxford, [Course fees](https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/course-fees), and [Living costs](https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/living-costs), 2026/27 figures.
+<a id="note-7"></a>[7] NUS, [AY2026/27 undergraduate tuition fees](https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf); NTU, [Tuition fees for accepted programme offer in 2026](https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026); SMU, [Tuition fees and grant](https://admissions.smu.edu.sg/financial-matters/tuition-fees-grant). Figures in the chapter refer to subsidised Singapore Citizen annual tuition fees and vary by programme.
 
-<a id="note-8"></a>[8] University of Cambridge, [International fees and costs](https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs), and [Living costs](https://www.undergraduate.study.cam.ac.uk/fees-funding/living-costs), 2026 entry figures.
+<a id="note-8"></a>[8] University of Oxford, [Course fees](https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/course-fees), and [Living costs](https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/living-costs), 2026/27 figures.
 
-<a id="note-9"></a>[9] NUS, [NUS graduates demonstrate resilience in a cautious job market](https://news.nus.edu.sg/nus-graduates-demonstrate-resilience-in-a-cautious-job-market/), Joint Autonomous Universities Graduate Employment Survey 2025 release.
+<a id="note-9"></a>[9] University of Cambridge, [International fees and costs](https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs), and [Living costs](https://www.undergraduate.study.cam.ac.uk/fees-funding/living-costs), 2026 entry figures.
 
-<a id="note-10"></a>[10] University of Oxford Careers Service, [Graduate Outcomes summary](https://www.careers.ox.ac.uk/node/4895811), 2022-23 leavers. The chapter uses the Oxford figures only as a rough employment-outcome reference and does not treat them as directly comparable with Singapore GES data.
+<a id="note-10"></a>[10] NUS, [NUS graduates demonstrate resilience in a cautious job market](https://news.nus.edu.sg/nus-graduates-demonstrate-resilience-in-a-cautious-job-market/), Joint Autonomous Universities Graduate Employment Survey 2025 release.
+
+<a id="note-11"></a>[11] University of Oxford Careers Service, [Graduate Outcomes summary](https://www.careers.ox.ac.uk/node/4895811), 2022-23 leavers. The chapter uses the Oxford figures only as a rough employment-outcome reference and does not treat them as directly comparable with Singapore GES data.

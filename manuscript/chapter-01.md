@@ -32,7 +32,7 @@ The arithmetic answer to the parent at the top is simpler than her question. FI 
 
 In Singapore, retirement has an official smell to it.
 
-There is the statutory retirement age. There is the re-employment age. There is CPF, the compulsory national savings system. There is CPF LIFE, the national longevity annuity. There is the Payout Eligibility Age, which is 65, with the option to start CPF LIFE payouts anytime from 65 to 70.[1](#note-1) There are letters from CPF Board, dashboards, retirement sums, payout plans, and a general sense that retirement is something that arrives when the system starts sending monthly money.
+There are statutory ages, CPF gates, CPF LIFE payouts, and official dashboards telling you when the system begins to send monthly money.[1](#note-1)
 
 That sense is convenient. It is also confusing.
 
@@ -40,7 +40,7 @@ CPF LIFE payout age is a system age. FI age is a household balance-sheet age. Th
 
 This sounds obvious once stated. In practice, many people do not plan this way. They inherit the official age as the mental age. Retirement becomes something like a school term: you wait until the bell rings.
 
-But households are not classrooms. The bell does not know your mortgage, your assets, your spending, your children, your parents, your risk tolerance, or whether you are tired of being repriced by the labour market.
+But households are not classrooms. The bell does not know your mortgage, your spending, your family obligations, or whether you are tired of being repriced by the labour market.
 
 At some age, the labour market may start repricing you, whether or not you feel ready. Software, sales, finance, even academia — very few occupations fully escape technology cycles and age bias forever. A plan that requires peak salary forever is not conservative. It is optimistic.
 
@@ -68,7 +68,7 @@ HDB 3-room whole-flat median rents in 1Q2026 commonly sat in the high S$2,000s. 
 
 There is your provocative result: under a strict set of assumptions, a couple at median graduate income can make work optional in their early thirties, using BTO, low fixed costs, and geography.
 
-This is a thought experiment, not advice. Real life has children, parents, medical needs, visas, currency risk, HDB rental rules, MOP timing, and the inconvenient fact that not everyone wants to move. Good — those are real objections.
+This is a thought experiment, not advice. Real life has children, parents, medical needs, HDB rules, and the inconvenient fact that not everyone wants to move. Good — those are real objections.
 
 But do not let the objections erase the lesson. The lesson is not "retire at 33." The lesson is that FI is calculable, and the FI number moves dramatically with housing, fixed costs, and where the spending happens. FI is not a mystical state. It is arithmetic plus behaviour.
 
@@ -76,7 +76,7 @@ But do not let the objections erase the lesson. The lesson is not "retire at 33.
 
 This does not mean everyone in Singapore can reach FI early.
 
-If I claimed that, the book would become a tourist brochure for a country that does not exist. Some households are supporting elderly parents with serious medical needs. Some are single-income families with several children. Some start late with little savings and large obligations. Some have special-needs family members. Some face unstable work, low wages, divorce, debt, illness, or plain bad luck. Some simply do not want the trade-offs, which is also a valid answer.
+If I claimed that, the book would become a tourist brochure for a country that does not exist. Some households carry heavy care obligations. Some start late with little savings. Some face unstable work, debt, illness, divorce, or plain bad luck. Some simply do not want the trade-offs, which is also a valid answer.
 
 The claim is narrower.
 

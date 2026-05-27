@@ -62,7 +62,7 @@ CPF does some forcing. Tax does not.
 
 Parents often talk about children as if they are a private-school balance sheet.
 
-Preschool, school, tuition, enrichment, university, music, sport, coding, overseas summer programmes, and, eventually, perhaps, a wedding dinner nobody asked for. The line item grows in the imagination until it becomes a fog. "Children are expensive" is true. It is also incomplete.
+Preschool, tuition, university, enrichment: the line item grows in the imagination until it becomes a fog. "Children are expensive" is true. It is also incomplete.
 
 In Singapore, the child bill is not entirely private.
 
@@ -72,7 +72,9 @@ Fee caps matter too. Anchor Operator preschools exist because the state does not
 
 Then there is the Baby Bonus system. The Child Development Account begins with a First Step Grant, and the government co-matches parental savings up to a cap. For the first child, the current structure provides a S$5,000 First Step Grant and up to S$4,000 of government co-matching.[6](#note-6) The amounts rise for later children. The CDA is a child-linked account for approved uses rather than general cash. That is exactly the point. The state is helping fund the child bill.
 
-The same logic appears on the tax side. Qualifying Child Relief can be shared between spouses, up to S$4,000 per child. Working Mother's Child Relief gives eligible working mothers relief tied to qualifying Singapore Citizen children. For children born or adopted on or after 1 January 2024, the WMCR is a fixed dollar amount: S$8,000 for the first child, S$10,000 for the second, and S$12,000 for the third and subsequent child. Parenthood Tax Rebate gives a tax credit: S$5,000 for the first child, S$10,000 for the second, and S$20,000 for each third and subsequent child, with unused balances carried forward. QCR or Handicapped Child Relief plus WMCR is capped at S$50,000 per child, and the overall personal relief cap is S$80,000 per Year of Assessment.[7](#note-7)
+The same logic appears on the tax side. Qualifying Child Relief can be shared between spouses, up to S$4,000 per child. Working Mother's Child Relief gives eligible working mothers relief tied to qualifying Singapore Citizen children. For children born or adopted on or after 1 January 2024, the WMCR is fixed at S$8,000 for the first child, S$10,000 for the second, and S$12,000 for the third and subsequent child.
+
+Parenthood Tax Rebate is a credit rather than a deduction: S$5,000 for the first child, S$10,000 for the second, and S$20,000 for each third and subsequent child, with unused balances carried forward. QCR or Handicapped Child Relief plus WMCR is capped at S$50,000 per child, and the overall personal relief cap is S$80,000 per Year of Assessment.[7](#note-7)
 
 There are conditions. The details change by child order, citizenship, birth or adoption date, marital status, income, and year. This paragraph maps the mechanism; it is not tax advice.
 
@@ -106,7 +108,7 @@ This distinction matters. Many people hear "Singapore has low taxes" and reply, 
 
 Low tax does something specific. It increases the amount of income that reaches the household before lifestyle choices begin.
 
-After that, the household can still choose an expensive version of Singapore. Singapore has many voluntary taxes, or tax-like tolls on particular choices. A car is the obvious one: COE is not income tax, but for a household that chooses car ownership it behaves like a large entry ticket to a more expensive life. Private property brings buyer's stamp duty, and in some cases additional buyer's stamp duty. Alcohol, tobacco, petrol, ERP, parking, and other choice-linked costs do not touch every household equally. They are the price of buying certain versions of Singapore rather than the basic price of being alive here.
+After that, the household can still choose an expensive version of Singapore. Singapore has many voluntary taxes, or tax-like tolls on particular choices. A car is the obvious one: COE is not income tax, but for a household that chooses car ownership it behaves like a large entry ticket to a more expensive life. Private property brings stamp duties. Alcohol, petrol, ERP, and parking add their own tolls. These are the price of buying certain versions of Singapore rather than the basic price of being alive here.
 
 That is why low tax and high cost of living can both be true. Singapore does not take a large share of salary at the income-tax line, then it offers many expensive doors. Condo. Car. Restaurant routine. Private tuition stack. Luxury travel. The doors are real. Some are worth entering. But they are doors, not the floor.
 

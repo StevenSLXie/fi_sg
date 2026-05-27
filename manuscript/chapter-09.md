@@ -14,7 +14,7 @@ Only later did I understand the FI consequence. We had not merely changed homes.
 
 A condo can be a good home. The mistake is calling every good home an FI shortcut.
 
-Chapter 8 showed how HDB can lower the floor. A condo often does the opposite. It can be a home, an investment story, a facilities subscription, a status signal, a maintenance bill, a leveraged bet on Singapore land policy, and a committee membership with hundreds of strangers. The buyer usually prices the home and the investment story. The FI damage often hides in the rest.
+Chapter 8 showed how HDB can lower the floor. A condo often does the opposite. It is a home wrapped in an investment story, a facilities subscription, and a strata bill. The buyer usually prices the home and the investment story. The FI damage often hides in the rest.
 
 Start with the lazy sales pitch that private property automatically compounds better than HDB. Then make the self-occupied condo problem impossible to miss: for most middle-class households, a large amount of capital gets locked inside the home, produces no spending cash while they live in it, and raises the annual cost that the FI portfolio must support.
 
@@ -34,7 +34,7 @@ On the longest official window where the two series can be compared from the sam
 
 That does not prove HDB will always win. It does prove that the sales pitch "private property automatically compounds better" is too lazy for an FI plan.
 
-There are caveats, and they matter. These are price indices, not total household returns. They exclude rent, leverage, mortgage interest, taxes, stamp duties, maintenance, renovation, transaction costs, CPF usage, grants, eligibility restrictions, and the difference between one flat in one town and one condo in one district. The HDB series tracks resale flats. The URA series tracks non-landed private residential properties. They are not identical products.
+There are caveats, and they matter. These are price indices, not total household returns. They exclude the financing, tax, maintenance, renovation, and eligibility differences that shape actual owner returns. The HDB series tracks resale flats. The URA series tracks non-landed private residential properties. They are not identical products.
 
 Not every window favours HDB either. From 2009-Q1 to 2026-Q1, both series use 100 as the base. Over that period, non-landed private rose to 210.8, while HDB resale rose to 203.4. Private was slightly ahead.
 
@@ -102,7 +102,7 @@ Strata ownership adds another layer. In an HDB estate, the state sits behind a l
 
 Your unit value depends partly on decisions you do not control: maintenance, repairs, by-laws, reserve funds, upgrades, disputes, and eventually whether an en bloc sale is possible.
 
-En bloc can create real wealth. It is also a lottery ticket with meetings, lawyers, timing risk, developer appetite, construction costs, interest rates, lease age, plot ratio, and owners who may not agree. It should be treated as optional upside, not as the plan that makes a purchase affordable.
+En bloc can create real wealth. It is also a lottery ticket with meetings, lawyers, timing risk, developer appetite, and owners who may not agree. It should be treated as optional upside, not as the plan that makes a purchase affordable.
 
 If a condo only works because of future en bloc, it does not work yet.
 

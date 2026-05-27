@@ -24,7 +24,13 @@ For our purposes, define the withdrawal rate like this:
 
 If a household has a S$1 million FI asset base and withdraws S$40,000 in the first year, the starting withdrawal rate is four percent. If the household wants S$40,000 at 3.5 percent, it needs about S$1.14 million.
 
-Here is the vocabulary for the rest of the book. **Net worth** is the broad household balance sheet: home, CPF, investments, cash, and debts. **FI asset base** is the number used in the 3.5 percent gauge: non-home financial assets, including liquid investments and CPF counted with liquidity caveats, excluding the owner-occupied home unless monetising it is part of the plan. **Liquid bridge** is the subset available before CPF gates and CPF LIFE payouts. Chapter 3 called the FI asset base the numerator. This chapter gives it a name.
+Here is the vocabulary for the rest of the book.
+
+**Net worth** is the broad household balance sheet: home, CPF, investments, and cash, net of debts.
+
+**FI asset base** is the number used in the 3.5 percent gauge. It includes non-home financial assets and CPF counted with liquidity caveats. It excludes the owner-occupied home unless monetising it is part of the plan.
+
+**Liquid bridge** is the subset available before CPF gates and CPF LIFE payouts. Chapter 3 called the FI asset base the numerator. This chapter gives it a name.
 
 The definition is simple. The difficulty is choosing the number. Four percent is not magic. It is a U.S. historical result built around a thirty-year retirement, U.S. assets, U.S. inflation, and inflation-adjusted withdrawals. A Singapore household pursuing early FI has a different problem: longer horizon, SGD spending, CPF in the background, and assets that may be global rather than purely American.
 
@@ -107,7 +113,7 @@ Use something else only if you can explain why: a shorter horizon, a guaranteed 
 
 That gives one side of the FI equation a hard number.
 
-The other side - annual spending - is still pretending to be a constant. It is not. The same Singaporean household at the same income level can spend S$120,000 a year or S$48,000 a year depending entirely on which version of Singapore it has chosen to buy. A condo near Orchard, a continental car, restaurants as routine, enrichment subscriptions, and overseas family holidays produce one number. A four-room HDB near an MRT, public transport, hawker centres on weekdays, public school, and JB on long weekends produce a very different one.
+The other side - annual spending - is still pretending to be a constant. It is not. The same Singaporean household at the same income level can spend S$120,000 a year or S$48,000 a year depending entirely on which version of Singapore it has chosen to buy. A condo-and-car life produces one number. An HDB-and-public-transport life produces a very different one.
 
 Three point five percent gives the formula a working rate. The next question is Singapore-specific: what belongs inside the FI asset base, what stays locked away, and when the system starts paying you back. That is [Chapter 5: CPF Is Not One Thing](chapter-05.md).
 

@@ -2,7 +2,7 @@
 
 A meal is one thing. A food bill is several things stacked together.
 
-The first layer is ingredients: rice, vegetables, eggs, chicken, fish, oil, salt, fruit. The second layer is someone else's kitchen: fire, equipment, prep, queue, cleaning, and the stallholder's margin. The third layer is air-conditioning, mall rent, brand, packaging, service, and the right to sit somewhere pleasant without thinking about dishes. The fourth layer is a restaurant ritual: table service, atmosphere, a social signal, and a bill that may add service charge and GST after the menu has done its advertising.
+The first layer is ingredients. The second is someone else's kitchen. The third is food court convenience. The fourth is the restaurant ritual, with service charge and GST arriving after the menu has done its advertising.
 
 Singapore makes this stack unusually visible. In the same city, sometimes on the same street, a household can buy the same basic function in four ways.
 
@@ -33,7 +33,7 @@ Average monthly spending on food and non-alcoholic beverages, the grocery-like c
 
 That is not a moral failure. It is the way Singapore is built.
 
-The city has a dense everyday food system. Hawker centres, coffee shops, kopitiams, food courts, kiosks, cafes, restaurants, school canteens, workplace canteens, delivery platforms, convenience stores, and supermarkets overlap. For a working adult, eating out is often the default because the system makes it easy.
+The city has a dense everyday food system: hawker centres, kopitiams, food courts, restaurants, delivery platforms, and supermarkets all overlap. For a working adult, eating out is often the default because the system makes it easy.
 
 Easy is valuable.
 
@@ -47,7 +47,7 @@ Hawker centres are one of Singapore's underrated household-finance institutions.
 
 NEA says it manages 123 markets and hawker centres, and describes them as places where people can enjoy affordable food in a clean and hygienic environment.[2](#note-2) That is a dry public-agency sentence. Underneath it sits a real household advantage: Singapore has a low-cost outsourced kitchen available to ordinary residents.
 
-For a family without a helper, without grandparents nearby, with two working adults and young children, this matters. Cooking is not only money. It is planning, shopping, chopping, heat, oil, dishes, food safety, leftovers, and the question every household eventually hates: what are we eating tonight?
+For a family without a helper or grandparents nearby, this matters. Cooking is not only money. It is planning, heat, dishes, and the question every household eventually hates: what are we eating tonight?
 
 Hawker centres and kopitiams absorb part of that load. They convert household time and energy into a few dollars per meal. In many countries, the cheap alternative to home cooking is fast food or poor-quality takeaway. In Singapore, the cheap alternative can be fish soup, cai fan, ban mian, nasi padang, chicken rice, yong tau foo, or a packet of economic bee hoon before work.
 
@@ -71,7 +71,7 @@ Hawker and kopitiam meals are cheap compared with restaurants. Food courts are o
 
 Home cooking removes more of the service layer.
 
-The stallholder must pay rent, labour, utilities, waste, packaging, cleaning, risk, and profit. The food court operator must pay mall rent and common costs. The restaurant must add space, service, kitchen staff, front-of-house staff, booking systems, menu design, failed dishes, and slow nights. Many restaurants also carry GST administration and sometimes a 10 percent service charge before GST.[5](#note-5)
+Each layer adds rent, labour, and margin. Food courts add mall costs. Restaurants add service, idle capacity, GST administration, and sometimes a 10 percent service charge before GST.[5](#note-5)
 
 The household does not remove every cost. It pays with time, mental load, utilities, equipment, and planning. But if the system is simple enough, the cash arithmetic can be very hard to ignore.
 
@@ -97,7 +97,7 @@ Home cooking fails when the household tries to import restaurant ambition into w
 
 Elaborate cooking is a hobby. Daily cooking is infrastructure.
 
-The infrastructure version is boring on purpose. It uses a small number of repeatable proteins, vegetables, carbs, sauces, and tools. It accepts steamed food, roasted food, soups, rice-cooker meals, air-fryer meals, leftovers, frozen ingredients, and vegetables that do not require a dissertation. It treats the dishwasher, oven, steam oven, air fryer, rice cooker, freezer, and decent containers as financial tools, not kitchen toys.
+The infrastructure version is boring on purpose. It uses repeatable defaults: a few proteins, a few vegetables, a staple carb, and tools that reduce friction. The dishwasher, rice cooker, freezer, or air fryer matter only if they make the cheap default easier to repeat.
 
 The goal is not to make every meal memorable.
 

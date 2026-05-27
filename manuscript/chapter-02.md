@@ -138,9 +138,9 @@ Second, split the mortgage. Principal repayment increases home equity and reduce
 
 Without those two rules, a Singapore household can look cash-poor while building wealth through CPF and principal repayment, or look affluent while converting most income into interest, rent, cars, fees, and lifestyle. The savings-rate number becomes a mood.
 
-The mechanics belong in the next chapter. Insurance premiums, annual bills, school fees, one-off expenses, bonuses, reimbursements, CPF outflows, and net-worth tracking all need a method. A beautiful spreadsheet that dies after three weeks is less useful than an ugly one maintained for four years.
+The mechanics belong in the next chapter. Lumpy bills, bonuses, CPF flows, and net-worth tracking all need a method. A beautiful spreadsheet that dies after three weeks is less useful than an ugly one maintained for four years.
 
-For this chapter, the minimum is enough: count income honestly, count spending honestly, include CPF in the savings flow, separate mortgage principal from interest, and look at the rolling twelve-month savings rate rather than one noisy month.
+For this chapter, the minimum is enough: count income honestly, count spending honestly, include CPF in the savings flow, split mortgage principal from interest, and look at the rolling twelve-month savings rate rather than one noisy month.
 
 ## The Inflation Caveat
 
@@ -160,9 +160,9 @@ The reason savings rate is powerful is not that it is easy. It is powerful becau
 
 Market return is not close to the household. You can choose asset allocation, fees, tax structure, and behaviour, but you cannot instruct the market to return 8 percent because the family spreadsheet has a deadline.
 
-Salary is closer, but still not fully controlled. You can work, negotiate, switch jobs, learn, and take risks. Still, industry cycles, age, health, bosses, company budgets, and luck all get a vote.
+Salary is closer, but still not fully controlled. You can work, negotiate, learn, and take risks. Industry cycles and luck still get a vote.
 
-Savings rate sits between ambition and control. It is affected by income, but it is not identical to income. It is affected by spending, but it is not identical to frugality. It is the combined output of career, housing, taxes, CPF, transport, food, children, habits, and taste.
+Savings rate sits between ambition and control. It is affected by income, but it is not identical to income. It is affected by spending, but it is not identical to frugality. It is where career, housing, taxes, children, and taste meet the spreadsheet.
 
 That makes it the best single number for FI progress.
 
