@@ -162,7 +162,7 @@ It needs to stop interrupting compounding.
 
 That sounds small. Over decades, it is most of the game.
 
-The next chapter asks a question that boring investors still need to answer: when you say "buy the index," which index do you mean? STI, S&P 500, and MSCI World are not the same machine.
+The next chapter asks a question that boring investors still need to answer: when you say "buy the index," which index do you mean, and through which wrapper? STI, S&P 500, and MSCI World are not the same machine. The fund around the index matters too. That is [Chapter 14: The Index Is Not the Product](chapter-14.md).
 
 ## Notes
 

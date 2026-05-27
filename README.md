@@ -55,6 +55,7 @@ Here is the route through the argument:
 11. [Chapter 11: The Renaissance Household](manuscript/chapter-11.md) shows how practical competence lowers dependence on vendors and keeps convenience from becoming a fixed cost.
 12. [Chapter 12: Children Are Not the FI Killer](manuscript/chapter-12.md) separates unavoidable child costs from optional education anxiety and status spending.
 13. [Chapter 13: Investing Is the Easy Part](manuscript/chapter-13.md) turns the surplus into a boring, low-cost, automated investment system instead of a heroic stock-picking project.
+14. [Chapter 14: The Index Is Not the Product](manuscript/chapter-14.md) separates the index exposure from the fund wrapper that changes tax, estate, liquidity, and administration outcomes.
 
 If there is a single sentence behind this book, it is the oldest one in personal finance: live below your means. It has no app, no affiliate link, no chart, no heroic promise. But almost everything in this book is an expansion of it. Build a life whose cost does not grow automatically with income, status, fear, and convenience. Understand the system well enough to keep more of what you earn. Don't turn future freedom into present obligations.
 
