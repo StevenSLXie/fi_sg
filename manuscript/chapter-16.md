@@ -72,15 +72,9 @@ Those facts do not predict collapse.
 
 They explain why politics, labour, immigration, fiscal capacity, and social trust belong on a personal balance sheet. A country can be brilliantly run for decades and still face harder trade-offs later. If Singapore's institutional quality weakens, CPF confidence, SGD purchasing power, home values, and rental demand may weaken together.
 
-This is why I am cautious about turning every CPF optimisation into a one-way bet.
+This is why I do not want every CPF optimisation to become a one-way bet.
 
-The classic example is moving Ordinary Account money into the Special Account. The arithmetic can look excellent: higher interest, more retirement compounding, stronger future payouts. CPF itself explains that OA is used for housing and other needs, SA is mainly for retirement, and transfers from OA to SA can boost retirement savings.[3](#note-3)
-
-But CPF also says the transfer is irreversible and warns that moving OA savings to SA reduces flexibility for housing or mortgage needs.[3](#note-3)
-
-That matters.
-
-CPF is real wealth. Liquidity is also real wealth. A young household that sells all flexibility for a higher credited rate is concentrating trust in future rules, future liquidity gates, and future Singapore-dollar purchasing power.
+Moving OA money to SA can be mathematically attractive. So can 1M65-style thinking. But for a young household, selling flexibility for a higher credited rate is not just yield optimisation. It is a decision to trust future rules, liquidity gates, and Singapore-dollar purchasing power more than present optionality.[3](#note-3)
 
 The Singapore dollar is strong because the system behind it is strong. MAS explains that official foreign reserves accumulate when it purchases foreign currency and sells Singapore dollars to moderate appreciation pressure. Those pressures have come from public-sector operations that withdraw Singapore-dollar liquidity and from capital inflows reflecting confidence in Singapore.[4](#note-4)
 
@@ -94,11 +88,9 @@ Some risks do not care about markets or governments.
 
 A serious illness, disability, or death can change the household faster than any index chart. This is where basic insurance belongs.
 
-My own view is deliberately plain. In Singapore, a sensible hospitalisation setup and term life cover are enough for my household's core catastrophe risks. The exact product is not the point. Hospitalisation insurance transfers the risk of a large medical bill. Term life protects dependants if income disappears because a parent dies. Beyond that, insurance can quickly become another way to buy comfort from fear.
+My own view is deliberately plain. In Singapore, hospitalisation cover and term life are enough for my household's core catastrophe risks. They cover the large bill and the lost income if a parent dies. Beyond that, insurance can quickly become another way to buy comfort from fear.
 
-The state already provides a healthcare floor through MediShield Life, and Integrated Shield Plans add private-insurer coverage on top for higher ward classes or private hospitals.[5](#note-5) That can be useful. MoneySense also treats insurance as protection against financial loss, not as a collectible hobby.[6](#note-6)
-
-The principle is simple: insure the event that can break the household, then stop. Do not make insurance the centre of the FI story. The centre is still spending, assets, liquidity, and the ability to respond.
+Insure the event that can break the household, then stop. The centre of the FI story is still spending, assets, liquidity, and the ability to respond.
 
 ## The Moves That Remain
 
@@ -120,11 +112,7 @@ Skills are not only for earning more before FI. They are also a recovery option 
 
 Keep the geographic valve visible.
 
-I do not want geography arbitrage to take over the book. But it is a real escape valve. A Singapore home, if it can legally be rented out, can produce income that is meaningful in many lower-cost places. HDB rules matter here: Singapore Citizen flat owners generally need to fulfil the Minimum Occupation Period and obtain the relevant approval before renting out the whole flat, and newer flat categories can have stricter restrictions.[7](#note-7) This option is not available to everyone tomorrow.
-
-Still, the option has value.
-
-If a household owns a Singapore flat, can rent it out legally, and is willing to live elsewhere for a period, the same portfolio can last much longer. In many lower-cost places, Singapore rental income plus a modest portfolio can buy more time than the same dollars inside Singapore. The plan does not need to assume this will happen. It should know whether it could.
+A Singapore home can be an escape valve only if the rules allow it to be rented out.[5](#note-5) If it can, rental income may buy far more runway in a lower-cost place than it does inside Singapore. The plan does not need to assume this will happen. It should know whether it could.
 
 Those are the moves: spend less, use cash, sell sensibly, work lightly, move if necessary.
 
@@ -167,8 +155,4 @@ It needs room to move.
 
 <a id="note-4"></a>[4] gov.sg, [How MAS accumulates official foreign reserves](https://www.gov.sg/explainers/how-mas-accumulates-official-foreign-reserves/). The explainer describes MAS accumulating official foreign reserves when it purchases U.S. dollars in exchange for Singapore dollars to moderate appreciation pressure, and links those pressures to public-sector liquidity withdrawal and capital inflows reflecting confidence in Singapore.
 
-<a id="note-5"></a>[5] Ministry of Health, [About Integrated Shield Plan](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/integrated-shield-plans/about-integrated-shield-plans/). The page explains that Integrated Shield Plans are private medical insurance plans that add coverage on top of MediShield Life.
-
-<a id="note-6"></a>[6] MoneySense, [Insurance](https://www.moneysense.gov.sg/insurance/). MoneySense frames insurance as protection against financial loss and provides basic guides to health, life, term, and other insurance types.
-
-<a id="note-7"></a>[7] HDB, [Eligibility for Renting Out a Flat](https://www.hdb.gov.sg/managing-my-home/home-ownership/renting-out-a-flat-or-bedrooms/renting-out-a-flat/eligibility), and HDB, [Standard, Plus, and Prime Housing Framework](https://www.hdb.gov.sg/buying-a-flat/bto-sbf-and-open-booking-of-flats/finding-a-new-flat/standard-plus-and-prime-housing-framework). HDB states that Singapore Citizen flat owners who have fulfilled the Minimum Occupation Period can rent out their flats, subject to the relevant rules and approvals; under the Standard/Plus/Prime framework, whole-flat rental is allowed for Standard flats after MOP but not allowed for Plus or Prime flats.
+<a id="note-5"></a>[5] HDB, [Eligibility for Renting Out a Flat](https://www.hdb.gov.sg/managing-my-home/home-ownership/renting-out-a-flat-or-bedrooms/renting-out-a-flat/eligibility), and HDB, [Standard, Plus, and Prime Housing Framework](https://www.hdb.gov.sg/buying-a-flat/bto-sbf-and-open-booking-of-flats/finding-a-new-flat/standard-plus-and-prime-housing-framework). HDB states that Singapore Citizen flat owners who have fulfilled the Minimum Occupation Period can rent out their flats, subject to the relevant rules and approvals; under the Standard/Plus/Prime framework, whole-flat rental is allowed for Standard flats after MOP but not allowed for Plus or Prime flats.
