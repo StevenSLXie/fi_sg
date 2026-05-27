@@ -1,5 +1,7 @@
 # Children Are Not the FI Killer
 
+> **Navigation:** [← The Renaissance Household](chapter-11.md) · [Contents](../SUMMARY.md) · [Investing Is the Easy Part →](chapter-13.md)
+
 By this point in the book, the question is no longer whether children cost money.
 
 They do.
@@ -185,6 +187,9 @@ That is why the goal is not to raise a cheap child.
 The goal is to raise a child without turning fear into the household's largest subscription.
 
 After the household has lowered its fixed costs, contained education anxiety, and protected the surplus, the next question is where that surplus should go. That is [Chapter 13: Investing Is the Easy Part](chapter-13.md).
+
+---
+**Navigation:** [← The Renaissance Household](chapter-11.md) · [Contents](../SUMMARY.md) · [Investing Is the Easy Part →](chapter-13.md)
 
 ## Notes
 

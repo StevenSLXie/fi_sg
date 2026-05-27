@@ -1,5 +1,7 @@
 # HDB Is the Shortcut
 
+> **Navigation:** [← The Strong Dollar Under Your Feet](chapter-07.md) · [Contents](../SUMMARY.md) · [Why We Left the Condo →](chapter-09.md)
+
 Housing dominates the household balance sheet.
 
 That sentence sounds like a property-agent slogan until it becomes a household spreadsheet. In Singapore, the home is rarely a small side asset. It is often the largest line on the balance sheet, the largest debt, the largest monthly commitment, and the strongest social signal a middle-class household buys.
@@ -195,6 +197,9 @@ HDB is one of Singapore's great FI mechanisms because it can lower the largest f
 The shortcut is real. It has gates. It works by lowering the floor, not by promising a windfall.
 
 The next chapter is about what happens when the household looks at that lower floor and decides it would rather buy the escalator: [Chapter 9: Why We Left the Condo](chapter-09.md).
+
+---
+**Navigation:** [← The Strong Dollar Under Your Feet](chapter-07.md) · [Contents](../SUMMARY.md) · [Why We Left the Condo →](chapter-09.md)
 
 ## Notes
 

@@ -1,5 +1,7 @@
 # What Gets Measured Gets Retired
 
+> **Navigation:** [← Two Graduates, One Spreadsheet](chapter-02.md) · [Contents](../SUMMARY.md) · [Four Percent of What? →](chapter-04.md)
+
 Most household bookkeeping does not fail at the end. It fails in the third week.
 
 It usually begins well. Someone in the family — often the more organised spouse — downloads an app and starts entering every receipt with the enthusiasm of a new system. By the third week the receipts arrive faster than the entries. By the fourth, the original organiser begins skipping the occasional Friday. By the third month the app is still on the phone, but it has the quiet, ignored quality of a treadmill. The categories were too many. The data entry was too detailed. The exercise produced a lot of charts and not a single decision.
@@ -179,6 +181,9 @@ The spreadsheet, app, or AI tool does not make these decisions. It makes the tra
 A household does not need perfect accounting. It needs accounting honest enough to change decisions, and simple enough to survive.
 
 The next question is the famous one. Once the assets and the spending are measured honestly, what withdrawal rate is actually safe? That is [Chapter 4: Four Percent of What?](chapter-04.md).
+
+---
+**Navigation:** [← Two Graduates, One Spreadsheet](chapter-02.md) · [Contents](../SUMMARY.md) · [Four Percent of What? →](chapter-04.md)
 
 ## Notes
 

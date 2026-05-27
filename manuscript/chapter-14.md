@@ -1,5 +1,7 @@
 # The Index Is Not the Product
 
+> **Navigation:** [← Investing Is the Easy Part](chapter-13.md) · [Contents](../SUMMARY.md) · [How Much Is Enough? →](chapter-15.md)
+
 "Just buy the index" sounds like an answer.
 
 For a Singapore investor, it is the beginning of two questions.
@@ -165,6 +167,9 @@ The index chooses the bet.
 The wrapper decides how much of the bet survives.
 
 Once the household knows what it owns and how it owns it, the next question becomes more personal: how much of this machine is enough for the life it is meant to fund? That is [Chapter 15: How Much Is Enough?](chapter-15.md).
+
+---
+**Navigation:** [← Investing Is the Easy Part](chapter-13.md) · [Contents](../SUMMARY.md) · [How Much Is Enough? →](chapter-15.md)
 
 ## Notes
 

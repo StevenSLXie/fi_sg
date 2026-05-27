@@ -1,5 +1,7 @@
 # The Renaissance Household
 
+> **Navigation:** [← The First Convenience Tax](chapter-10.md) · [Contents](../SUMMARY.md) · [Children Are Not the FI Killer →](chapter-12.md)
+
 The most useful household skill in Singapore may begin with turning off the air-conditioner.
 
 That sounds like a joke until the bill arrives.
@@ -177,6 +179,9 @@ If financial independence is the ability to say no to employers, household compe
 The savings buy freedom from employers. The skills buy freedom from vendors.
 
 The next chapter returns to the question that opened the book: [Chapter 12: Children Are Not the FI Killer](chapter-12.md).
+
+---
+**Navigation:** [← The First Convenience Tax](chapter-10.md) · [Contents](../SUMMARY.md) · [Children Are Not the FI Killer →](chapter-12.md)
 
 ## Notes
 

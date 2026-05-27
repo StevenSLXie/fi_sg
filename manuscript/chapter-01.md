@@ -1,5 +1,7 @@
 # When Work Becomes Optional
 
+> **Navigation:** [← Introduction](../README.md) · [Contents](../SUMMARY.md) · [Two Graduates, One Spreadsheet →](chapter-02.md)
+
 "I have children. How can I retire?"
 
 This is a reasonable sentence with too many worries packed inside it.
@@ -99,6 +101,9 @@ Savings rate does two things at once. It increases the amount you invest each ye
 This chapter changed the question from *when am I allowed to retire* to *when does work become optional*. The next chapter shows how fast the savings rate gets you there.
 
 [Chapter 2: Two Graduates, One Spreadsheet](chapter-02.md)
+
+---
+**Navigation:** [← Introduction](../README.md) · [Contents](../SUMMARY.md) · [Two Graduates, One Spreadsheet →](chapter-02.md)
 
 ## Notes
 

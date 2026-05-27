@@ -1,5 +1,7 @@
 # How Much Is Enough?
 
+> **Navigation:** [← The Index Is Not the Product](chapter-14.md) · [Contents](../SUMMARY.md) · Next: forthcoming
+
 "How much is enough?" sounds like a philosophical question.
 
 Most of the time, it is arithmetic with better manners.
@@ -119,6 +121,9 @@ If your life resembles the low-housing-cost single profile, S$5 million is not t
 This is a more useful conclusion than "it depends." It still depends, but now it depends on named things: spending, housing, bridge length, CPF floor, dependants, health, and buffer. Named things can be changed, funded, insured, or accepted. Vague fear can only grow.
 
 Once the FI number is visible, the household can stop arguing about magic numbers and start choosing which version of Singapore it is actually buying.
+
+---
+**Navigation:** [← The Index Is Not the Product](chapter-14.md) · [Contents](../SUMMARY.md) · Next: forthcoming
 
 ## Notes
 

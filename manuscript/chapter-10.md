@@ -1,5 +1,7 @@
 # The First Convenience Tax
 
+> **Navigation:** [← Why We Left the Condo](chapter-09.md) · [Contents](../SUMMARY.md) · [The Renaissance Household →](chapter-11.md)
+
 A meal is one thing. A food bill is several things stacked together.
 
 The first layer is ingredients. The second is someone else's kitchen. The third is food court convenience. The fourth is the restaurant ritual, with service charge and GST arriving after the menu has done its advertising.
@@ -152,6 +154,9 @@ If the problem is calories and nutrition, groceries may solve it. If the problem
 Chapter 9 argued that private housing can turn shelter into a higher cost floor. Food repeats the same pattern in miniature. The household does not become poor from one restaurant meal. It becomes slower when convenience becomes the default answer to a daily question.
 
 The next chapter widens that idea from meals to vendors. If food is the first convenience tax, the rest of the household has its own versions: technicians, cleaners, repairs, tools, and the practical skills that keep small problems from becoming permanent bills. Continue with [Chapter 11: The Renaissance Household](chapter-11.md).
+
+---
+**Navigation:** [← Why We Left the Condo](chapter-09.md) · [Contents](../SUMMARY.md) · [The Renaissance Household →](chapter-11.md)
 
 ## Notes
 

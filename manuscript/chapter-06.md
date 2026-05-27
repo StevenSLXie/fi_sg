@@ -1,5 +1,7 @@
 # Low Taxes Are a Feature
 
+> **Navigation:** [← CPF Is Not One Thing](chapter-05.md) · [Contents](../SUMMARY.md) · [The Strong Dollar Under Your Feet →](chapter-07.md)
+
 A salary is a headline.
 
 The household only gets rich from what survives.
@@ -133,6 +135,9 @@ Third, track investable surplus. This is the number that enters the FI machine.
 Low taxes are a feature. More precisely, the money that survives is the feature.
 
 The next question is what the surviving money is sitting on. A low-tax salary paid in a weak currency creates one kind of FI problem. A low-tax salary paid in Singapore dollars creates another. That is [Chapter 7: The Strong Dollar Under Your Feet](chapter-07.md).
+
+---
+**Navigation:** [← CPF Is Not One Thing](chapter-05.md) · [Contents](../SUMMARY.md) · [The Strong Dollar Under Your Feet →](chapter-07.md)
 
 ## Notes
 

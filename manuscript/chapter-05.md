@@ -1,5 +1,7 @@
 # CPF Is Not One Thing
 
+> **Navigation:** [← Four Percent of What?](chapter-04.md) · [Contents](../SUMMARY.md) · [Low Taxes Are a Feature →](chapter-06.md)
+
 CPF is confusing because one logo covers several financial products.
 
 One part pays for housing. One part accumulates for retirement. One part is a medical wallet. At 65, part of it can become an annuity. The same three letters appear on all of these products, which is convenient for branding and inconvenient for thinking.
@@ -133,6 +135,9 @@ But CPF is not a complete retirement plan. It has liquidity gates and policy ris
 The sensible attitude is boring and useful: use CPF deliberately, count it honestly, and build outside it. Do not fight CPF for emotional reasons. Do not worship it because it pays 4 percent. Do not treat illiquidity as if it were safety in all circumstances.
 
 CPF is part of the Singapore FI stack. The next part is what happens before money even reaches CPF, investments, housing, or lifestyle: [Chapter 6: Low Taxes Are a Feature](chapter-06.md).
+
+---
+**Navigation:** [← Four Percent of What?](chapter-04.md) · [Contents](../SUMMARY.md) · [Low Taxes Are a Feature →](chapter-06.md)
 
 ## Notes
 

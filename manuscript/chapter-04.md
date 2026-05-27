@@ -1,5 +1,7 @@
 # Four Percent of What?
 
+> **Navigation:** [← What Gets Measured Gets Retired](chapter-03.md) · [Contents](../SUMMARY.md) · [CPF Is Not One Thing →](chapter-05.md)
+
 Imagine running a modern retirement test on someone who stopped work on the first of January, 1966.
 
 She begins with one million U.S. dollars, all of it in the S&P 500. She withdraws four percent in the first year and raises the withdrawal with inflation after that. The plan is meant to last thirty years.
@@ -116,6 +118,9 @@ That gives one side of the FI equation a hard number.
 The other side — annual spending — still looks like a constant in the formula. In real life, it moves. The same Singaporean household at the same income level can spend S$120,000 a year or S$48,000 a year depending entirely on which version of Singapore it has chosen to buy. A condo-and-car life produces one number. An HDB-and-public-transport life produces a very different one.
 
 Three point five percent gives the formula a working rate. The next question is Singapore-specific: what belongs inside the FI asset base, what stays locked away, and when the system starts paying you back. That is [Chapter 5: CPF Is Not One Thing](chapter-05.md).
+
+---
+**Navigation:** [← What Gets Measured Gets Retired](chapter-03.md) · [Contents](../SUMMARY.md) · [CPF Is Not One Thing →](chapter-05.md)
 
 ## Notes
 

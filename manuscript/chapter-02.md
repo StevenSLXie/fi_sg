@@ -1,5 +1,7 @@
 # Two Graduates, One Spreadsheet
 
+> **Navigation:** [← When Work Becomes Optional](chapter-01.md) · [Contents](../SUMMARY.md) · [What Gets Measured Gets Retired →](chapter-03.md)
+
 Imagine two Singaporean graduates starting work in the same year.
 
 The first joins an investment bank as an analyst. Call the salary S$9,000 a month. The second joins a normal graduate job. Call the salary S$4,500 a month.
@@ -171,6 +173,9 @@ Not the only number. Not a perfect number. But the number that tells you whether
 The next question is how to measure it without lying to yourself.
 
 [Chapter 3: What Gets Measured Gets Retired](chapter-03.md)
+
+---
+**Navigation:** [← When Work Becomes Optional](chapter-01.md) · [Contents](../SUMMARY.md) · [What Gets Measured Gets Retired →](chapter-03.md)
 
 ## Notes
 

@@ -1,5 +1,7 @@
 # The Version of Singapore You Buy
 
+> **Read the book:** [Start with Chapter 1](manuscript/chapter-01.md) · [Full table of contents](SUMMARY.md) · [Latest chapter](manuscript/chapter-15.md)
+
 On the last day of every month, I do something extremely primitive.
 
 I open our bank statements and credit-card bills and read them line by line: salary, CPF, mortgage, school fees, groceries, insurance. Some months I catch something that should not be there — most often a bank's annual fee, levied with the discreet confidence of an institution hoping nobody was reading carefully. Then I add up the few numbers that matter: savings rate, assets, liabilities, and how close we are to financial independence. After that, the spreadsheet can go back to sleep until next month.
@@ -40,23 +42,27 @@ This book is not an investment manual, a call to extreme frugality, or a promise
 
 The book follows that order. First, we define the math: savings rate, the 4 percent rule, and what full FI actually means. Then we examine the Singapore operating system: CPF, low taxes, the Singapore dollar, and HDB. After that, we move into daily life: housing upgrades, food, children, and practical skills. The point is not to make life small. It is to turn expensive defaults back into choices. Only then do we discuss investing, because investing is where the surplus goes after the household has produced it. Finally, we return to the question underneath the spreadsheet: what the freedom is for.
 
-Here is the route through the argument:
+Here is the route through the argument. The same chapter list is also available as a compact [table of contents](SUMMARY.md).
 
-1. [Chapter 1: When Work Becomes Optional](manuscript/chapter-01.md) defines FI as optionality, not a retirement age.
-2. [Chapter 2: Two Graduates, One Spreadsheet](manuscript/chapter-02.md) shows why savings rate beats investment cleverness in the accumulation years.
-3. [Chapter 3: What Gets Measured Gets Retired](manuscript/chapter-03.md) turns the household into a measurable balance sheet.
-4. [Chapter 4: Four Percent of What?](manuscript/chapter-04.md) sets the withdrawal-rate gauge and explains why this book uses 3.5 percent.
-5. [Chapter 5: CPF Is Not One Thing](manuscript/chapter-05.md) separates CPF wealth from CPF liquidity.
-6. [Chapter 6: Low Taxes Are a Feature](manuscript/chapter-06.md) explains how more income survives before lifestyle gets a vote.
-7. [Chapter 7: The Strong Dollar Under Your Feet](manuscript/chapter-07.md) adds currency strength and spending flexibility to the stack.
-8. [Chapter 8: HDB Is the Shortcut](manuscript/chapter-08.md) shows how housing can lower the floor, with gates attached.
-9. [Chapter 9: Why We Left the Condo](manuscript/chapter-09.md) prices private housing as a bundle of home, status, leverage, and fixed costs.
-10. [Chapter 10: The First Convenience Tax](manuscript/chapter-10.md) turns food into a cost ladder: home cooking, hawker centres, food courts, and restaurants buy different amounts of convenience.
-11. [Chapter 11: The Renaissance Household](manuscript/chapter-11.md) shows how practical competence lowers dependence on vendors and keeps convenience from becoming a fixed cost.
-12. [Chapter 12: Children Are Not the FI Killer](manuscript/chapter-12.md) separates unavoidable child costs from optional education anxiety and status spending.
-13. [Chapter 13: Investing Is the Easy Part](manuscript/chapter-13.md) turns the surplus into a boring, low-cost, automated investment system instead of a heroic stock-picking project.
-14. [Chapter 14: The Index Is Not the Product](manuscript/chapter-14.md) separates the index exposure from the fund wrapper that changes tax, estate, liquidity, and administration outcomes.
-15. [Chapter 15: How Much Is Enough?](manuscript/chapter-15.md) turns spending, CPF timing, and liquidity into a Singapore-specific FI dashboard.
+## Table of Contents
+
+| Part | Chapter | Job |
+|---|---|---|
+| I. The Math | [1. When Work Becomes Optional](manuscript/chapter-01.md) | Defines FI as optionality, not a retirement age. |
+| I. The Math | [2. Two Graduates, One Spreadsheet](manuscript/chapter-02.md) | Shows why savings rate beats investment cleverness in the accumulation years. |
+| I. The Math | [3. What Gets Measured Gets Retired](manuscript/chapter-03.md) | Turns the household into a measurable balance sheet. |
+| I. The Math | [4. Four Percent of What?](manuscript/chapter-04.md) | Sets the withdrawal-rate gauge and explains why this book uses 3.5 percent. |
+| II. The Singapore Stack | [5. CPF Is Not One Thing](manuscript/chapter-05.md) | Separates CPF wealth from CPF liquidity. |
+| II. The Singapore Stack | [6. Low Taxes Are a Feature](manuscript/chapter-06.md) | Explains how more income survives before lifestyle gets a vote. |
+| II. The Singapore Stack | [7. The Strong Dollar Under Your Feet](manuscript/chapter-07.md) | Adds currency strength and spending flexibility to the stack. |
+| II. The Singapore Stack | [8. HDB Is the Shortcut](manuscript/chapter-08.md) | Shows how housing can lower the floor, with gates attached. |
+| III. The Cost Floor | [9. Why We Left the Condo](manuscript/chapter-09.md) | Prices private housing as a bundle of home, status, leverage, and fixed costs. |
+| III. The Cost Floor | [10. The First Convenience Tax](manuscript/chapter-10.md) | Turns food into a cost ladder: home cooking, hawker centres, food courts, and restaurants buy different amounts of convenience. |
+| III. The Cost Floor | [11. The Renaissance Household](manuscript/chapter-11.md) | Shows how practical competence lowers dependence on vendors and keeps convenience from becoming a fixed cost. |
+| III. The Cost Floor | [12. Children Are Not the FI Killer](manuscript/chapter-12.md) | Separates unavoidable child costs from optional education anxiety and status spending. |
+| IV. The Investing Machine | [13. Investing Is the Easy Part](manuscript/chapter-13.md) | Turns the surplus into a boring, low-cost, automated investment system instead of a heroic stock-picking project. |
+| IV. The Investing Machine | [14. The Index Is Not the Product](manuscript/chapter-14.md) | Separates the index exposure from the fund wrapper that changes tax, estate, liquidity, and administration outcomes. |
+| IV. The Investing Machine | [15. How Much Is Enough?](manuscript/chapter-15.md) | Turns spending, CPF timing, and liquidity into a Singapore-specific FI dashboard. |
 
 If there is a single sentence behind this book, it is the oldest one in personal finance: live below your means. It has no app, no affiliate link, no chart, no heroic promise. But almost everything in this book is an expansion of it. Build a life whose cost does not grow automatically with income, status, fear, and convenience. Understand the system well enough to keep more of what you earn. Don't turn future freedom into present obligations.
 
