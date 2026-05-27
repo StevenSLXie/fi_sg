@@ -184,6 +184,8 @@ That is why the goal is not to raise a cheap child.
 
 The goal is to raise a child without turning fear into the household's largest subscription.
 
+After the household has lowered its fixed costs, contained education anxiety, and protected the surplus, the next question is where that surplus should go. That is [Chapter 13: Investing Is the Easy Part](chapter-13.md).
+
 ## Notes
 
 <a id="note-1"></a>[1] Ministry of Education, [Learn for Life: Forging Our Collective Future](https://www.moe.gov.sg/news/press-releases/20230301-learn-for-life-forging-our-collective-future), 1 March 2023. MOE announced an increase in the lifetime cohort participation rate for publicly funded university degrees from 50 percent to 60 percent by 2025, covering fresh school leavers and adult learners.

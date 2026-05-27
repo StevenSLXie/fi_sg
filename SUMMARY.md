@@ -13,3 +13,4 @@
 * [Chapter 10: The First Convenience Tax](manuscript/chapter-10.md)
 * [Chapter 11: The Renaissance Household](manuscript/chapter-11.md)
 * [Chapter 12: Children Are Not the FI Killer](manuscript/chapter-12.md)
+* [Chapter 13: Investing Is the Easy Part](manuscript/chapter-13.md)
