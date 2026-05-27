@@ -1,6 +1,6 @@
 # What Can Go Wrong?
 
-> **Navigation:** [← How Much Is Enough?](chapter-15.md) · [Contents](../SUMMARY.md) · Next: forthcoming
+> **Navigation:** [← How Much Is Enough?](chapter-15.md) · [Contents](../SUMMARY.md) · [Work After FI →](chapter-17.md)
 
 The spreadsheet reaches 100 percent.
 
@@ -143,7 +143,7 @@ The plan does not need to be indestructible.
 It needs room to move.
 
 ---
-**Navigation:** [← How Much Is Enough?](chapter-15.md) · [Contents](../SUMMARY.md) · Next: forthcoming
+**Navigation:** [← How Much Is Enough?](chapter-15.md) · [Contents](../SUMMARY.md) · [Work After FI →](chapter-17.md)
 
 ## Notes
 

@@ -32,3 +32,4 @@
 ## Part V: Making It Hold
 
 * [Chapter 16: What Can Go Wrong?](manuscript/chapter-16.md)
+* [Chapter 17: Work After FI](manuscript/chapter-17.md)

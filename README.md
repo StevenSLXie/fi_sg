@@ -1,6 +1,6 @@
 # The Version of Singapore You Buy
 
-> **Read the book:** [Start with Chapter 1](manuscript/chapter-01.md) · [Full table of contents](SUMMARY.md) · [Latest chapter](manuscript/chapter-16.md)
+> **Read the book:** [Start with Chapter 1](manuscript/chapter-01.md) · [Full table of contents](SUMMARY.md) · [Latest chapter](manuscript/chapter-17.md)
 
 On the last day of every month, I do something extremely primitive.
 
@@ -64,6 +64,7 @@ Here is the route through the argument. The same chapter list is also available 
 | IV. The Investing Machine | [14. The Index Is Not the Product](manuscript/chapter-14.md) | Separates the index exposure from the fund wrapper that changes tax, estate, liquidity, and administration outcomes. |
 | IV. The Investing Machine | [15. How Much Is Enough?](manuscript/chapter-15.md) | Turns spending, CPF timing, and liquidity into a Singapore-specific FI dashboard. |
 | V. Making It Hold | [16. What Can Go Wrong?](manuscript/chapter-16.md) | Turns market, Singapore-system, family, and liquidity risks into concrete levers instead of vague anxiety. |
+| V. Making It Hold | [17. Work After FI](manuscript/chapter-17.md) | Shows how work changes when employment income is optional rather than compulsory. |
 
 If there is a single sentence behind this book, it is the oldest one in personal finance: live below your means. It has no app, no affiliate link, no chart, no heroic promise. But almost everything in this book is an expansion of it. Build a life whose cost does not grow automatically with income, status, fear, and convenience. Understand the system well enough to keep more of what you earn. Don't turn future freedom into present obligations.
 
