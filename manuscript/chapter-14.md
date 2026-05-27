@@ -164,6 +164,8 @@ The index chooses the bet.
 
 The wrapper decides how much of the bet survives.
 
+Once the household knows what it owns and how it owns it, the next question becomes more personal: how much of this machine is enough for the life it is meant to fund? That is [Chapter 15: How Much Is Enough?](chapter-15.md).
+
 ## Notes
 
 <a id="note-1"></a>[1] IRAS, [Dividends](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/dividends), [Gains from sale of property, shares and financial instruments](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/gains-from-sale-of-property-shares-and-financial-instruments), and [Estate duty](https://www.iras.gov.sg/taxes/other-taxes/estate-duty/estate-duty/). The chapter uses these for Singapore's broad personal-investor tax baseline; facts can vary by investor activity and facts.
