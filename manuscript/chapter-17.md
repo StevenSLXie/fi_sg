@@ -36,23 +36,9 @@ Work becomes negotiable.
 
 That does not mean work becomes meaningless.
 
-## Why I Care About This
+I still care about good work.
 
-I did not choose engineering as a child because it was the purest expression of my soul.
-
-I chose a practical path because practical paths have value. A good professional job buys income, training, mobility, and a certain kind of protection. It can also quietly become the only language the household knows how to speak.
-
-For a long time, that trade is rational. The household needs capital. The children need food. The mortgage does not accept poetry.
-
-But a career is not guaranteed to remain a forty-year escalator.
-
-I have worked in big tech and now work in fintech. In the AI era, a software career can feel less like a lifetime ladder and more like one year of work, one year of income harvested. That is not a forecast that everyone will be replaced. It is a description of a mood familiar to many modern workers: the ground moves faster than the old career stories admit.
-
-FI matters because it buys adaptation room.
-
-If the job stays good, you can keep it. If the job changes, you can respond without treating every reorganisation as a household emergency. If the industry shifts, you can learn. If the work becomes absurd, you can leave before the absurdity becomes your personality.
-
-The objection is to captivity, not work.
+I just no longer want every job, reorganisation, or industry shift to become a household emergency.
 
 ## What Work Can Become
 
