@@ -1,14 +1,14 @@
 # Children Are Not the FI Killer
 
-"I have children. How can I retire?"
+By this point in the book, the question is no longer whether children cost money.
 
-The question deserves respect. A child is not a subscription that can be cancelled after a free trial. A child needs food, school, medical care, time, sleep, transport, attention, patience, and an adult who can be interrupted at exactly the wrong moment for eighteen years.
+They do.
 
-Children also change careers. They change how much risk a household can take. They change whether a parent can work late, travel, switch jobs, start a company, or recover quietly from burnout. They make the household less flexible in ways that do not always show up cleanly in a spreadsheet.
+The better question is where the spending ceiling comes from. Food, medical care, school materials, transport, childcare, and a larger life around the child can be estimated. The numbers may be uncomfortable, but they belong in a budget.
 
-Cheap is the wrong word.
+Education anxiety behaves differently. It turns a bounded cost into an open-ended defence system. There is always another class, another exam, another enrichment programme, another overseas option, another parent who seems to be doing more.
 
-The better answer is narrower: children do not automatically destroy financial independence. Treating childhood as an unlimited competition with no spending ceiling can.
+Children do not automatically destroy financial independence. Treating childhood as an unlimited competition with no spending ceiling can.
 
 The blank cheque is the arms race.
 
@@ -32,7 +32,7 @@ Singapore is competitive, but its resource map is different.
 
 MOE said in 2023 that the lifetime cohort participation rate for publicly funded university degrees would rise from 50 percent to 60 percent by 2025, covering both fresh school leavers and adult learners.[1](#note-1) A degree still has to be earned. But a publicly funded university pathway is not a lottery ticket reserved for a microscopic elite.
 
-The structure before that expansion was already broader than many parents' fears. Education Minister Chan Chun Sing described the earlier model as 40 percent of each cohort provided with subsidised undergraduate places for fresh school leavers, plus another 10 percent set aside for adult learners.[2](#note-2) Singapore was not asking every middle-class child to win a one-seat-in-a-thousand contest before the household could relax.
+The structure before that expansion was already broader than many parents' fears. In a 2023 Committee of Supply speech, then-Education Minister Chan Chun Sing described the earlier model as 40 percent of each cohort provided with subsidised undergraduate places for fresh school leavers, plus another 10 percent set aside for adult learners.[2](#note-2) Singapore was not asking every middle-class child to win a one-seat-in-a-thousand contest before the household could relax.
 
 Parents who buy tuition are often buying insurance against uncertainty. That is human. The FI question is how much insurance the household actually needs in this system.
 
@@ -98,7 +98,7 @@ Only the first three belong naturally in the FI plan.
 
 The last two need to be named before they are allowed to compound.
 
-## The Oxford Question
+## The Overseas Question
 
 University is where the anxiety story becomes most expensive.
 
@@ -106,15 +106,17 @@ For a Singapore Citizen, a subsidised local degree is often a tens-of-thousands 
 
 Medicine is expensive. Law is more expensive than many general degrees. Living costs still exist. Opportunity cost exists. None of this is free.
 
-But compare the shape of the decision with Oxbridge as an unfunded overseas route.
+But compare the shape of the decision with an unfunded overseas route.
 
-Oxford's 2026/27 overseas course fees are listed at GBP37,380 to GBP62,820 a year for many courses, with clinical medicine higher, and estimated living costs of GBP12,645 to GBP18,945 for nine months.[7](#note-7) Cambridge's 2026 entry international tuition ranges from GBP29,052 to GBP70,554 a year, with college fees and living costs on top.[8](#note-8)
+Oxford and Cambridge sit at the top end of the prestige ladder, and for the very strongest local students they may be real options. They are also useful price markers. Oxford's 2026/27 overseas course fees are listed at GBP37,380 to GBP62,820 a year for many courses, with clinical medicine higher, and estimated living costs of GBP12,645 to GBP18,945 for nine months.[7](#note-7) Cambridge's 2026 entry international tuition ranges from GBP29,052 to GBP70,554 a year, with college fees and living costs on top.[8](#note-8)
 
 For a Singapore family without scholarship funding, that is commonly a hundreds-of-thousands-Singapore-dollar decision.
 
+Oxbridge is not the whole overseas question. Many families are considering a broader route: Australia, the UK outside Oxbridge, the US, Canada, private foundation programmes, overseas transfer paths, or any programme that feels safer, more prestigious, or more face-saving than staying within the local public system. Some of these choices may be right for a child. They are still choices.
+
 It may still be worth it.
 
-An overseas elite university can be a wonderful education. It can provide a global network, a formative life experience, a path into certain international industries, a migration option, or a family dream. For some global careers, research paths, postgraduate ambitions, or scholarship-funded routes, the return may be real. Some children will thrive there in ways that cannot be reduced to first-job salary. Some scholarships change the equation completely.
+An overseas university can be a wonderful education. It can provide a global network, a formative life experience, a path into certain international industries, a migration option, or a family dream. For some global careers, research paths, postgraduate ambitions, or scholarship-funded routes, the return may be real. Some children will thrive there in ways that cannot be reduced to first-job salary. Some scholarships change the equation completely.
 
 But it should not be smuggled into the FI plan as a compulsory employability expense.
 
@@ -126,9 +128,9 @@ Oxford is excellent, but its public outcomes do not justify a lazy assumption th
 
 That caveat is the point.
 
-If the comparison is too messy to prove a superior employment return, the household should not quietly treat the much higher cost as mandatory.
+If even the prestige-end comparison is too messy to prove a superior employment return, the household should be careful about treating the broader overseas route as mandatory.
 
-Price the overseas elite route honestly. It may be investment. It may be consumption. It may be a dream. It may be a gift. It may be the right decision for that child.
+Price the overseas route honestly. It may be investment. It may be consumption. It may be a dream. It may be a gift. It may be the right decision for that child.
 
 Just do not call it unavoidable.
 

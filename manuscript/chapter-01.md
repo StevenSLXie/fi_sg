@@ -26,7 +26,7 @@ Retirement is when work stops. FI is when work becomes a choice.
 
 The same sentence shows up wearing different clothes. "I have aging parents who need care. How can I retire?" — but caregiving is exactly the kind of presence salary cannot delegate. "My spouse is unwell. How can I retire?" — but presence is what the office cannot give back. The circumstance that supposedly forbids FI is the circumstance that most demands it.
 
-The arithmetic answer to the parent at the top is simpler than her question. FI does not ask whether you have children. It asks what the household spends and what its assets can support. Children change the spending line; they do not change the structure of the calculation. We will get to education-cost anxiety in Chapter 13. For now: "my child is still studying" is not the same as "my financial life is unknowable forever."
+The arithmetic answer to the parent at the top is simpler than her question. FI does not ask whether you have children. It asks what the household spends and what its assets can support. Children change the spending line; they do not change the structure of the calculation. We will get to education-cost anxiety in Chapter 12. For now: "my child is still studying" is not the same as "my financial life is unknowable forever."
 
 ## The Age The System Gives You
 
