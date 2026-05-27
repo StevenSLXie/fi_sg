@@ -10,9 +10,7 @@ The FI number is spending wearing a large hat.
 
 That is why the first question should not be "How much do I need?" The first question should be "What does my life actually cost?" Assets are the echo. Spending is the voice.
 
-Singapore has enough public data and CPF rules to keep the FI number from becoming an internet fantasy. None of it can tell a family exactly how to live. It can make the first estimate less theatrical.
-
-A single person does not automatically need S$5 million. A family living in a condo, driving a car, paying for enrichment, and treating restaurants as routine should not be surprised when the number becomes large. The difference is not moral. It is mechanical.
+Singapore has enough public data and CPF rules to keep the FI number from becoming an internet fantasy. A single person does not automatically need S$5 million; a condo family carrying a large mortgage should not be surprised when the number becomes large.
 
 ## Start With Spending
 
@@ -24,8 +22,6 @@ For FI planning, the better question is cash leaving the household.
 
 Even that is not the whole budget. Household expenditure statistics are consumption expenditure. Loan repayments, income tax, and the purchase of a house are not inside the same number.[2](#note-2) For the concrete profiles below, we add a housing-cashflow line to the HES anchor. If a household still has a mortgage, pays income tax, supports parents, or expects medical shocks, the spreadsheet has to add those lines back.
 
-Official data gives the floor plan. Your ledger furnishes the room.
-
 Here is a rough planning table using the 3.5 percent rule. Treat it as a way to stop guessing, not as a prescription. The single case uses one graduate income; the couple and family cases assume two graduate incomes unless stated otherwise. The years are deliberately simple estimates: starting from age twenty-five, no initial assets, S$4,500 a month salary per fresh graduate excluding employer CPF, employer CPF counted as wealth, 4 percent annual salary growth, 5 percent nominal asset returns, and taxes ignored for simplicity.[3](#note-3)
 
 | Planning case | Housing assumption | Monthly spending incl. mortgage | FI asset base at 3.5% | Rough money-path years from age-25 graduate baseline |
@@ -35,13 +31,9 @@ Here is a rough planning table using the 3.5 percent rule. Treat it as a way to 
 | HDB family with children | 4-/5-room HDB case; mortgage about S$1.2k-S$2.0k/month if not cleared | S$8.5k-S$11k | S$2.91m-S$3.77m | 20-30 years depending on income, children, car, enrichment, and mortgage |
 | Condo / private-apartment family | HES private-apartment spending plus a S$1.0m-S$1.2m mortgage at roughly 3-3.5% | S$15k-S$18k | S$5.14m-S$6.17m | Not a median-grad early-FI path unless income or assets are very different |
 
-The numbers are deliberately rounded. False precision is not a retirement plan.
+The numbers are deliberately rounded.
 
 A single person with a modest 2-room Flexi BTO may look close to FI at a number that would terrify a condo family. A no-child couple in a suburban 3-room BTO can have a surprisingly short money path if both keep working and keep the floor low. A family with children in a five-room HDB may still have a plausible path, but it becomes an operating-system problem, not a quick hack.
-
-The table does not say who is virtuous.
-
-It says the floor matters.
 
 ## The First Two Clocks Are Housing Clocks
 
@@ -73,13 +65,9 @@ Still, the cash number matters. In the HES 2023 data, couple-with-children house
 
 The condo/private-apartment family is another step up. The HES data anchor is near S$10,900 a month before loan repayments.[7](#note-7) A S$1.0 million to S$1.2 million private-property mortgage can add roughly S$4,700 to S$6,000 a month at ordinary mortgage rates over twenty-five years.[8](#note-8) The resulting cashflow can easily sit around S$15,000 to S$18,000 a month.
 
-That is not an investment problem.
-
-It is a floor problem.
-
 If the floor is high, the household must either earn more, work longer, accept more risk, spend less, monetise assets, or lower the floor. There is no clever wrapper in Chapter 14 that makes a S$16,000 monthly lifestyle behave like a S$5,000 one.
 
-This is why the earlier chapters spent so much time on HDB, condos, food, children, and practical skills. They were not side quests. They were moving the denominator.
+That is why the denominator mattered before the portfolio did.
 
 ## Singapore Has Two Clocks
 
@@ -97,8 +85,6 @@ CPF is real wealth with gates. At thirty-five, it cannot buy next month's grocer
 
 For a young FI household, the question is whether the liquid portfolio can bridge the years before CPF joins the cash-flow stack. A household with enough diversified liquid assets can fund that bridge by selling a portion of the portfolio each year. Dividends are not required. A total-return portfolio can produce cash by selling units.
 
-That sentence sounds almost too simple. The risk lives inside the word "enough."
-
 Selling 3.5 percent a year from a large diversified portfolio is not the same as selling whatever is needed from a small concentrated portfolio after a crash. The bridge needs margin: a cash buffer, spending flexibility, and a portfolio that can survive bad sequence-of-returns years without forcing panic sales or a humiliating return to work at exactly the wrong moment.
 
 The CPF clock reduces late-life pressure. It does not remove the need for a bridge.
@@ -109,13 +95,9 @@ Imagine two households with S$2 million outside the home.
 
 One is thirty-five. The other is sixty.
 
-The spreadsheet cell is the same. The life is not.
-
 The thirty-five-year-old household may need three decades before CPF LIFE becomes a serious floor. Children may still be young. Career risk may be high. Housing decisions may not be settled. The liquid portfolio has to do a great deal of work.
 
 The sixty-year-old household is closer to CPF payouts. Children may be independent. Housing may be paid off. Medical risk is more visible, but the bridge is shorter. The same portfolio can carry different emotional and mathematical weight.
-
-This is why a single FI number can mislead.
 
 The better dashboard has four blocks.
 
@@ -132,25 +114,15 @@ More categories can be added later, but the first version should fit on one page
 
 ## Use The Official Profile, Then Make It Honest
 
-The official profiles are useful because they puncture fantasy. They show the range: housed singles can be closer than they think, private-housing families are playing a much more expensive game, and CPF changes late-life arithmetic without solving early-FI liquidity. Children matter, but the housing and lifestyle floor often matters more than the child alone.
+The official profiles are useful because they puncture fantasy. Housed singles can be closer than they think; private-housing families are playing a much more expensive game; CPF changes late-life arithmetic without solving early-FI liquidity.
 
-Then the household has to make the number honest.
-
-Ongoing obligations come first: mortgage cashflow, tax, parent support, healthcare, and any real household bills missing from the official anchor. Deliberate optional costs come next: an expensive education path, private housing, a car, or any other choice that raises the floor. Asset-monetisation assumptions should be named too; if the plan depends on selling, renting out, downsizing, or leaving Singapore, model that explicitly instead of letting home equity hover over the spreadsheet like a benevolent ghost.
-
-The number is not there to impress the internet.
-
-It is there to make decisions less theatrical.
+Then the household has to make the number honest. Add ongoing obligations: mortgage cashflow, tax, parent support, healthcare, and any real household bills missing from the official anchor. Name deliberate optional costs: an expensive education path, private housing, a car, or any other choice that raises the floor. If the plan depends on selling, renting out, downsizing, or leaving Singapore, model that explicitly instead of letting home equity hover over the spreadsheet like a benevolent ghost.
 
 If your life resembles the low-housing-cost single profile, S$5 million is not the entrance ticket to freedom. If your life resembles the private-housing family profile, the weak point may not be expected return. It may be the floor.
 
-That is a more useful conclusion than "it depends."
+This is a more useful conclusion than "it depends." It still depends, but now it depends on named things: spending, housing, bridge length, CPF floor, dependants, health, and buffer. Named things can be changed, funded, insured, or accepted. Vague fear can only grow.
 
-It still depends, but now it depends on named things: spending, housing, bridge length, CPF floor, dependants, health, and buffer. Named things can be changed, funded, insured, or accepted. Vague fear can only grow.
-
-The FI number is not the finish line.
-
-It is the instrument panel. Once it is visible, the household can stop arguing about magic numbers and start choosing which version of Singapore it is actually buying.
+Once the FI number is visible, the household can stop arguing about magic numbers and start choosing which version of Singapore it is actually buying.
 
 ## Notes
 
