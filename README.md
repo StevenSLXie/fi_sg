@@ -40,7 +40,7 @@ I am writing this as a married father of two, eleven years into working life —
 
 This book is not an investment manual, not a call to extreme frugality, and not a promise that everyone can retire at thirty-five. Investing is where the surplus goes, not where the surplus is created. Frugality, done right, is the art of refusing low-value expenses before they become structural. And "Retire Early" is the marketing department. Financial Independence is the operating system.
 
-The book follows that order. First, we define the math: savings rate, the 4 percent rule, and what full FI actually means. Then we examine the Singapore operating system: CPF, low taxes, the Singapore dollar, and HDB. After that, we move into daily life: housing upgrades, food, geography, children, and practical skills. Only then do we discuss investing, because investing is where the surplus goes after the household has produced it. Finally, we return to the question underneath the spreadsheet: what the freedom is for.
+The book follows that order. First, we define the math: savings rate, the 4 percent rule, and what full FI actually means. Then we examine the Singapore operating system: CPF, low taxes, the Singapore dollar, and HDB. After that, we move into daily life: housing upgrades, food, children, and practical skills. Only then do we discuss investing, because investing is where the surplus goes after the household has produced it. Finally, we return to the question underneath the spreadsheet: what the freedom is for.
 
 Here is the route through the argument:
 
@@ -54,6 +54,7 @@ Here is the route through the argument:
 8. [Chapter 8: HDB Is the Shortcut](manuscript/chapter-08.md) shows how housing can lower the floor, with gates attached.
 9. [Chapter 9: Why We Left the Condo](manuscript/chapter-09.md) prices private housing as a bundle of home, status, leverage, and fixed costs.
 10. [Chapter 10: The First Convenience Tax](manuscript/chapter-10.md) turns food into a cost ladder: home cooking, hawker centres, food courts, and restaurants buy different amounts of convenience.
+11. [Chapter 11: The Renaissance Household](manuscript/chapter-11.md) shows how practical competence lowers dependence on vendors and keeps convenience from becoming a fixed cost.
 
 If there is a single sentence behind this book, it is the oldest one in personal finance: live below your means. It has no app, no affiliate link, no chart, no heroic promise. But almost everything in this book is an expansion of it. Build a life whose cost does not grow automatically with income, status, fear, and convenience. Understand the system well enough to keep more of what you earn. Don't turn future freedom into present obligations.
 

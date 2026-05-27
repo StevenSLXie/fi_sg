@@ -11,3 +11,4 @@
 * [Chapter 8: HDB Is the Shortcut](manuscript/chapter-08.md)
 * [Chapter 9: Why We Left the Condo](manuscript/chapter-09.md)
 * [Chapter 10: The First Convenience Tax](manuscript/chapter-10.md)
+* [Chapter 11: The Renaissance Household](manuscript/chapter-11.md)

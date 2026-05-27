@@ -59,9 +59,9 @@ The exact price changes by neighbourhood, stall, year, portion, and appetite. Th
 
 A hawker centre is not the same as an air-conditioned mall food court. A kopitiam under an HDB block is not the same as a restaurant in a mall. A strata-titled old mall with cheap rent can hide stalls that would not survive in a polished retail complex. A five-minute walk can move the household from one cost layer to another.
 
-This is small geography, but it is still geography.
+Sometimes the cheaper lunch is five minutes away.
 
-You do not need to move to Johor Bahru to practise geographic arbitrage. Sometimes you only need to stop buying lunch inside the most expensive building on the route between office and MRT.
+You do not need a relocation plan for that. You only need to stop buying lunch inside the most expensive building on the route between office and MRT.
 
 ## Food Court Is Not The Bottom
 
@@ -151,7 +151,7 @@ If the problem is calories and nutrition, groceries may solve it. If the problem
 
 Chapter 9 argued that private housing can turn shelter into a higher cost floor. Food repeats the same pattern in miniature. The household does not become poor from one restaurant meal. It becomes slower when convenience becomes the default answer to a daily question.
 
-The next chapter widens that idea from meals to place. Geography is also a price system. Sometimes the difference between expensive and affordable is not a new job, a new investment product, or a heroic budget. Sometimes it is a different stall, a different mall, a different supermarket, or a different side of the Causeway.
+The next chapter widens that idea from meals to vendors. If food is the first convenience tax, the rest of the household has its own versions: technicians, cleaners, repairs, tools, and the practical skills that keep small problems from becoming permanent bills. Continue with [Chapter 11: The Renaissance Household](chapter-11.md).
 
 ## Notes
 
