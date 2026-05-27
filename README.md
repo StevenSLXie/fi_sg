@@ -55,6 +55,7 @@ Here is the route through the argument:
 9. [Chapter 9: Why We Left the Condo](manuscript/chapter-09.md) prices private housing as a bundle of home, status, leverage, and fixed costs.
 10. [Chapter 10: The First Convenience Tax](manuscript/chapter-10.md) turns food into a cost ladder: home cooking, hawker centres, food courts, and restaurants buy different amounts of convenience.
 11. [Chapter 11: The Renaissance Household](manuscript/chapter-11.md) shows how practical competence lowers dependence on vendors and keeps convenience from becoming a fixed cost.
+12. [Chapter 12: Children Are Not the FI Killer](manuscript/chapter-12.md) separates unavoidable child costs from optional education anxiety and status spending.
 
 If there is a single sentence behind this book, it is the oldest one in personal finance: live below your means. It has no app, no affiliate link, no chart, no heroic promise. But almost everything in this book is an expansion of it. Build a life whose cost does not grow automatically with income, status, fear, and convenience. Understand the system well enough to keep more of what you earn. Don't turn future freedom into present obligations.
 

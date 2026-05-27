@@ -176,6 +176,8 @@ If financial independence is the ability to say no to employers, household compe
 
 The savings buy freedom from employers. The skills buy freedom from vendors.
 
+The next chapter returns to the question that opened the book: [Chapter 12: Children Are Not the FI Killer](chapter-12.md).
+
 ## Notes
 
 <a id="note-1"></a>[1] Aircon service-price range based on current published price lists from CoolAircon, [Pricing](https://coolaircon.sg/pricing), aircons.sg, [Pricing](https://www.aircons.sg/pricing), and Helpling, [Aircon services](https://www.helpling.com.sg/aircon-services). The chapter uses S$400 to S$600 as an order-of-magnitude range for a three-to-five-unit household buying quarterly ordinary servicing, not as a universal claim. Package prices, unit count, subscription terms, and service scope vary.
