@@ -64,13 +64,13 @@ This is why SPIVA-style scorecards matter. They are not there to win internet ar
 
 The ordinary household has better work to do.
 
-It can raise savings rate. It can avoid a bad housing decision. It can keep restaurant convenience from becoming a subscription. It can choose sane education spending. It can invest the surplus in a broad machine and then go live.
+It can spend its energy on the real FI levers: savings rate, housing, daily cost, and the habits that keep surplus alive. Then it can invest the surplus in a broad machine and go live.
 
 ## Fees Are A Leak You Can Control
 
 Most investment variables are slippery.
 
-Next year's return is unknown. Interest rates are unknown. Which country will outperform is unknown. The next market panic is unknown, though people will explain it very confidently after it has happened.
+Next year's return, interest rates, and the winning market are all unknown. The next panic is unknown too, though people will explain it very confidently after it has happened.
 
 Cost is not unknown.
 
@@ -128,7 +128,7 @@ This is why I like the spirit of Nick Maggiulli's *Just Keep Buying* and Morgan 
 
 A Singapore household has one more reason to keep this chapter simple.
 
-CPF already gives many households a defensive SGD floor with gates attached. It is compulsory. It is local-currency. It has interest-rate features that behave, in part, like a conservative balance-sheet anchor. It is also not cash, not a liquid bond fund, and not a complete portfolio.
+CPF already gives many households a defensive SGD floor with gates attached: compulsory, local-currency wealth with interest-rate features that behave, in part, like a conservative balance-sheet anchor. It is still not cash, a liquid bond fund, or a complete portfolio.
 
 That distinction matters.
 
@@ -154,7 +154,7 @@ After that, investing has a humbler job.
 
 It receives the surplus.
 
-It should be diversified enough that one company, one country, one manager, or one theme cannot ruin the plan. It should be cheap enough that costs do not quietly eat the compounding. It should be automatic enough that the household keeps buying at highs and lows. It should be boring enough that nobody feels the need to check it during dinner.
+It should be diversified enough that one company, one market, or one theme cannot ruin the plan. It should be boring enough to keep running through highs, lows, and ordinary family life. Low cost and automation are not decoration; they are what keep the machine from leaking or stalling.
 
 The household does not need to become an investing hero.
 
