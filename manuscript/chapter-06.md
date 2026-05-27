@@ -16,7 +16,7 @@ FI is built from the part of income that survives tax, family costs, investment 
 
 ## The Engineer Who Keeps More
 
-The cleanest way to see this is not to compare tax tables. Tax tables are useful, but they do not feel like life. A better comparison starts with the same job.
+Tax tables are useful, but they do not feel like life. A cleaner comparison starts with the same job.
 
 Take a senior software engineer at a large technology company. Levels.fyi is a self-reported compensation database, not a national statistics office; use it as a market anecdote with numbers, not as an official compensation survey. Here is a snapshot from Google L5 Software Engineer pages checked in May 2026, with a rough tax calculation added. All amounts are converted to U.S. dollars for comparison.[1](#note-1)
 
@@ -52,7 +52,7 @@ Singapore's low-tax advantage works as a small stack.
 
 Personal income tax is progressive but low by developed-world standards. The resident schedule starts at zero for the first S$20,000 of chargeable income and rises gradually; most households never touch the top marginal rate.[2](#note-2) Long-term capital gains are generally not taxed as capital gains, unless the activity is really trading. Under Singapore's one-tier corporate tax system, many one-tier dividends paid by Singapore resident companies are not taxed again in the hands of individual shareholders. Estate duty was removed for deaths on and after 15 February 2008.[3](#note-3)
 
-That does not make tax planning irrelevant. Wills, CPF nominations, cross-border assets, U.S. withholding tax, and ETF domicile still matter. But for a household trying to turn salary into assets, Singapore has relatively few tax toll booths.
+Tax planning still matters. Wills, CPF nominations, cross-border assets, U.S. withholding tax, and ETF domicile can all affect the household. But for a household trying to turn salary into assets, Singapore has relatively few tax toll booths.
 
 The machine still has to be used well. A low-tax household can waste money with impressive efficiency. A condo, a car, routine restaurants, luxury travel, and enrichment subscriptions will absorb surviving income just as happily as a tax authority would. Singapore lets more money reach the household. It does not force the household to turn that money into freedom.
 
@@ -72,9 +72,7 @@ Fee caps matter too. Anchor Operator preschools exist because the state does not
 
 Then there is the Baby Bonus system. The Child Development Account begins with a First Step Grant, and the government co-matches parental savings up to a cap. For the first child, the current structure provides a S$5,000 First Step Grant and up to S$4,000 of government co-matching.[6](#note-6) The amounts rise for later children. The CDA is a child-linked account for approved uses rather than general cash. That is exactly the point. The state is helping fund the child bill.
 
-The same logic appears on the tax side. Qualifying Child Relief can be shared between spouses, up to S$4,000 per child. Working Mother's Child Relief gives eligible working mothers relief tied to qualifying Singapore Citizen children. For children born or adopted on or after 1 January 2024, the WMCR is fixed at S$8,000 for the first child, S$10,000 for the second, and S$12,000 for the third and subsequent child.
-
-Parenthood Tax Rebate is a credit rather than a deduction: S$5,000 for the first child, S$10,000 for the second, and S$20,000 for each third and subsequent child, with unused balances carried forward. QCR or Handicapped Child Relief plus WMCR is capped at S$50,000 per child, and the overall personal relief cap is S$80,000 per Year of Assessment.[7](#note-7)
+The same logic appears on the tax side. Child-related reliefs and rebates can materially reduce tax for eligible parents, especially when a working mother qualifies for Singapore Citizen child reliefs. The mechanics are detailed — Qualifying Child Relief, Working Mother's Child Relief, Parenthood Tax Rebate, per-child caps, and the overall S$80,000 personal relief cap all interact — but the household point is simple: the tax system recognises part of the child bill.[7](#note-7)
 
 There are conditions. The details change by child order, citizenship, birth or adoption date, marital status, income, and year. This paragraph maps the mechanism; it is not tax advice.
 
@@ -84,11 +82,11 @@ This is the point many anxious parents miss.
 
 In Singapore, the institutional bill for a child can be surprisingly low. The expensive part often comes from parental decisions layered on top.
 
-Tuition is a decision. Enrichment is a decision. Private school is a decision. Overseas university is a decision. Some of these decisions may be good decisions for a particular child. They belong in a different category from the public school system itself. They are add-ons to parenthood in Singapore, not its unavoidable entry fee.
+The public system is the floor. Tuition, enrichment, private school, and overseas routes are add-ons that need their own justification. Some may be good decisions for a particular child. They belong in a different category from the public school system itself.
 
 That distinction matters for FI. If a household imports an American private-education mental model, or a Chinese arms-race mental model, it will build a very expensive Singaporean childhood. If it uses the Singapore public system well, the cash cost can be far lower than the anxiety suggests.
 
-The state quietly shares the child bill. Parents still carry the time cost, the attention cost, the sleep cost, the emotional cost, and the PSLE anxiety that deserves its own chapter. But the cash burn is lower in exactly the years when many households are still building their asset base.
+The state quietly shares the child bill. Parents still carry the time, attention, and anxiety costs. But the cash burn can be lower in exactly the years when many households are still building their asset base.
 
 For a family pursuing FI, this is not a small detail. A preschool line that falls sharply when a child enters public primary school can move the household savings rate by several points. Chapter 2 described that in my own numbers. The spreadsheet did not improve because I became more virtuous. One institutional cost fell off the table.
 
@@ -96,7 +94,7 @@ Public primary school does what no coupon strategy can: it deletes a budget line
 
 ## Investment Leakage
 
-Tax also matters after the surplus is invested, but this chapter only needs the principle. A Singapore tax resident investing personally starts from a friendly base: long-term capital gains are generally not taxed as capital gains, many one-tier local dividends do not enter the personal tax bill again, and estate duty is gone.[3](#note-3) For a Singapore resident buying U.S. assets, the story is not magically tax-free; U.S.-domiciled ETFs can create dividend withholding tax and estate-tax exposure for non-resident aliens. Ireland-domiciled accumulating funds can reduce some of that leakage.[9](#note-9) That is Chapter 17.
+Tax also matters after the surplus is invested, but this chapter only needs the principle. A Singapore tax resident investing personally starts from a friendly base: long-term capital gains are generally not taxed as capital gains, many one-tier local dividends do not enter the personal tax bill again, and estate duty is gone.[3](#note-3) For a Singapore resident buying U.S. assets, the story is not magically tax-free; U.S.-domiciled ETFs can create dividend withholding tax and estate-tax exposure for non-resident aliens. Ireland-domiciled accumulating funds can reduce some of that leakage.[9](#note-9) Chapter 14 returns to the wrapper problem.
 
 For now, remember only this: household investment return is what remains after taxes, withholding, estate rules, fees, and product choices.
 
@@ -104,13 +102,13 @@ For now, remember only this: household investment return is what remains after t
 
 Low tax does not make Singapore cheap.
 
-This distinction matters. Many people hear "Singapore has low taxes" and reply, correctly, that housing is expensive, cars are absurd, restaurants are not cheap, and children still cost money. Yes. The tax system is one part of the FI stack, not a magic wand waved over the entire cost of living.
+Many people hear "Singapore has low taxes" and reply, correctly, that housing is expensive, cars are absurd, restaurants are not cheap, and children still cost money. Yes. The tax system is one part of the FI stack, not a magic wand waved over the entire cost of living.
 
 Low tax does something specific. It increases the amount of income that reaches the household before lifestyle choices begin.
 
-After that, the household can still choose an expensive version of Singapore. Singapore has many voluntary taxes, or tax-like tolls on particular choices. A car is the obvious one: COE is not income tax, but for a household that chooses car ownership it behaves like a large entry ticket to a more expensive life. Private property brings stamp duties. Alcohol, petrol, ERP, and parking add their own tolls. These are the price of buying certain versions of Singapore rather than the basic price of being alive here.
+After that, the household can still choose an expensive version of Singapore. Singapore has many voluntary taxes, or tax-like tolls on particular choices. A car is the obvious one: COE is not income tax, but for a household that chooses car ownership it behaves like a large entry ticket to a more expensive life. Private property brings its own transaction costs. These are the price of buying certain versions of Singapore rather than the basic price of being alive here.
 
-That is why low tax and high cost of living can both be true. Singapore does not take a large share of salary at the income-tax line, then it offers many expensive doors. Condo. Car. Restaurant routine. Private tuition stack. Luxury travel. The doors are real. Some are worth entering. But they are doors, not the floor.
+That is why low tax and high cost of living can both be true. Singapore does not take a large share of salary at the income-tax line, then it offers many expensive doors. Condo and car are the two largest. The others appear later as daily habits. Some doors are worth entering. But they are doors, not the floor.
 
 The book's central sentence remains old and boring: live below your means.
 

@@ -1,22 +1,20 @@
 # CPF Is Not One Thing
 
-CPF is confusing because it is not one thing.
+CPF is confusing because one logo covers several financial products.
 
-It is a housing account. It is a retirement account. It is a medical wallet. At 65, part of it becomes an annuity. The same three letters appear on all of these products, which is convenient for branding and inconvenient for thinking.
+One part pays for housing. One part accumulates for retirement. One part is a medical wallet. At 65, part of it can become an annuity. The same three letters appear on all of these products, which is convenient for branding and inconvenient for thinking.
 
 The earlier chapters used a working rule: count CPF as wealth, but do not pretend it is cash. This chapter is where that rule gets unpacked. An Ordinary Account dollar paying a mortgage is different from a Special Account dollar at age forty. A MediSave dollar is different again. A Retirement Account dollar at fifty-five is not the same product as a CPF LIFE payout at seventy.
 
-The useful description is unsentimental: CPF is compulsory saving with policy risk, liquidity gates, and unusually good SGD-denominated returns. It is not a tax — a tax leaves the household balance sheet; CPF does not. It is also not cash. Pretending it is cash overstates liquidity. Pretending it is tax understates wealth. Both errors distort the FI calculation.
+The useful description is unsentimental: CPF is compulsory saving with policy risk, liquidity gates, and unusually good SGD-denominated returns. A tax leaves the household balance sheet; CPF does not. Cash can be spent immediately; CPF usually cannot. Pretending it is cash overstates liquidity. Pretending it is tax understates wealth. Both errors distort the FI calculation.
 
 CPF is several financial instruments wearing one logo. Use it. Understand it. Do not worship it.
 
 ## Two Retirement Ages
 
-The first useful distinction is between the age you stop working and the age a retirement income system starts paying you.
+The first useful distinction is between the age you stop working and the age a retirement income system starts paying you. They are often not the same age.
 
-They are not the same age.
-
-This sounds obvious until a government system gives one of them an official label. In Singapore, CPF LIFE payouts can start from 65, with the option to defer up to 70.[1](#note-1) That does not mean 65 is the age at which work becomes optional. It means 65 is the age at which one specific retirement product can begin sending monthly income.
+The distinction sounds obvious until a government system gives one of the ages an official label. In Singapore, CPF LIFE payouts can start from 65, with the option to defer up to 70.[1](#note-1) That means one specific retirement product can begin sending monthly income. It does not make 65 the age at which work becomes optional.
 
 A household can be financially independent before CPF LIFE starts. A household can also be financially dependent after CPF LIFE starts. The payout age is not a permission slip. It is a feature of the product.
 
@@ -40,7 +38,7 @@ The money does not land in one place. Before 55, it is allocated across three ac
 
 The allocation changes with age. The broad pattern is intuitive: younger workers need more housing capacity, older workers need more retirement and medical capacity. CPF is not only a pension system. It is Singapore's housing finance system and healthcare pre-funding system sharing the same administrative machine.
 
-That is why "CPF is locked up" is too crude. Some of it is locked. Some of it pays the mortgage. Some of it pays medical premiums. Some of it becomes monthly income later. Liquidity depends on which account, which age, which use, and which policy rule.
+That is why "CPF is locked up" is too crude. Some of it is locked. Some of it pays the mortgage. Some of it pays medical premiums. Some of it becomes monthly income later. Liquidity depends on the account, the age, and the rule.
 
 ## OA: The Housing Dollar
 
@@ -50,7 +48,7 @@ As of early 2026, OA earns 2.5 percent. That is not exciting. It is also not the
 
 If OA pays S$2,000 of mortgage instalments this month, the household's bank account is S$2,000 less stressed. The money cannot buy lunch. It can pay one of the largest bills in the household.
 
-For FI accounting, OA has two roles. It is wealth, and it is a housing cash-flow tool. But if it has already been used to buy the home you live in, do not count the same dollar twice. Home equity belongs on the balance sheet; it should not casually enter the withdrawal base unless the plan actually includes selling, downgrading, renting out a room, or moving.
+For FI accounting, OA has two roles: wealth and housing cash-flow tool. But if it has already been used to buy the home you live in, do not count the same dollar twice. Home equity belongs on the balance sheet; it should not casually enter the withdrawal base unless the plan actually includes selling, downgrading, renting out a room, or moving.
 
 CPF makes home ownership easier. It can also make the cost of the home feel less visible. The monthly deduction comes from a separate account, which is psychologically useful and financially dangerous. Interest, property tax, maintenance, and opportunity cost still exist. CPF does not make housing free. It only changes which pocket pays.
 
@@ -100,7 +98,7 @@ For FI planning, this is valuable because it changes the tail risk. The portfoli
 
 ## How CPF Fits The FI Formula
 
-The practical rule is short: count CPF as wealth, not as cash, and separate it by function. OA used for housing affects cash flow and home equity. SA and RA are bond-like retirement assets with age gates. MA is a healthcare wallet. CPF LIFE is future annuity income. Collapsing them into one number is convenient and usually misleading.
+The practical rule is short: count CPF as wealth, not as cash, and separate it by function. OA used for housing affects cash flow and home equity. SA and RA are bond-like retirement assets with age gates. MA is a healthcare wallet. CPF LIFE is future annuity income. One CPF total is convenient and usually misleading.
 
 For the Chapter 4 formula, the key concept is the bridge. Before 55 and 65, the household needs enough liquid assets to cover the years when CPF cannot fully support spending. After CPF access and CPF LIFE payouts begin, CPF reduces the burden on the portfolio. The same 3.5 percent rule can include CPF as wealth while still demanding a conservative liquid bridge for the years before access.
 
@@ -128,7 +126,7 @@ So the rule is short: admire the savings discipline; price the liquidity loss.
 
 ## Use It, Do Not Worship It
 
-CPF is one of Singapore's great FI advantages. It forces savings before lifestyle can claim the money. It pays attractive risk-free rates by global standards. It helps finance housing, pre-funds healthcare, and provides longevity insurance. It also offers tax-planning opportunities through cash top-ups, subject to annual limits and changing rules.
+CPF is one of Singapore's great FI advantages because it converts part of salary into locked, useful household wealth before lifestyle can touch it. It pays attractive risk-free rates by global standards, helps finance housing, pre-funds healthcare, provides longevity insurance, and offers tax-planning opportunities through cash top-ups, subject to annual limits and changing rules.
 
 But CPF is not a complete retirement plan. It has liquidity gates and policy risk. Its rules can change, as the closure of SA for members aged 55 and above showed. Its purchasing power depends on Singapore remaining a high-trust, well-run country with a strong currency. And for many older Singaporeans, CPF balances are modest because wages decades ago were modest.
 

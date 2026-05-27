@@ -4,7 +4,7 @@ Most household bookkeeping does not fail at the end. It fails in the third week.
 
 It usually begins well. Someone in the family — often the more organised spouse — downloads an app and starts entering every receipt with the enthusiasm of a new system. By the third week the receipts arrive faster than the entries. By the fourth, the original organiser begins skipping the occasional Friday. By the third month the app is still on the phone, but it has the quiet, ignored quality of a treadmill. The categories were too many. The data entry was too detailed. The exercise produced a lot of charts and not a single decision.
 
-It dies for the same reason almost every time: people begin as if they are building a small accounting firm at home. Every lunch needs a category. Every snack needs a category. Watsons is separate from FairPrice, and by week three the system has become a part-time job with worse benefits.
+It dies for the same reason almost every time: people begin as if they are building a small accounting firm at home. Every lunch needs a category. Every snack needs a category. By week three, the system has become a part-time job with worse benefits.
 
 The previous chapter ended on savings rate as the single number worth managing. But a number is only useful if it is honestly measured. A household does not need a finance department to do that. It needs a few numbers it can trust: income, spending, balance-sheet movement, and FI progress. Everything else is detail.
 
@@ -12,9 +12,9 @@ The rule that survives is short: be precise where the classification changes FI 
 
 ## The App Is Not the System
 
-I use an app called Money Manager. This is not a recommendation. A spreadsheet works. Another expense app works. The app matters only if it reduces friction — Money Manager lets me enter income, expenses, accounts, assets, and liabilities without turning the process into enterprise software, and it produces simple monthly and yearly category views.
+I use an app called Money Manager, but the specific tool is not the point. A spreadsheet works. Another expense app works. The app matters only if it reduces friction — Money Manager lets me enter income, expenses, accounts, assets, and liabilities without turning the process into enterprise software, and it produces simple monthly and yearly category views.
 
-The app is not the system. The categories are the system.
+The system lives in the categories, not in the app.
 
 If the categories are wrong, a beautiful chart only makes the wrongness more colourful. If they are too detailed, the system becomes fragile. If they are too vague, nothing can be learned. The goal is not accounting purity. The goal is a structure that survives ordinary life and produces decision-useful numbers.
 
@@ -26,7 +26,7 @@ Here is a simplified version of my expense categories:
 | Mortgage interest | Interest portion of the home loan | True housing expense |
 | Tax | Income tax, property tax if applicable | Large lumpy obligation |
 | School | Preschool, school fees, child-related education costs | Child-related recurring cost |
-| Groceries & Household | Groceries, toiletries, household supplies, Watsons, Bengawan Solo, small daily purchases | Daily household consumption |
+| Groceries & Household | Groceries, toiletries, household supplies, small daily purchases | Daily household consumption |
 | Helper | Domestic helper salary, levy, related costs | Family logistics / labour cost |
 | Car | Petrol, parking, servicing, road tax, insurance if grouped here | Transport fixed cost |
 | Public transport | MRT, bus, taxi, ride-hailing if tracked separately | Transport variable cost |
@@ -39,7 +39,7 @@ Here is a simplified version of my expense categories:
 | Entertainment | Leisure, subscriptions, outings | Discretionary spending |
 | Other | Anything not worth its own category | Keeps the system simple |
 
-This is not a model answer. It is a worked example.
+This is a worked example, not a model answer.
 
 The most important category may be "Other." There will always be expenses that do not deserve a new category. If every unusual transaction creates a new bucket, the system becomes a museum of one-off events. "Other" is not failure. It is a pressure-release valve.
 
@@ -47,7 +47,7 @@ The most important category may be "Other." There will always be expenses that d
 
 "Groceries & Household" is deliberately broad: supermarket food, toiletries, pharmacy, and ordinary day-to-day consumption all go there.
 
-The point is not where the money was spent. The point is what household function it served. Splitting groceries from pharmacy feels more correct and is usually less useful. Unless the split changes a decision, it is just extra work.
+The useful question is not where the money was spent, but what household function it served. Splitting groceries from pharmacy feels more correct and is usually less useful. Unless the split changes a decision, it is just extra work.
 
 ## Three More Singapore Traps
 
@@ -55,7 +55,7 @@ Chapter 2 covered the two non-negotiable splits. CPF is wealth, not cash, and co
 
 Three more local traps are worth naming.
 
-The first is **tax**. For most salaried Singapore households, personal income tax is the largest tax bill by a wide margin — no capital-gains tax, no estate tax, no income tax on the first S$20,000, and only a small property tax on owner-occupied HDB. Headline rates are low, but for a household seriously on the FI path the absolute amount is not.
+The first is **tax**. Singapore's headline income-tax rates are low, but for a household seriously on the FI path the absolute bill can still be large.
 
 Tax deserves its own category because it is one of the largest household line items that **disappears when employment ends**. A retiree with no employment income and no rental property has very little to pay IRAS. Bury the tax bill inside "general expenses," and the FI math overstates the post-retirement run rate by tens of thousands of dollars a year — in the wrong direction.
 
@@ -63,7 +63,7 @@ The second is **school**. The interesting thing about a Singapore school line is
 
 That makes the school line more diagnostic than expensive. When enrichment creeps up, the line creeps up. When a child enters public primary school and a S$1,500-a-month preschool line disappears overnight, that is a real FI inflection a less granular system would miss. Watch the line, and the household sees how much of its child-related spending is institutional cost and how much is anxiety converted into recurring fees.
 
-The third is **food**. Eating in Singapore is not one product. It is at least three: hawker centres, food courts, and kopitiams at one end; home cooking in the middle; sit-down restaurants at the other. Collapsing them into a single "dining" line hides the most consequential food decision a Singapore family makes month after month.
+The third is **food**. Eating in Singapore comes in several products wearing the same name: ingredients, cheap prepared meals, and restaurants. Collapsing them into a single "dining" line hides the most consequential food decision a Singapore family makes month after month.
 
 The same SingStat survey reports that about 68 percent of household food spending goes to F&B services rather than groceries — the average household is buying food primarily as a service, not as ingredients.[1](#note-1) A "hawker / food court / takeaway" line and a separate "restaurants" line let the household see the mix at a glance. A Saturday restaurant bill is a different animal from a weekday Koufu lunch.
 
@@ -106,7 +106,7 @@ The four largest lines in my 2025 spending were mortgage interest, travel, tax, 
 
 Do not copy these percentages. Travel in my case includes visiting parents and family in my home country, which is closer to obligation than holiday. The "car" line is low because the household does not own one. Other households will look different in exactly the ways their lives are different.
 
-For a published reference point, the SingStat HES 2023 reports that the average resident household spent S$5,931 a month, with housing (29.8%), food (20.0%), and transport (13.4%) making up about 63% of expenditure.[1](#note-1) That shape is very different from mine, and probably from yours. Until the household is visible to itself, decisions about housing, cars, school, and travel are being made against an imaginary reference.
+For a published reference point, the SingStat HES 2023 reports that the average resident household spent S$5,931 a month before imputed owner-occupied rent, or S$7,119 including it. On the including-imputed-rent presentation, housing, food, and transport together made up 63.2 percent of spending.[1](#note-1) That shape is very different from mine, and probably from yours. Until the household is visible to itself, decisions about housing, cars, school, and travel are being made against an imaginary reference.
 
 ## Track Income, Track Assets
 
@@ -170,7 +170,7 @@ A few rules, for the household that wants this still running in three years rath
 
 ## Honest Enough
 
-Bookkeeping is not there to make the household feel guilty. It is there to make the household visible.
+Bookkeeping should make the household visible, not guilty.
 
 Once the household is visible, arguments become more concrete. Should we buy a car? Look at transport. Is the condo slowing us down? Separate the loan cost from the asset. Are children making FI impossible, or is the school line manageable? Look at the twelve-month number. Are we investing enough? Look at savings rate and the FI numerator.
 

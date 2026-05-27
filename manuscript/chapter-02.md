@@ -8,7 +8,7 @@ The first graduate earns twice as much. Eight years later, the second graduate m
 
 This sounds wrong in the way useful arithmetic often sounds wrong.
 
-The high-income graduate does what high-income people are quietly encouraged to do. A nicer rental, or eventually a condo. A car once the COE cycle looks temporarily less insane, which is how COE cycles advertise themselves before becoming insane again. Restaurants as routine rather than occasion. Short trips because the job is stressful and because Changi Airport exists to turn stress into miles. Lifestyle expands with each bonus, which is the polite way of saying that the spreadsheet receives the raise and immediately forwards it to the economy.
+The high-income graduate does what high-income people are quietly encouraged to do. Housing gets nicer. A car starts to feel reasonable when the COE cycle briefly looks less insane, which is how COE cycles advertise themselves before becoming insane again. Restaurants become routine rather than occasion. Lifestyle expands with each bonus, which is the polite way of saying that the spreadsheet receives the raise and immediately forwards it to the economy.
 
 The second graduate keeps fixed costs low. HDB room or family home for the first few years. Public transport. Home cooking. No car. No condo. Few recurring subscriptions.
 
@@ -36,7 +36,7 @@ If you earn S$100,000 and save S$30,000, the savings rate is 30 percent. If you 
 
 The second person earns half as much. The second person is moving faster.
 
-This is not because lower salary is somehow better. It is because savings rate is a two-sided lever. It pushes the numerator up: your annual surplus. It pulls the denominator down: the amount of assets needed to support your life.
+Lower salary is not the advantage. Savings rate is the two-sided lever. It pushes the numerator up — your annual surplus — and pulls the denominator down: the amount of assets needed to support your life.
 
 Spend less, and two things happen at once. You save more money today, and you require less money forever.
 
@@ -66,7 +66,7 @@ Do not treat the table as prophecy. Treat it as a curve.
 | 80% | 6 |
 | 90% | 3 |
 
-The exact years will change if you change the assumptions. Use 5 percent investment return instead of 6. Use different salary growth. Use a 3.5 percent rule instead of 4. Add children. Remove a car. Buy a condo. Move closer to your parents. The numbers move.
+The exact years will change if you change the assumptions. Lower the investment return, change salary growth, use a 3.5 percent rule, add children, remove a car, or buy a condo; the numbers move.
 
 The shape does not.
 
@@ -80,7 +80,7 @@ FI is not paid for by income. FI is paid for by the part of income that survives
 
 By mid-2022, financial independence had become a real goal for me, not an interesting internet topic. Once that happened, bookkeeping stopped being optional. You cannot manage what you cannot say out loud.
 
-There was no dramatic conversion scene. No layoff. No viral Reddit post. No spreadsheet descending from the cloud. Just a slowly increasing discomfort with not being able to answer basic questions precisely. How much did we spend last year? What was our true savings rate? How much of our mortgage payment was interest and how much was principal? How much of our wealth was in CPF? How fast were we actually moving?
+There was no dramatic conversion scene. No layoff, no viral Reddit post, no spreadsheet descending from the cloud. Just a slowly increasing discomfort with not being able to answer basic questions precisely. How much did we spend last year? What was our true savings rate? How much of our mortgage payment was interest and how much was principal? How much of our wealth was in CPF? How fast were we actually moving?
 
 So I started measuring.
 
@@ -116,7 +116,7 @@ At this point someone will reasonably object: saving 70 percent is impossible fo
 
 Often, yes.
 
-A 70 percent savings rate is not the starting point. It is not a moral requirement. It is not the official entrance exam for this book. If your household is at 15 percent, the next useful number is not 70. It is 20. Then 25. Then 30.
+A 70 percent savings rate is neither the starting point nor the entrance exam for this book. If your household is at 15 percent, the next useful number is 20. Then 25. Then 30.
 
 Do not worship 70 percent. Know your number and move it in the right direction.
 
@@ -156,13 +156,13 @@ The household still has to invest well enough. But investing starts after the su
 
 ## The Number You Can Move
 
-The reason savings rate is powerful is not that it is easy. It is powerful because it is close to the household.
+Savings rate is powerful because it sits close to the household.
 
 Market return is not close to the household. You can choose asset allocation, fees, tax structure, and behaviour, but you cannot instruct the market to return 8 percent because the family spreadsheet has a deadline.
 
-Salary is closer, but still not fully controlled. You can work, negotiate, learn, and take risks. Industry cycles and luck still get a vote.
+Salary is closer, but still not fully controlled. You can work for it and negotiate for it; industry cycles and luck still get a vote.
 
-Savings rate sits between ambition and control. It is affected by income, but it is not identical to income. It is affected by spending, but it is not identical to frugality. It is where career, housing, taxes, children, and taste meet the spreadsheet.
+Savings rate sits between ambition and control. It is affected by income, but it is not identical to income. It is affected by spending, but it is not identical to frugality. It is where the household's real life meets the spreadsheet.
 
 That makes it the best single number for FI progress.
 

@@ -32,13 +32,13 @@ Here is the vocabulary for the rest of the book.
 
 **Liquid bridge** is the subset available before CPF gates and CPF LIFE payouts. Chapter 3 called the FI asset base the numerator. This chapter gives it a name.
 
-The definition is simple. The difficulty is choosing the number. Four percent is not magic. It is a U.S. historical result built around a thirty-year retirement, U.S. assets, U.S. inflation, and inflation-adjusted withdrawals. A Singapore household pursuing early FI has a different problem: longer horizon, SGD spending, CPF in the background, and assets that may be global rather than purely American.
+The definition is simple. The difficulty is choosing the number. Four percent is not magic. It is a U.S. historical result built around a thirty-year retirement, U.S. assets, U.S. inflation, and inflation-adjusted withdrawals. A Singapore household pursuing early FI has a different problem. The horizon may be longer, spending is in SGD, CPF sits in the background, and the portfolio may be global rather than purely American.
 
 So I use four percent as the famous reference point, then make the book's working rule stricter.
 
 ## The Bad Start
 
-Retirement math is not mainly about average returns. It is about the order of returns.
+Retirement math cares less about average returns than about their order.
 
 Two people can retire one year apart with the same portfolio and the same withdrawal plan. Thirty years later, one may have several times more money than the other. The difference is not intelligence. One began before a good decade. The other began before a bad one.
 
@@ -57,11 +57,11 @@ The test is deliberately crude: all equities, no bonds, no fees, no taxes, and U
 | 5.0% | 11 / 36 | Most 1960s and early-1970s starts fail |
 | 6.0% | 15 / 36 | Every 1960-1974 start fails |
 
-That table is the evidence for the line I care about. It does not prove that 3.5 percent is safe forever. It shows why the extra half-percent is not cosmetic. Four percent mostly works, but the bad starts get close to the edge or fall over it. Three and a half survives this particular set.
+That table is the evidence for the line I care about. It does not prove that 3.5 percent is safe forever. It shows why the extra half-percent is not cosmetic. Four percent mostly works, but the bad starts get close to the edge or fall over it. Three and a half survives this particular test.
 
 The same table also deals with five and six. At five percent, the bad starts are no longer rare exceptions. At six, every start from 1960 through 1974 fails. The argument against five or six is not tone. It is the failure count.
 
-This does not prove the future. It shows what the extra half-percent is buying: room for a bad first decade.
+The future can still misbehave. The table simply shows what the extra half-percent is buying: room for a bad first decade.
 
 ## Translating It Into Singapore
 
@@ -73,13 +73,13 @@ For a U.S. retiree, tax sequencing can become a second retirement problem sittin
 
 CPF is bond-like, but it is not cash. It can reduce the bond burden of the lifetime balance sheet. It cannot replace the liquid buffer needed before 55, before CPF LIFE payouts, or during the first fragile years after leaving work. A forty-year-old with a large SA balance is richer than the brokerage account suggests, but not more liquid.
 
-Currency cuts both ways too. A Singapore-dollar retiree spends in SGD, while much of the investable universe is priced in USD or other currencies. SGD has been structurally strong over many periods, helped by MAS policy and Singapore's institutional balance sheet. That supports local spending and regional arbitrage. It is also a bet on Singapore continuing to be Singapore.
+Currency cuts both ways too. A Singapore-dollar retiree spends in SGD, while much of the investable universe is priced in USD or other currencies. SGD has been structurally strong over many periods, helped by MAS policy and Singapore's institutional balance sheet. That supports local spending and gives the household some regional spending flexibility. It is also a bet on Singapore continuing to be Singapore.
 
 Then there is horizon. Bengen's question was thirty years. Early FI may require forty, fifty, or sixty years of support. There are not many clean historical windows that long, and the future may not rhyme politely with the American backtest.
 
-So Singapore gives useful advantages: CPF, low taxes, strong currency history, and optional geographic arbitrage. Early FI takes some of that back through a longer horizon and lower liquidity before CPF access.
+So Singapore gives useful advantages: CPF, low taxes, strong currency history, and some flexibility over where parts of future spending happen. Early FI takes some of that back through a longer horizon and lower liquidity before CPF access.
 
-My response is not to throw away the four percent rule. It is to use 3.5 percent.
+My response is to keep the four percent rule as a reference point and use 3.5 percent as the working number.
 
 ## Three Point Five, Not Four
 
@@ -89,7 +89,7 @@ It is the half-percent margin I want for the household this book is written for:
 
 The cost is visible. A household spending S$60,000 a year needs S$1.5 million at four percent. At 3.5 percent, it needs about S$1.71 million.
 
-That is not a rounding error. It is also not a doubling. It is a premium paid for a less brittle plan.
+That is not a rounding error, but it is not a doubling either. It is a premium paid for a less brittle plan.
 
 Around that number, two accounting habits are more useful than arguing over the second decimal place.
 
@@ -113,7 +113,7 @@ Use something else only if you can explain why: a shorter horizon, a guaranteed 
 
 That gives one side of the FI equation a hard number.
 
-The other side - annual spending - is still pretending to be a constant. It is not. The same Singaporean household at the same income level can spend S$120,000 a year or S$48,000 a year depending entirely on which version of Singapore it has chosen to buy. A condo-and-car life produces one number. An HDB-and-public-transport life produces a very different one.
+The other side — annual spending — still looks like a constant in the formula. In real life, it moves. The same Singaporean household at the same income level can spend S$120,000 a year or S$48,000 a year depending entirely on which version of Singapore it has chosen to buy. A condo-and-car life produces one number. An HDB-and-public-transport life produces a very different one.
 
 Three point five percent gives the formula a working rate. The next question is Singapore-specific: what belongs inside the FI asset base, what stays locked away, and when the system starts paying you back. That is [Chapter 5: CPF Is Not One Thing](chapter-05.md).
 
