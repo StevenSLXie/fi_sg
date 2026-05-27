@@ -64,7 +64,7 @@ Over eight years, S$70,000 a year — counting cash, CPF, and mortgage principal
 
 Start work at 25 — realistic for graduates once national service and any postgrad time are factored in — and by 33 they own a paid-off flat outright with about S$250,000 in financial assets alongside.
 
-Once the five-year MOP clears for that Standard flat, they apply to rent out the whole flat and live somewhere cheaper. That rental step is subject to HDB eligibility and approval, and only Singapore Citizen flat owners may rent out an entire HDB flat.[4](#note-4) The point is not "move to JB." The point is that where income is earned and where retirement spending happens do not have to be the same.
+After the MOP, if the rules allow, they rent out the flat and live somewhere cheaper.[4](#note-4) The point is not "move to JB." The point is that where income is earned and where retirement spending happens do not have to be the same.
 
 HDB 3-room whole-flat median rents in 1Q2026 commonly sat in the high S$2,000s. Use S$2,700 as a rough gross rent, then remember that tax, vacancy, repairs, and agent fees reduce the net.[5](#note-5) Translated into a lower-cost spending base, even the reduced number supports a very different lifestyle from the same number spent inside Singapore.
 
