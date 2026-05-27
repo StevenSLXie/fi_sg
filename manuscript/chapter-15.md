@@ -16,7 +16,7 @@ Singapore has enough public data and CPF rules to keep the FI number from becomi
 
 The cleanest starting point is cash spending.
 
-The 2023 Household Expenditure Survey reported average resident household expenditure of S$5,931 a month excluding imputed owner-occupied rent.[1](#note-1) That exclusion matters. Imputed rent is useful for national statistics, but nobody pays an imaginary landlord from a retirement account.
+The 2023 Household Expenditure Survey (HES) reported average resident household expenditure of S$5,931 a month excluding imputed owner-occupied rent.[1](#note-1) That exclusion matters. Imputed rent is useful for national statistics, but nobody pays an imaginary landlord from a retirement account.
 
 For FI planning, the better question is cash leaving the household.
 
@@ -69,25 +69,21 @@ If the floor is high, the household must either earn more, work longer, accept m
 
 That is why the denominator mattered before the portfolio did.
 
-## Singapore Has Two Clocks
+## The Bridge Before CPF
 
-The first clock is the liquid clock.
+The table gives an FI asset base. It does not say that every dollar can be locked until age sixty-five.
 
-It runs from the day work becomes optional to the day CPF can meaningfully pay the household. If someone reaches FI at thirty-five, the liquid clock is long. CPF wealth is real, but it is not next month's grocery money.
+That distinction matters most for young FI. If a thirty-five-year-old single spends S$3,000 a month, the table points to about S$1 million. But the first thirty years of that plan run before CPF LIFE. CPF balances are real wealth, yet they cannot pay the electricity bill at thirty-six.
 
-The second clock is the CPF clock.
+So the early-FI question is narrower than the headline number: how much of the FI base is actually liquid enough to fund the years before CPF payouts begin?
 
-At fifty-five, the Retirement Account is created. For members turning fifty-five in 2026, the Basic, Full, and Enhanced Retirement Sums are S$110,200, S$220,400, and S$440,800.[9](#note-9) CPF LIFE payouts can start from sixty-five, or later up to seventy. CPF's own estimates for the CPF LIFE Standard Plan show about S$950 a month at the Basic Retirement Sum, S$1,780 at the Full Retirement Sum, and S$3,440 at the Enhanced Retirement Sum for that 2026 cohort.[9](#note-9)
+CPF changes the later years. At fifty-five, the Retirement Account is created. For members turning fifty-five in 2026, the Basic, Full, and Enhanced Retirement Sums are S$110,200, S$220,400, and S$440,800.[9](#note-9) CPF LIFE payouts can start from sixty-five, or later up to seventy. CPF's own estimates for the CPF LIFE Standard Plan show about S$950 a month at the Basic Retirement Sum, S$1,780 at the Full Retirement Sum, and S$3,440 at the Enhanced Retirement Sum for that 2026 cohort.[9](#note-9)
 
-These figures will change for future cohorts. The mechanism is the point.
+For a sixty-year-old, those numbers are close enough to change the plan. For a thirty-five-year-old, they are a later floor, not the current bridge.
 
-CPF is real wealth with gates. At thirty-five, it cannot buy next month's groceries.
+The bridge can come from a diversified liquid portfolio. It does not have to come from dividends; selling units from a total-return portfolio is also cashflow. But the portfolio has to be large and resilient enough that a bad market does not force panic selling or a return to work at exactly the wrong moment.
 
-For a young FI household, the question is whether the liquid portfolio can bridge the years before CPF joins the cash-flow stack. A household with enough diversified liquid assets can fund that bridge by selling a portion of the portfolio each year. Dividends are not required. A total-return portfolio can produce cash by selling units.
-
-Selling 3.5 percent a year from a large diversified portfolio is not the same as selling whatever is needed from a small concentrated portfolio after a crash. The bridge needs margin: a cash buffer, spending flexibility, and a portfolio that can survive bad sequence-of-returns years without forcing panic sales or a humiliating return to work at exactly the wrong moment.
-
-The CPF clock reduces late-life pressure. It does not remove the need for a bridge.
+This is the practical split: liquid assets fund the bridge; CPF lowers the late-life draw. The earlier the FI date, the more the bridge matters.
 
 ## The Same Number Is Not The Same Plan
 
