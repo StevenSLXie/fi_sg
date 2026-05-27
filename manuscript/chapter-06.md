@@ -72,7 +72,7 @@ Fee caps matter too. Anchor Operator preschools exist because the state does not
 
 Then there is the Baby Bonus system. The Child Development Account begins with a First Step Grant, and the government co-matches parental savings up to a cap. For the first child, the current structure provides a S$5,000 First Step Grant and up to S$4,000 of government co-matching.[6](#note-6) The amounts rise for later children. The CDA is a child-linked account for approved uses rather than general cash. That is exactly the point. The state is helping fund the child bill.
 
-The same logic appears on the tax side. Child-related reliefs and rebates can materially reduce tax for eligible parents, especially when a working mother qualifies for Singapore Citizen child reliefs. The mechanics are detailed — Qualifying Child Relief, Working Mother's Child Relief, Parenthood Tax Rebate, per-child caps, and the overall S$80,000 personal relief cap all interact — but the household point is simple: the tax system recognises part of the child bill.[7](#note-7)
+The same logic appears on the tax side. Child-related reliefs and rebates can materially reduce tax for eligible parents, especially in households with Singapore Citizen children and a working mother who qualifies for Working Mother's Child Relief. The mechanics are detailed — Qualifying Child Relief, Working Mother's Child Relief, Parenthood Tax Rebate, per-child caps, and the overall S$80,000 personal relief cap all interact — but the household point is simple: the tax system recognises part of the child bill.[7](#note-7)
 
 There are conditions. The details change by child order, citizenship, birth or adoption date, marital status, income, and year. This paragraph maps the mechanism; it is not tax advice.
 
