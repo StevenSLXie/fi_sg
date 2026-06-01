@@ -1,6 +1,6 @@
 # Work After FI
 
-> **Navigation:** [← What Can Go Wrong?](chapter-16.md) · [Contents](../SUMMARY.md) · Next: forthcoming
+> **Navigation:** [← What Can Go Wrong?](chapter-16.md) · [Contents](../SUMMARY.md) · [The Life You Bought Back →](chapter-18.md)
 
 The internet version of financial independence has a clean final scene.
 
@@ -115,7 +115,7 @@ The goal was to stop being owned.
 Once work is optional, the final question becomes harder and more personal: what is the bought-back time for?
 
 ---
-**Navigation:** [← What Can Go Wrong?](chapter-16.md) · [Contents](../SUMMARY.md) · Next: forthcoming
+**Navigation:** [← What Can Go Wrong?](chapter-16.md) · [Contents](../SUMMARY.md) · [The Life You Bought Back →](chapter-18.md)
 
 ## Notes
 

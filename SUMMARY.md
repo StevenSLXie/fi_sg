@@ -1,6 +1,6 @@
 # Table of Contents
 
-> [Introduction](README.md) · [Start reading Chapter 1](manuscript/chapter-01.md) · [Latest chapter](manuscript/chapter-17.md)
+> [Introduction](README.md) · [Start reading Chapter 1](manuscript/chapter-01.md) · [Latest chapter](manuscript/chapter-18.md)
 
 This is the full reading route for *The Version of Singapore You Buy*. Each chapter is a standalone Markdown file with previous / next navigation at the top and bottom.
 
@@ -48,10 +48,11 @@ The fourth part invests the surplus only after the household has produced it.
 
 ## Part V: Making It Hold
 
-The fifth part turns the investment machine back into a household plan: enough, bad years, and work after salary is no longer compulsory.
+The fifth part turns the investment machine back into a household plan: enough, bad years, work after salary is no longer compulsory, and the life that freedom buys back.
 
 | Chapter | Job |
 |---|---|
 | [15. How Much Is Enough?](manuscript/chapter-15.md) | Turns spending, CPF timing, and liquidity into a Singapore-specific FI dashboard. |
 | [16. What Can Go Wrong?](manuscript/chapter-16.md) | Turns market, Singapore-system, family, and liquidity risks into concrete levers instead of vague anxiety. |
 | [17. Work After FI](manuscript/chapter-17.md) | Shows how work changes when employment income is optional rather than compulsory. |
+| [18. The Life You Bought Back](manuscript/chapter-18.md) | Closes the book by showing what the FI machine is meant to buy: time, choice, learning, and a life that does not need to perform wealth. |
