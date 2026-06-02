@@ -1,6 +1,6 @@
 # When Work Becomes Optional
 
-> **Navigation:** [← Home](../README.md) · [Contents](../SUMMARY.md) · [Two Graduates, One Spreadsheet →](chapter-02.md)
+> **Navigation:** [← Introduction](../README.md) · [Contents](../SUMMARY.md) · [Two Graduates, One Spreadsheet →](chapter-02.md)
 
 "I have children. How can I retire?"
 
@@ -103,7 +103,7 @@ This chapter changed the question from *when am I allowed to retire* to *when do
 [Chapter 2: Two Graduates, One Spreadsheet](chapter-02.md)
 
 ---
-**Navigation:** [← Home](../README.md) · [Contents](../SUMMARY.md) · [Two Graduates, One Spreadsheet →](chapter-02.md)
+**Navigation:** [← Introduction](../README.md) · [Contents](../SUMMARY.md) · [Two Graduates, One Spreadsheet →](chapter-02.md)
 
 ## Notes
 
