@@ -1,78 +1,104 @@
-# The Version of Singapore You Buy
+# Work Optional: A Singapore Guide to Financial Independence
 
-> **Read the book:** [Start with Chapter 1](manuscript/chapter-01.md) · [Full table of contents](SUMMARY.md) · [Latest chapter](manuscript/chapter-18.md)
+> A Singapore-specific book about making paid work optional through household math, low fixed costs, CPF/HDB awareness, boring investing, and enough margin for bad years.
 
-On the last day of every month, I do something extremely primitive.
+[Start reading](manuscript/chapter-01.md) · [Table of contents](SUMMARY.md) · [Latest chapter](manuscript/chapter-18.md)
 
-I open our bank statements and credit-card bills and read them line by line: salary, CPF, mortgage, school fees, groceries, insurance. Some months I catch something that should not be there — most often a bank's annual fee, levied with the discreet confidence of an institution hoping nobody was reading carefully. Then I add up the few numbers that matter: savings rate, assets, liabilities, and how close we are to financial independence. After that, the spreadsheet can go back to sleep until next month.
+**Status:** full English draft complete · **Length:** 18 chapters · **Format:** Markdown book · **Topic:** financial independence in Singapore
 
-I have done this every month since July 2022. About an hour a month, for almost four years. The household reports to itself.
+## What This Is
 
-A family, in my view, should be run a little like a listed company. Children do not need to issue quarterly earnings guidance, though some parents in Singapore seem to be working toward that outcome. The useful similarity is simpler: a household, like a company, has income, expenses, and a balance sheet. If a company does not know its margins, we call that bad management. If a family does not know its savings rate, we call that normal life.
+This is a book about financial independence in Singapore.
 
-Doing this for four years produced two surprises.
+Not the American FIRE story with Singapore examples pasted in. Not an investment manual. Not a guide to quitting work and doing nothing. The central question is narrower and more useful:
 
-The first was about savings rate. Take a Singaporean couple earning a combined S$10,000 a month, spending every dollar that lands in their bank account. CPF still moves about S$3,700 into their household savings each month — S$2,000 deducted from their paycheques, plus S$1,700 contributed by their employers on top. More than a third of their gross pay is set aside on autopilot, before they have done anything deliberate.[1](#note-1)
+> What would it take for a Singapore household to make work optional?
 
-The second surprise was more interesting. Ordinary life in Singapore was not as expensive as the national conversation made it sound — but only because we were buying a different version of Singapore.
+The answer is not one magic number. It is a stack:
 
-Our dining-out spending — restaurants, food courts, kopitiams combined — runs S$150 to S$300 a month. Almost every other meal is cooked at home from supermarket groceries, about S$800-1200 a month. We have no recurring fitness subscription. I clean our air-conditioners myself when I can. Most importantly, we do not live in a condo.
+- know the household's real spending;
+- keep fixed costs low enough that freedom stays reachable;
+- use Singapore's CPF, HDB, tax, currency, school, and healthcare systems without pretending they are risk-free;
+- invest the surplus in a boring, diversified way;
+- build enough margin that a bad year does not force the household back into panic.
 
-We are also not monks. We have two children. We travel three or four times a year, though never to luxury hotels. We own a car, bought when COE was much cheaper. We live in a five-room HDB flat that is, inconveniently for the condo narrative, larger than many new private apartments.
+The point is not to make life small. It is to stop buying the expensive version of Singapore by default.
 
-The point is not to spend nothing. The point is to stop buying the full middle-class package by default.
+## Start Here
 
-A condo is not just a home; it is a home wrapped in an investment story and a monthly facilities bill. A restaurant is not just dinner; it is food plus rent, labour, and a temporary vacation from doing dishes. Some of these bundles are worth buying. Many are not. The danger is letting recurring costs become identity. A high salary is not wealth. It is a fast conveyor belt. You can put assets on it, or you can put lifestyle on it.
+If you are new to the book, read in order:
 
-A surprising share of what middle-class households call cost of living in Singapore is actually cost of identity.
+1. [When Work Becomes Optional](manuscript/chapter-01.md)
+2. [Two Graduates, One Spreadsheet](manuscript/chapter-02.md)
+3. [What Gets Measured Gets Retired](manuscript/chapter-03.md)
+4. [Four Percent of What?](manuscript/chapter-04.md)
 
-Take the two surprises together — the system already saves on your behalf, and the expensive Singapore is largely optional — and a bigger question opens up. If a household can keep most of what it earns, how far can the same arithmetic be pushed?
+Those four chapters set up the math: FI means work becomes optional, savings rate drives the accumulation years, bookkeeping keeps the household honest, and 3.5 percent gives the book a working withdrawal-rate gauge.
 
-This book pushes it to full financial independence in Singapore — not "I can work part-time at a cafe," not "I can survive a layoff for a year." Those are useful buffers. Full FI means employment income is no longer required to support the life you choose.
+## Reading Route
 
-FI is not a single number. People draw the line differently — what to count as wealth, what to exclude, which withdrawal rate to assume. My own working test is conservative: it counts CPF as wealth, excludes the home you live in, and asks whether 3.5 percent of the rest covers annual spending. The 4 percent rule is more famous; I use 3.5 on purpose. We will get to the math.
+| Part | Chapters | Job |
+|---|---:|---|
+| **I. The Math** | [1](manuscript/chapter-01.md)-[4](manuscript/chapter-04.md) | Define FI, savings rate, bookkeeping, and the withdrawal-rate gauge. |
+| **II. The Singapore Stack** | [5](manuscript/chapter-05.md)-[8](manuscript/chapter-08.md) | Explain CPF, taxes, SGD, and HDB as mechanisms that shape the FI path. |
+| **III. The Cost Floor** | [9](manuscript/chapter-09.md)-[12](manuscript/chapter-12.md) | Price the recurring household choices that make FI easier or harder. |
+| **IV. The Investing Machine** | [13](manuscript/chapter-13.md)-[14](manuscript/chapter-14.md) | Put the surplus into a boring investment system, then separate index exposure from fund wrapper. |
+| **V. Making It Hold** | [15](manuscript/chapter-15.md)-[18](manuscript/chapter-18.md) | Turn the machine into a household plan: enough, risk, work after FI, and the life bought back. |
 
-The answer also depends on where the spending actually happens. A household that expects every future dollar to be spent inside Singapore is solving a different problem from one with some location flexibility.
+For the full chapter list, use the [table of contents](SUMMARY.md).
 
-Whatever formula you settle on, Singapore is unusually good for it — if you buy the right version of Singapore. Low income tax keeps more of what you earn. CPF — annoying, and that is also why it works — locks part of what's left into housing, retirement, and medical assets before lifestyle can claim it. HDB, for eligible BTO buyers, lowers the largest fixed cost in most lives. The rest we will get to. Together, they make up the Singapore FI stack.
+## Core Ideas
 
-I am writing this as a married father of two, eleven years into working life, with our household about 53 percent of the way to full FI by that conservative formula. That number is not a boast. It is the vantage point of the book: still inside the system, far enough along for the mechanics to matter.
+**Work optional, not idle.**
+FI is not a promise that life becomes a permanent holiday. It means employment income no longer has the final vote.
 
-This book is not an investment manual, a call to extreme frugality, or a promise that everyone can retire at thirty-five. Investing is where the surplus goes, not where the surplus is created. Frugality, done right, is the art of refusing low-value expenses before they become structural. And "Retire Early" is the marketing department. Financial Independence is the operating system.
+**Savings rate before investment brilliance.**
+Investing matters, but the first twelve chapters are about producing the surplus. The boring machine only works after the household has something to feed it.
 
-The book follows the build order: math first, then the Singapore stack, then the cost floor, then investing, then the question of enough, risk, and work after FI. The point is not to make life small. It is to turn expensive defaults back into choices.
+**Housing is the big lever.**
+For most Singapore households, the home is the largest balance-sheet object and the largest fixed-cost decision. HDB can be a shortcut. A condo can be a good home. Neither should be confused with liquid FI assets.
 
-Here is the route through the argument. The same chapter list is also available as a compact [table of contents](SUMMARY.md).
+**CPF is wealth with gates.**
+CPF matters, but timing matters too. A young household needs a liquid bridge before CPF can meaningfully pay the bills.
 
-## Table of Contents
+**The expensive Singapore is partly optional.**
+Some costs are real. Others are status bundles, convenience subscriptions, or anxiety spending. The book tries to separate the two.
 
-| Part | Chapter | Job |
-|---|---|---|
-| I. The Math | [1. When Work Becomes Optional](manuscript/chapter-01.md) | Defines FI as optionality, not a retirement age. |
-| I. The Math | [2. Two Graduates, One Spreadsheet](manuscript/chapter-02.md) | Shows why savings rate beats investment cleverness in the accumulation years. |
-| I. The Math | [3. What Gets Measured Gets Retired](manuscript/chapter-03.md) | Turns the household into a measurable balance sheet. |
-| I. The Math | [4. Four Percent of What?](manuscript/chapter-04.md) | Sets the withdrawal-rate gauge and explains why this book uses 3.5 percent. |
-| II. The Singapore Stack | [5. CPF Is Not One Thing](manuscript/chapter-05.md) | Separates CPF wealth from CPF liquidity. |
-| II. The Singapore Stack | [6. Low Taxes Are a Feature](manuscript/chapter-06.md) | Explains how more income survives before lifestyle gets a vote. |
-| II. The Singapore Stack | [7. The Strong Dollar Under Your Feet](manuscript/chapter-07.md) | Adds currency strength and spending flexibility to the stack. |
-| II. The Singapore Stack | [8. HDB Is the Shortcut](manuscript/chapter-08.md) | Shows how housing can lower the floor, with gates attached. |
-| III. The Cost Floor | [9. Why We Left the Condo](manuscript/chapter-09.md) | Prices private housing as a bundle of home, status, leverage, and fixed costs. |
-| III. The Cost Floor | [10. The First Convenience Tax](manuscript/chapter-10.md) | Turns food into a cost ladder: home cooking, hawker centres, food courts, and restaurants buy different amounts of convenience. |
-| III. The Cost Floor | [11. The Renaissance Household](manuscript/chapter-11.md) | Shows how practical competence lowers dependence on vendors and keeps convenience from becoming a fixed cost. |
-| III. The Cost Floor | [12. Children Are Not the FI Killer](manuscript/chapter-12.md) | Separates unavoidable child costs from optional education anxiety and status spending. |
-| IV. The Investing Machine | [13. Investing Is the Easy Part](manuscript/chapter-13.md) | Turns the surplus into a boring, low-cost, automated investment system instead of a heroic stock-picking project. |
-| IV. The Investing Machine | [14. The Index Is Not the Product](manuscript/chapter-14.md) | Separates the index exposure from the fund wrapper that changes tax, estate, liquidity, and administration outcomes. |
-| V. Making It Hold | [15. How Much Is Enough?](manuscript/chapter-15.md) | Turns spending, CPF timing, and liquidity into a Singapore-specific FI dashboard. |
-| V. Making It Hold | [16. What Can Go Wrong?](manuscript/chapter-16.md) | Turns market, Singapore-system, family, and liquidity risks into concrete levers instead of vague anxiety. |
-| V. Making It Hold | [17. Work After FI](manuscript/chapter-17.md) | Shows how work changes when employment income is optional rather than compulsory. |
-| V. Making It Hold | [18. The Life You Bought Back](manuscript/chapter-18.md) | Closes the book by showing what the FI machine is meant to buy: time, choice, learning, and a life that does not need to perform wealth. |
+## What This Is Not
 
-If there is a single sentence behind this book, it is the oldest one in personal finance: live below your means. It has no app, no affiliate link, no chart, no heroic promise. But almost everything in this book is an expansion of it. Build a life whose cost does not grow automatically with income, status, fear, and convenience. Understand the system well enough to keep more of what you earn. Don't turn future freedom into present obligations.
+- Not a broker, ETF, ticker, or tax-wrapper playbook.
+- Not a promise that every household can retire at thirty-five.
+- Not a call for extreme frugality.
+- Not a geography-arbitrage book.
+- Not a claim that Singapore is always cheap, safe, or guaranteed to stay exceptional.
 
-Singapore can be an expensive place to live. It can also be an unusually good place to become free.
+It is a practical framework for asking better household questions: how much do we spend, what keeps that number high, what assets are actually liquid, what risks can still move, and what would we do with the time if work became optional?
 
-The difference begins with knowing your numbers. Start with [Chapter 1: When Work Becomes Optional](manuscript/chapter-01.md).
+## Current Title
 
-## Notes
+**Work Optional: A Singapore Guide to Financial Independence**
 
-<a id="note-1"></a>[1] CPF contribution illustration uses the 2026 employee and employer contribution rates for a Singapore Citizen or third-year Permanent Resident aged 55 and below, up to the Ordinary Wage ceiling. CPF Board, [How much CPF contributions to pay](https://www.cpf.gov.sg/employer/employer-obligations/how-much-cpf-contributions-to-pay).
+Earlier working title: **The Version of Singapore You Buy**. That idea still runs through the manuscript: Singapore is not one price. The household keeps choosing which version it buys.
+
+## Book Map
+
+| Chapter | Title | Job |
+|---:|---|---|
+| 1 | [When Work Becomes Optional](manuscript/chapter-01.md) | Defines FI as optionality, not a retirement age. |
+| 2 | [Two Graduates, One Spreadsheet](manuscript/chapter-02.md) | Shows why savings rate beats investment cleverness in the accumulation years. |
+| 3 | [What Gets Measured Gets Retired](manuscript/chapter-03.md) | Turns the household into a measurable balance sheet. |
+| 4 | [Four Percent of What?](manuscript/chapter-04.md) | Sets the withdrawal-rate gauge and explains why this book uses 3.5 percent. |
+| 5 | [CPF Is Not One Thing](manuscript/chapter-05.md) | Separates CPF wealth from CPF liquidity. |
+| 6 | [Low Taxes Are a Feature](manuscript/chapter-06.md) | Explains how more income survives before lifestyle gets a vote. |
+| 7 | [The Strong Dollar Under Your Feet](manuscript/chapter-07.md) | Adds currency strength and spending flexibility to the stack. |
+| 8 | [HDB Is the Shortcut](manuscript/chapter-08.md) | Shows how housing can lower the floor, with gates attached. |
+| 9 | [Why We Left the Condo](manuscript/chapter-09.md) | Prices private housing as home, status, leverage, and fixed cost. |
+| 10 | [The First Convenience Tax](manuscript/chapter-10.md) | Turns food into a cost ladder. |
+| 11 | [The Renaissance Household](manuscript/chapter-11.md) | Shows how practical competence lowers dependence on vendors. |
+| 12 | [Children Are Not the FI Killer](manuscript/chapter-12.md) | Separates unavoidable child costs from education anxiety. |
+| 13 | [Investing Is the Easy Part](manuscript/chapter-13.md) | Turns surplus into a boring, low-cost investment system. |
+| 14 | [The Index Is Not the Product](manuscript/chapter-14.md) | Separates index exposure from fund wrapper. |
+| 15 | [How Much Is Enough?](manuscript/chapter-15.md) | Builds a Singapore-specific FI dashboard. |
+| 16 | [What Can Go Wrong?](manuscript/chapter-16.md) | Turns risks into levers instead of vague anxiety. |
+| 17 | [Work After FI](manuscript/chapter-17.md) | Shows how work changes when income is optional. |
+| 18 | [The Life You Bought Back](manuscript/chapter-18.md) | Closes the book with time, learning, and the life FI is meant to buy. |

@@ -1,8 +1,8 @@
 # Table of Contents
 
-> [Introduction](README.md) · [Start reading Chapter 1](manuscript/chapter-01.md) · [Latest chapter](manuscript/chapter-18.md)
+> [Home](README.md) · [Start reading Chapter 1](manuscript/chapter-01.md) · [Latest chapter](manuscript/chapter-18.md)
 
-This is the full reading route for *The Version of Singapore You Buy*. Each chapter is a standalone Markdown file with previous / next navigation at the top and bottom.
+This is the full reading route for *Work Optional: A Singapore Guide to Financial Independence*. Each chapter is a standalone Markdown file with previous / next navigation at the top and bottom.
 
 ## Part I: The Math
 
