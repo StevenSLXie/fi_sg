@@ -74,11 +74,11 @@ Some costs are real. Others are status bundles, convenience subscriptions, or an
 
 It is a practical framework for asking better household questions: how much do we spend, what keeps that number high, what assets are actually liquid, what risks can still move, and what would we do with the time if work became optional?
 
-## Current Title
+## Core Thesis
 
-**Work Optional: A Singapore Guide to Financial Independence**
+Singapore is not one price.
 
-Earlier working title: **The Version of Singapore You Buy**. That idea still runs through the manuscript: Singapore is not one price. The household keeps choosing which version it buys.
+The household keeps choosing which version it buys: the housing version, the food version, the school-anxiety version, the investing version, the work version. Financial independence becomes possible when those choices stop happening by default.
 
 ## Book Map
 
