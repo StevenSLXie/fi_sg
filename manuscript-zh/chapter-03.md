@@ -1,6 +1,6 @@
 # 记账不是做账
 
-> **导航：** [← 第二章：两个毕业生，一张表](chapter-02.md) · [目录（英文）](../SUMMARY.md) · [第四章：Four Percent of What?（英文） →](../manuscript/chapter-04.md)
+> **导航：** [← 第二章：两个毕业生，一张表](chapter-02.md) · [目录（英文）](../SUMMARY.md) · [第四章：4% 到底是什么 →](chapter-04.md)
 
 记账不难，难在坚持。
 
@@ -191,10 +191,10 @@ net worth 告诉你有多少财富。FI 分子告诉你，能不能靠这些资�
 
 家庭不需要完美会计。它需要的是足够诚实、能够改变决策，而且简单到能坚持下去的记账。
 
-下一章就进入那个著名问题：资产和开支都量清楚以后，到底每年能取多少？这就是 [第四章：Four Percent of What?](../manuscript/chapter-04.md)。
+下一章就进入那个著名问题：资产和开支都量清楚以后，到底每年能取多少？这就是 [第四章：4% 到底是什么](chapter-04.md)。
 
 ---
-**导航：** [← 第二章：两个毕业生，一张表](chapter-02.md) · [目录（英文）](../SUMMARY.md) · [第四章：Four Percent of What?（英文） →](../manuscript/chapter-04.md)
+**导航：** [← 第二章：两个毕业生，一张表](chapter-02.md) · [目录（英文）](../SUMMARY.md) · [第四章：4% 到底是什么 →](chapter-04.md)
 
 ## 注释
 
