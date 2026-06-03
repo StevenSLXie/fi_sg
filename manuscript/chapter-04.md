@@ -2,29 +2,27 @@
 
 > **Navigation:** [← What Gets Measured Gets Retired](chapter-03.md) · [Contents](../SUMMARY.md) · [CPF Is Not One Thing →](chapter-05.md)
 
-Imagine running a modern retirement test on someone who stopped work on the first of January, 1966.
+The four percent rule has a specific history. It usually traces to William Bengen's 1994 paper, "Determining Withdrawal Rates Using Historical Data." Bengen tested U.S. market history and asked a narrow question: across historical thirty-year retirements, what first-year withdrawal rate survived if the dollar withdrawal was raised with inflation each year?[1](#note-1)
 
-She begins with one million U.S. dollars, all of it in the S&P 500. She withdraws four percent in the first year and raises the withdrawal with inflation after that. The plan is meant to last thirty years.
+The answer was about four percent. More precisely, Bengen's original work pointed to a safe first-year withdrawal rate a little above four, and the world rounded it into a rule.
 
-The test below differs from Bengen's original portfolio. It is a deliberately simple all-equity pressure test.
+This does not make four percent a law of nature. It is a historical U.S. result, built around U.S. assets, U.S. inflation, a thirty-year retirement, and a specific withdrawal method.
 
-The next decade is unkind. Stocks disappoint. Inflation rises. The portfolio is forced to sell too much, too early, at too little real value. The long bull market eventually arrives in 1982, but by then the damage has been done. The market recovers. The retiree's base has not.
+This book uses 3.5 percent.
 
-This is the chapter where Chapter 3's final question gets an answer. Once a household measures its assets and spending honestly, what withdrawal rate should it use?
-
-For this book, the answer is 3.5 percent.
+The reason is direct: in the simple stress test later in this chapter, four percent fails in some bad historical starts, while 3.5 percent survives that test. That does not prove 3.5 percent is safe forever. It is not a theorem. It is a cautious working number for a Singapore household trying to make work optional early, with CPF gates, SGD spending, and a retirement horizon that may be longer than thirty years.
 
 ## What Four Percent Means
 
-The four percent rule comes from William Bengen's 1994 paper, "Determining Withdrawal Rates Using Historical Data." Bengen tested U.S. market history and asked a narrow question: across historical thirty-year retirements, what first-year withdrawal rate survived if the dollar withdrawal was raised with inflation each year?[1](#note-1)
-
-The answer was about four percent. More precisely, Bengen's original work pointed to a safe first-year withdrawal rate a little above four, and the world rounded it into a rule.
+First, the arithmetic.
 
 For our purposes, define the withdrawal rate like this:
 
 `first-year withdrawal / FI asset base`
 
 If a household has a S$1 million FI asset base and withdraws S$40,000 in the first year, the starting withdrawal rate is four percent. If the household wants S$40,000 at 3.5 percent, it needs about S$1.14 million.
+
+The rule does not mean withdrawing four percent of whatever remains every year. It means setting the first withdrawal, then raising that dollar amount with inflation. That is why a bad first decade matters.
 
 Here is the vocabulary for the rest of the book.
 
@@ -34,9 +32,7 @@ Here is the vocabulary for the rest of the book.
 
 **Liquid bridge** is the subset available before CPF gates and CPF LIFE payouts. Chapter 3 called the FI asset base the numerator. This chapter gives it a name.
 
-The definition is simple. The difficulty is choosing the number. Four percent is not magic. It is a U.S. historical result built around a thirty-year retirement, U.S. assets, U.S. inflation, and inflation-adjusted withdrawals. A Singapore household pursuing early FI has a different problem. The horizon may be longer, spending is in SGD, CPF sits in the background, and the portfolio may be global rather than purely American.
-
-So I use four percent as the famous reference point, then make the book's working rule stricter.
+The definition is simple. The difficulty is choosing the number. Four percent is the reference point. For a Singapore household pursuing early FI, I make the working rule stricter.
 
 ## The Bad Start
 
@@ -109,7 +105,7 @@ For the rest of this book, use 3.5 percent:
 
 `FI asset base x 0.035 / annual spending`
 
-At 50 percent, the FI asset base can theoretically support half the household's annual spending under this assumption. At 100 percent, employment income has become optional.
+At 50 percent, the FI asset base can theoretically support half the household's annual spending under this working assumption. At 100 percent, employment income has become optional.
 
 Use something else only if you can explain why: a shorter horizon, a guaranteed pension stream, unusual spending flexibility, or a deliberately different portfolio. If you cannot explain why your number is different, your number is 3.5 percent.
 
