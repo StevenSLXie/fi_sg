@@ -1,6 +1,6 @@
 # 两个毕业生，一张表
 
-> **导航：** [← 第一章：当工作变成可选项](chapter-01.md) · [目录（英文）](../SUMMARY.md) · [第三章：What Gets Measured Gets Retired（英文） →](../manuscript/chapter-03.md)
+> **导航：** [← 第一章：当工作变成可选项](chapter-01.md) · [目录（英文）](../SUMMARY.md) · [第三章：记账不是做账 →](chapter-03.md)
 
 假设有两个新加坡毕业生，同一年开始工作。A 进投行，月薪 S$9,000；B 进一份普通毕业生工作，月薪 S$4,500。八年后，谁更接近 FI？
 
@@ -132,10 +132,10 @@ A 收入高，也很容易过上高收入毕业生的生活。住得好一点，
 
 下一个问题是：如何测量它，而且不骗自己。
 
-[第三章：What Gets Measured Gets Retired（英文）](../manuscript/chapter-03.md)
+[第三章：记账不是做账](chapter-03.md)
 
 ---
-**导航：** [← 第一章：当工作变成可选项](chapter-01.md) · [目录（英文）](../SUMMARY.md) · [第三章：What Gets Measured Gets Retired（英文） →](../manuscript/chapter-03.md)
+**导航：** [← 第一章：当工作变成可选项](chapter-01.md) · [目录（英文）](../SUMMARY.md) · [第三章：记账不是做账 →](chapter-03.md)
 
 ## 注释
 
